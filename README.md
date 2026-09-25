@@ -22,10 +22,49 @@ Extract all tables using pdf plumber
 - Headers look like
 ` [['ID', 'Owner', 'Asset', 'Transaction\nType', 'Date', 'Notification\nDate', 'Amount', 'Cap.\nGains >\n$200?'],`
 - Get rid of rows full of blanks and Nones
-- All text before the first "(" can be the full name of a stock/financial investment
+- Look just for the rows with [ST], denoting a common stock purchase
+- All within parenthese can be the full name of a stock/financial investment
+    - (?<=\()[^)]+(?=\))
 - All text within parentheses is a stock ticker
 - Look for standalone "P" or "S" or "E" (purchase sale exchange)
 - Investment names that are multiple lines long are quite elusive
     - They might even be able to go across pages
     - Sometimes they format to the end of the line, sometimes they format with a \n right after
-- Text within brackets is an abbreivation of the asset type codes 
+- Text within brackets is an abbreivation of the asset type codes
+- Finding dollar binning:
+    - Look for the numbers (and commas within) after dollar signs
+- Dates:
+    - All Dates are MM/DD/YYYY
+    - Easy to read those, there should be two dates that can be the same, take both of them, make the earlier one "date of purchase" and the later one "date of notification"
+#### Nevermind, no matter what the data is too jumbled because politicians are sleezy
+NEW PLAN: Give an LLM the data and call it a day
+We are going to use Gemini Flash Lite 3.5 to check all PTR reports. It has PDF capabilities, and once I am sure that it 
+Prompt:
+```
+Your task is to parse a raw OCR text dump or table from a Congressional Periodic Transaction Report (PTR) and convert every transaction row into a strict JSON format.
+
+### Instructions:
+1. Extract every individual transaction row into the schema provided below.
+2. Handle jumbled, multi-line, or messy OCR text gracefully by mapping parts of the entry to their correct logical fields.
+3. If a custom or long description/note is provided by the filer to explain or obfuscate a transaction/account, capture it entirely in the optional "desc" field. If no extra description exists, leave it as an empty string ("").
+4. Output ONLY valid JSON matching the schema. No markdown wrapping outside the JSON block if possible, or standard markdown json code blocks.
+
+### JSON Schema Structure:
+{
+  "transactions": [
+    {
+      "own": "Owner code (e.g., SP, DC, or empty string)",
+      "ast": "Full asset or security name and ticker",
+      "code": "Asset type abbreviation from brackets (e.g., ST, GS)",
+      "typ": "Transaction type (e.g., P, S, S (partial))",
+      "dt": "Transaction date (MM/DD/YYYY)",
+      "ndt": "Notification date (MM/DD/YYYY)",
+      "amt": "Dollar amount range string",
+      "cg": boolean (true if Capital Gains > $200 box is checked, else false),
+      "stat": "Filing status (e.g., New)",
+      "sub": "Subholding account name/number",
+      "desc": "Optional extra text, notes, or descriptive text added by the filer"
+    }
+  ]
+}
+```
