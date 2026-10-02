@@ -1,0 +1,43 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Cummins Inc. (CMI)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "03/03/2023",
+      "ndt": "04/17/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Paramount Global - Class B (PARA)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "03/03/2023",
+      "ndt": "04/17/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Pfizer, Inc. (PFE)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "03/03/2023",
+      "ndt": "04/17/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

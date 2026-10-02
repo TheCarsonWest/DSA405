@@ -1,0 +1,43 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "DC GO BOND 4.0% JUN01 2036",
+      "code": "GS",
+      "typ": "S",
+      "dt": "05/13/2024",
+      "ndt": "05/20/2024",
+      "amt": "$50,001 - $100,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "MERRILL LYNCH #806",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "District of Columbia Wtr & Swr Ser C 5%Oct01 2039",
+      "code": "GS",
+      "typ": "S",
+      "dt": "05/13/2024",
+      "ndt": "05/20/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "MERRILL LYNCH #806",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "VA St Res Auth Infrastructure 8/14/2019 3 Pct 11/01/2036",
+      "code": "GS",
+      "typ": "S",
+      "dt": "05/13/2024",
+      "ndt": "05/20/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "MERRILL LYNCH #806",
+      "desc": ""
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "New Water Capital Partners II, LP (GLAS Funds, LP)",
+      "code": "HN",
+      "typ": "P",
+      "dt": "04/03/2025",
+      "ndt": "04/28/2025",
+      "amt": "$823.45",
+      "cg": false,
+      "stat": "New",
+      "sub": "2012 Trust",
+      "desc": "Capital Call for New Water Capital Partners II, LP (GLAS Funds LP)"
+    }
+  ]
+}

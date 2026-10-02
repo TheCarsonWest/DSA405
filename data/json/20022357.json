@@ -1,0 +1,108 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Accenture plc Class A Ordinary Shares (ACN)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "01/11/2023",
+      "ndt": "02/02/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley IRA - X141",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Diageo plc (DEO)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "01/05/2023",
+      "ndt": "02/02/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley IRA - X141",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Diageo plc (DEO)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "01/04/2023",
+      "ndt": "02/02/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley IRA - X141",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Fluor Corporation (FLR)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "01/05/2023",
+      "ndt": "02/02/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley IRA - X142",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Hudson Pacific Properties, Inc. (HPP)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "01/05/2023",
+      "ndt": "02/02/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley IRA - X142",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Johnson Controls International plc Ordinary Share (JCI)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "01/11/2023",
+      "ndt": "02/02/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley IRA - X141",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Northrop Grumman Corporation (NOC)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "01/04/2023",
+      "ndt": "02/02/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley IRA - X141",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Sherwin-Williams Company (SHW)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "01/11/2023",
+      "ndt": "02/02/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley IRA - X141",
+      "desc": ""
+    }
+  ]
+}

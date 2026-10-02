@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "Delta Air Lines, Inc. Common Stock (DAL)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "07/23/2024",
+      "ndt": "08/26/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Chris IRA",
+      "desc": ""
+    }
+  ]
+}

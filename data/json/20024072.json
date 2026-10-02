@@ -1,0 +1,95 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "Alliance Resource Partners, L.P. - Common Units Representing Limited Partnership Interests (ARLP)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "11/15/2023",
+      "ndt": "12/01/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "Arlington Asset Investment Corp 7.00% (AAIC$B)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "11/28/2023",
+      "ndt": "12/01/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "AT&T Inc. Depositary Shares, each representing a 1/1,000th interest in a share of 5.000% Perpetual Preferred Stock, Series A (T$A)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "11/02/2023",
+      "ndt": "12/01/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "Cross Timbers Royalty Trust (CRT)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "11/29/2023",
+      "ndt": "12/01/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "Cross Timbers Royalty Trust (CRT)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "11/28/2023",
+      "ndt": "12/01/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "FLEX LNG Ltd. Ordinary Shares (FLNG)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "11/28/2023",
+      "ndt": "12/01/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "USD Partners LP Common Units representing limited partner interest (USDP)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "11/10/2023",
+      "ndt": "12/01/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

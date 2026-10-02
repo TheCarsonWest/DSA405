@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Treasury Bill 4-Week (Matures 10/8/24)",
+      "code": "GS",
+      "typ": "P",
+      "dt": "09/10/2024",
+      "ndt": "09/10/2024",
+      "amt": "$50,001 - $100,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Treasury Direct",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Treasury Bill 6-Months (Matures 3/6/25)",
+      "code": "GS",
+      "typ": "P",
+      "dt": "09/05/2024",
+      "ndt": "09/05/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Treasury Direct",
+      "desc": ""
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "Fairfax Cnty VA Ser A Go 5% due 10/01/32",
+      "code": "GS",
+      "typ": "P",
+      "dt": "01/22/2025",
+      "ndt": "02/13/2025",
+      "amt": "$100,001 - $250,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Victoria Kelly Trust ICA",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "Florida St Heg Fin Corp Rev due 7/1/52",
+      "code": "GS",
+      "typ": "S (partial)",
+      "dt": "01/02/2025",
+      "ndt": "02/13/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Victoria Kelly Trust ICA",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "New York City NY Muni Wtr Fina 2nd General Rev Call 12/15/255% due 6/15/27",
+      "code": "GS",
+      "typ": "S (partial)",
+      "dt": "01/23/2025",
+      "ndt": "02/13/2025",
+      "amt": "$50,001 - $100,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Victoria Kelly Trust ICA",
+      "desc": ""
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "iShares MSCI Emerging Markets ex China ETF (EMXC)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "10/06/2023",
+      "ndt": "11/01/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "United IRA",
+      "desc": "Purchased 322 shares of the MSCI EM EX China Index ETF $ 15,963.51"
+    },
+    {
+      "own": "",
+      "ast": "iShares MSCI Emerging Markets ex China ETF (EMXC)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "10/06/2023",
+      "ndt": "11/01/2023",
+      "amt": "$50,001 - $100,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Matt Miller Investment Management Account",
+      "desc": "Purchased 1,290 shares of MSCI EM EX China Index ETF $63,953.17"
+    }
+  ]
+}

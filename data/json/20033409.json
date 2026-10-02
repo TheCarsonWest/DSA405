@@ -1,0 +1,56 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "McKesson Corporation Common Stock (MCK)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "10/08/2025",
+      "ndt": "11/04/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley IRA",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "Robinhood Markets, Inc. - Class A Common Stock (HOOD)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "10/08/2025",
+      "ndt": "11/04/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley Trust Account",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Shopify Inc. - Class A Subordinate Voting Shares (SHOP)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "10/08/2025",
+      "ndt": "11/04/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley IRA",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "Shopify Inc. - Class A Subordinate Voting Shares (SHOP)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "10/06/2025",
+      "ndt": "11/04/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley Trust Account",
+      "desc": ""
+    }
+  ]
+}

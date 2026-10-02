@@ -1,0 +1,43 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "AIX Ventures Fund II, LP (GLAS Funds, LP)",
+      "code": "HN",
+      "typ": "P",
+      "dt": "01/17/2025",
+      "ndt": "01/31/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "2012 Trust",
+      "desc": "Capital call for AIX Ventures Fund II, LP for $3,500"
+    },
+    {
+      "own": "",
+      "ast": "Alpine Investors IX, LP",
+      "code": "HN",
+      "typ": "P",
+      "dt": "01/29/2025",
+      "ndt": "01/31/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "2012 Trust",
+      "desc": "Alpine Investors IX, LP capital call of $1,039.72"
+    },
+    {
+      "own": "",
+      "ast": "RAC Opportunity Fund II, LP (GLAS Funds, LP)",
+      "code": "HN",
+      "typ": "P",
+      "dt": "01/27/2025",
+      "ndt": "01/31/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "2012 Trust",
+      "desc": "Capital call for RAC Opportunity Fund II, LP for $6,277.11"
+    }
+  ]
+}

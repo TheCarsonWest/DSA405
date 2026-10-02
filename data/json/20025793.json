@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "DC",
+      "ast": "Hecla Mining Company Common Stock (HL)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "08/09/2024",
+      "ndt": "08/13/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

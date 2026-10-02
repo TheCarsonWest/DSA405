@@ -1,0 +1,82 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Alphabet Inc. - Class C Capital Stock (GOOG)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "08/21/2024",
+      "ndt": "08/22/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Amazon.com, Inc. - Common Stock (AMZN)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "08/21/2024",
+      "ndt": "08/22/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "FedEx Corporation Common Stock (FDX)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "08/21/2024",
+      "ndt": "08/22/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Intel Corporation - Common Stock (INTC)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "08/21/2024",
+      "ndt": "08/22/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Kinder Morgan, Inc. Common Stock (KMI)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "08/21/2024",
+      "ndt": "08/22/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "NVIDIA Corporation - Common Stock (NVDA)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "08/21/2024",
+      "ndt": "08/22/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

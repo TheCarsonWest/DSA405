@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Atlanta GA Dev Auth Stdnt HSG",
+      "code": "GS",
+      "typ": "S",
+      "dt": "09/01/2023",
+      "ndt": "06/07/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Stifel",
+      "desc": ""
+    }
+  ]
+}

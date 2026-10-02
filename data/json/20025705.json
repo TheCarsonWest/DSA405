@@ -1,0 +1,43 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "Austin Tex Indpt SCH Dist Unltd Tax Ref 5.00% Due Aug 1, 2028",
+      "code": "GS",
+      "typ": "P",
+      "dt": "08/06/2024",
+      "ndt": "08/06/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "Philadelphia PA SCH Dist Go BDS Ser. F 5.00% Due Sep 1, 2027",
+      "code": "GS",
+      "typ": "P",
+      "dt": "08/05/2024",
+      "ndt": "08/05/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "TX Trans Commn TPK 5% TPK Tran Due 08/15/42",
+      "code": "GS",
+      "typ": "P",
+      "dt": "08/12/2024",
+      "ndt": "08/12/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

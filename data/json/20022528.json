@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "ARES CAPITAL CORP",
+      "code": "CS",
+      "typ": "P",
+      "dt": "03/03/2023",
+      "ndt": "03/07/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley Smith Barney LLC IRA",
+      "desc": "Corporate Bond Maturity Date - 07/15/2026 Coupon Rate - 2.15%"
+    }
+  ]
+}

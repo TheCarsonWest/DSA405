@@ -1,0 +1,43 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "Seven Bridges Long/Short Equity Fund Ltd.",
+      "code": "HN",
+      "typ": "S (partial)",
+      "dt": "10/25/2024",
+      "ndt": "11/04/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "RRK Charitable Trust U/A 11/28/00 #2",
+      "desc": "Hedge Fund. Fund manager letter on file with the Committee on Ethics."
+    },
+    {
+      "own": "",
+      "ast": "Seven Bridges Long/Short Equity Fund Series",
+      "code": "HN",
+      "typ": "S (partial)",
+      "dt": "10/28/2024",
+      "ndt": "11/04/2024",
+      "amt": "$100,001 - $250,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Randall R. Kaplan Irrevocable GST FBO Kathy Manning & Descendants > Randall Robert Kaplan Alaska LLC",
+      "desc": "Hedge fund. Fund manager letter on file with the Committee on Ethics."
+    },
+    {
+      "own": "SP",
+      "ast": "Seven Bridges Multi-Strategy Fund Ltd.",
+      "code": "HN",
+      "typ": "P",
+      "dt": "10/25/2024",
+      "ndt": "11/04/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "RRK Charitable Trust U/A 11/28/00 #2",
+      "desc": "Investment Company. Fund manager letter on file with the Committee on Ethics."
+    }
+  ]
+}

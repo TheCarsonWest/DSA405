@@ -1,0 +1,82 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Alphabet Inc. - Class A Common Stock (GOOGL)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "10/31/2024",
+      "ndt": "11/05/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Bill's IRA",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Amazon.com, Inc. - Common Stock (AMZN)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "10/31/2024",
+      "ndt": "11/05/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Bill's IRA",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Amentum Holdings, Inc. Common Stock (AMTM)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "10/31/2024",
+      "ndt": "11/05/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Bill's IRA",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "LOWES COS INC NOTE CALL MAKE WHOLE 3.10000% 05/03/2027",
+      "code": "CS",
+      "typ": "S",
+      "dt": "10/09/2024",
+      "ndt": "10/28/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Bill's IRA",
+      "desc": "548661DP9"
+    },
+    {
+      "own": "",
+      "ast": "Microsoft Corporation - Common Stock (MSFT)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "10/31/2024",
+      "ndt": "11/05/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Bill's IRA",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "QUALCOMM Incorporated - Common Stock (QCOM)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "10/31/2024",
+      "ndt": "11/05/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Bill's IRA",
+      "desc": ""
+    }
+  ]
+}

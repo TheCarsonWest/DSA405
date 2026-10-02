@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "Palo Alto Networks, Inc. (PANW)",
+      "code": "OP",
+      "typ": "P",
+      "dt": "02/12/2024",
+      "ndt": "02/12/2024",
+      "amt": "$500,001 - $1,000,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Purchased 50 call options with a strike price of $200 and an expiration date of 1/17/25."
+    },
+    {
+      "own": "SP",
+      "ast": "Palo Alto Networks, Inc. (PANW)",
+      "code": "OP",
+      "typ": "P",
+      "dt": "02/21/2024",
+      "ndt": "02/21/2024",
+      "amt": "$100,001 - $250,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Purchased 20 call options with a strike price of $200 and an expiration date of 1/17/25."
+    }
+  ]
+}

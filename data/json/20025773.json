@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "Burke Cnty GA Dev Auth Poll Co Ref- Georgia Rev Var% due 12/1/2049",
+      "code": "GS",
+      "typ": "P",
+      "dt": "08/08/2024",
+      "ndt": "09/03/2024",
+      "amt": "$50,001 - $100,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "Michigan St Fin Auth Revenue Ref- Trinit Rev Var% due 12/1/2044",
+      "code": "GS",
+      "typ": "P",
+      "dt": "08/28/2024",
+      "ndt": "09/03/2024",
+      "amt": "$100,001 - $250,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

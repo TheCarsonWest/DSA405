@@ -1,0 +1,43 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "Linde plc Ordinary Shares (LIN)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "07/18/2023",
+      "ndt": "08/04/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley Trust Account",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "Linde plc Ordinary Shares (LIN)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "07/31/2023",
+      "ndt": "08/04/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley Trust Account",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "NextEra Energy, Inc. (NEE)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "07/18/2023",
+      "ndt": "08/04/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": true,
+      "stat": "New",
+      "sub": "Morgan Stanley Trust Account",
+      "desc": ""
+    }
+  ]
+}

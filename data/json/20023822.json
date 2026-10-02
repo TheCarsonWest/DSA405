@@ -1,0 +1,56 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "JPMorgan Equity Premium Income ETF (JEPI)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "10/06/2023",
+      "ndt": "10/06/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "1989 Trust",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Mercato Partners Travers IV QP, LP (GLAS Funds, LP)",
+      "code": "OT",
+      "typ": "P",
+      "dt": "10/07/2023",
+      "ndt": "10/06/2023",
+      "amt": "$836.89",
+      "cg": false,
+      "stat": "New",
+      "sub": "2012 Trust",
+      "desc": "Mercato Partners Traverse IV LP; capital call for private equity investment"
+    },
+    {
+      "own": "",
+      "ast": "Vanguard Mid-Cap ETF (VO)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "10/06/2023",
+      "ndt": "10/06/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": true,
+      "stat": "New",
+      "sub": "1989 Trust",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Vanguard S&P 500 ETF (VOO)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "10/06/2023",
+      "ndt": "10/06/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": true,
+      "stat": "New",
+      "sub": "1989 Trust",
+      "desc": ""
+    }
+  ]
+}

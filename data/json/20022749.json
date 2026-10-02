@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Blackstone Inc. (BX)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "04/10/2023",
+      "ndt": "04/17/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley Smith Barney LLC Brokerage Account",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Corteva, Inc. (CTVA)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "04/10/2023",
+      "ndt": "04/17/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley Smith Barney LLC Brokerage Account",
+      "desc": ""
+    }
+  ]
+}

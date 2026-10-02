@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "SERVICE PROPERTIES TRUST (SVC)",
+      "code": "CS",
+      "typ": "S",
+      "dt": "03/08/2023",
+      "ndt": "03/13/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley Smith Barney LLC IRA",
+      "desc": "Redemption of Called Bond; Corporate Fixed Income - Corporate Bond; Coupon Rate - 4.5%; Maturity Date - 6/15/2023"
+    }
+  ]
+}

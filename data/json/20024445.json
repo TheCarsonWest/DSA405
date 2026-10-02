@@ -1,0 +1,69 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "AT&T INC SER B NOTE 4.30000% 02/15/2030 CALL MAKE WHOLE",
+      "code": "CS",
+      "typ": "S",
+      "dt": "01/18/2024",
+      "ndt": "02/05/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Bill's IRA",
+      "desc": "00206RGQ9"
+    },
+    {
+      "own": "",
+      "ast": "BANK AMERICA CORP SER N MTN 6.20400% 11/10/2028 CALL MAKE WHOLE",
+      "code": "CS",
+      "typ": "P",
+      "dt": "01/18/2024",
+      "ndt": "02/05/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Bill's IRA",
+      "desc": "06051GLC1"
+    },
+    {
+      "own": "",
+      "ast": "MICROSOFT CORP NOTE CALL MAKE WHOLE 3.12500% 11/03/2025",
+      "code": "CS",
+      "typ": "P",
+      "dt": "02/02/2024",
+      "ndt": "02/05/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Bill's IRA",
+      "desc": "594918BJ2"
+    },
+    {
+      "own": "",
+      "ast": "Palo Alto Networks, Inc. (PANW)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "01/24/2024",
+      "ndt": "02/05/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Bill's IRA",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "UNION PAC CORP NOTE CALL MAKE WHOLE 3.95000% 09/10/2028",
+      "code": "CS",
+      "typ": "P",
+      "dt": "01/25/2024",
+      "ndt": "02/05/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Bill's IRA",
+      "desc": "907818EY0"
+    }
+  ]
+}

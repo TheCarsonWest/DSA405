@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Newell Brands Inc. (NWL)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "10/27/2025",
+      "ndt": "10/28/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

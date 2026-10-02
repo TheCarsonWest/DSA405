@@ -1,0 +1,43 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "CITIGROUP INC NOTE CALL MAKE WHOLE 3.20000% 10/21/2026",
+      "code": "CS",
+      "typ": "S",
+      "dt": "05/29/2024",
+      "ndt": "06/07/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Bill's IRA",
+      "desc": "172967KY6"
+    },
+    {
+      "own": "",
+      "ast": "JPMORGAN CHASE &CO NOTE CALL MAKE WHOLE 5.29900% 07/24/2029",
+      "code": "CS",
+      "typ": "P",
+      "dt": "05/24/2024",
+      "ndt": "06/07/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Bill's IRA",
+      "desc": "46647PDU7"
+    },
+    {
+      "own": "",
+      "ast": "T MOBILE USA INC NOTE 4.75000% 02/01/2028",
+      "code": "CS",
+      "typ": "P",
+      "dt": "06/06/2024",
+      "ndt": "06/07/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Bill's IRA",
+      "desc": "87264AAV7"
+    }
+  ]
+}

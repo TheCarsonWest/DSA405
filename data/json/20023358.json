@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Energy Transfer LP Common Units (ET)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "07/18/2023",
+      "ndt": "07/20/2023",
+      "amt": "$100,001 - $250,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Equitable Retirement Account",
+      "desc": ""
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Energy Transfer LP Common Units (ET)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "06/08/2023",
+      "ndt": "06/11/2023",
+      "amt": "$100,001 - $250,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Equitable Retirement Account",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "NGL ENERGY PARTNERS LP Common Units representing Limited Partner Interests (NGL)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "06/08/2023",
+      "ndt": "06/11/2023",
+      "amt": "$100,001 - $250,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Equitable Retirement Account",
+      "desc": ""
+    }
+  ]
+}

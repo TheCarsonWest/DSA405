@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "GENERAL MTRS FINL CO INC NOTE 5.40000% 04/06/2026 CALL MAKE WHOLE ( 37045XEF9)",
+      "code": "CS",
+      "typ": "P",
+      "dt": "07/10/2025",
+      "ndt": "07/15/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "INVESTMENT",
+      "desc": "Corporate Note"
+    }
+  ]
+}

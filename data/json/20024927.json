@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "Synovus Financial Corp. Common Stock (SNV)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "02/19/2025",
+      "ndt": "03/19/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "INVESTMENT",
+      "desc": "Company distribution"
+    }
+  ]
+}

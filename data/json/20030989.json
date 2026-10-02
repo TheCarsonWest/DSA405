@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "AIX Ventures Fund II, LP (GLAS Funds, LP)",
+      "code": "HN",
+      "typ": "P",
+      "dt": "08/04/2025",
+      "ndt": "08/28/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "2012 Trust",
+      "desc": "Capital Call for AIX Ventures Fund II, L.P. (GLAS LP) for $2,749.30"
+    }
+  ]
+}

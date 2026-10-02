@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "West Suburban Bancorp, Inc. (WNRP)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "11/17/2022",
+      "ndt": "11/17/2022",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

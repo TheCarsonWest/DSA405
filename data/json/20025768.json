@@ -1,0 +1,56 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "Maryland ST Go BDS Ser. 2017 B 5.00 % Due Aug 1, 2026",
+      "code": "GS",
+      "typ": "S",
+      "dt": "08/29/2024",
+      "ndt": "08/29/2024",
+      "amt": "$500,001 - $1,000,000",
+      "cg": true,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "Microsoft Corporation - Common Stock (MSFT)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "08/31/2024",
+      "ndt": "08/31/2024",
+      "amt": "$100,001 - $250,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Vested shares sold to separate trust not for the benefit of filer or spouse pursuant to forward contract dated 2/9/2022"
+    },
+    {
+      "own": "JT",
+      "ast": "Seattle WA MN LT PW 0%45 PWR Util Due 05/01/45",
+      "code": "GS",
+      "typ": "P",
+      "dt": "08/23/2024",
+      "ndt": "08/23/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "UT ST Tran Auth 5%36 Excise Tax Due 06/15/36",
+      "code": "GS",
+      "typ": "P",
+      "dt": "08/29/2024",
+      "ndt": "08/29/2024",
+      "amt": "$500,001 - $1,000,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

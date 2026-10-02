@@ -1,0 +1,56 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "Comcast Corp 4.65%33",
+      "code": "CS",
+      "typ": "P",
+      "dt": "07/14/2023",
+      "ndt": "08/03/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Part of my spouse's retirement portfolio."
+    },
+    {
+      "own": "SP",
+      "ast": "Intercontinental Exchange Inc. (ICE)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "07/27/2023",
+      "ndt": "08/03/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": true,
+      "stat": "New",
+      "sub": "",
+      "desc": "Part of my spouse's retirement portfolio."
+    },
+    {
+      "own": "SP",
+      "ast": "Thermo Fisher SC 1.75%/28",
+      "code": "CS",
+      "typ": "P",
+      "dt": "07/20/2023",
+      "ndt": "08/03/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Part of my spouse's retirement portfolio."
+    },
+    {
+      "own": "SP",
+      "ast": "US Treasur NT 4.25%05/25",
+      "code": "GS",
+      "typ": "P",
+      "dt": "07/20/2023",
+      "ndt": "08/03/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Part of my spouse's retirement portfolio."
+    }
+  ]
+}

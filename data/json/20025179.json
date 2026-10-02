@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "DC",
+      "ast": "Perion Network Ltd - Ordinary Shares (PERI)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "05/16/2024",
+      "ndt": "05/16/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

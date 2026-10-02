@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Charles Schwab Corporation (SCHW)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "12/29/2023",
+      "ndt": "12/29/2023",
+      "amt": "$50,001 - $100,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "HILL 2012 TRUST (FORMERLY JAY F HILL TRUST)",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "PayPal Holdings, Inc. (PYPL)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "12/29/2023",
+      "ndt": "12/29/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "HILL 2012 TRUST (FORMERLY JAY F HILL TRUST)",
+      "desc": ""
+    }
+  ]
+}

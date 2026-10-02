@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Netflix, Inc. - Common Stock (NFLX)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "04/17/2025",
+      "ndt": "04/17/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "Amended",
+      "sub": "JP Morgan Brokerage Account #2",
+      "desc": ""
+    }
+  ]
+}

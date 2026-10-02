@@ -1,0 +1,56 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "ILLINOIS WESLEYAN UNIV FIN REV RE; 4.0%; Due 09/01/2041",
+      "code": "GS",
+      "typ": "P",
+      "dt": "03/28/2025",
+      "ndt": "04/03/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley Trust Account",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "McKesson Corporation Common Stock (MCK)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "03/04/2025",
+      "ndt": "04/03/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley IRA",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Microsoft Corporation - Common Stock (MSFT)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "03/04/2025",
+      "ndt": "04/03/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley IRA",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "Salesforce, Inc. Common Stock (CRM)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "03/11/2025",
+      "ndt": "04/03/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley Trust Account",
+      "desc": ""
+    }
+  ]
+}

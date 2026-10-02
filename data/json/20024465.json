@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "US TREASURY BILL",
+      "code": "GS",
+      "typ": "P",
+      "dt": "01/02/2024",
+      "ndt": "01/02/2024",
+      "amt": "$500,001 - $1,000,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

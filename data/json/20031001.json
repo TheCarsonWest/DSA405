@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "Astrana Health Inc. - Common Stock (ASTH)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "08/19/2025",
+      "ndt": "08/19/2025",
+      "amt": "$100,001 - $250,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Stock is solely owned by spouse."
+    },
+    {
+      "own": "SP",
+      "ast": "Astrana Health Inc. - Common Stock (ASTH)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "08/19/2025",
+      "ndt": "08/19/2025",
+      "amt": "$100,001 - $250,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Stock is solely owned by spouse."
+    }
+  ]
+}

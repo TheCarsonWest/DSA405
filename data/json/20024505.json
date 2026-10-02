@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "Farmers & Merchants Bancorp, Inc. (FMAO)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "01/22/2024",
+      "ndt": "02/14/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "dividend reinvestment"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "Teledyne Technologies Incorporated (TDY)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "10/24/2023",
+      "ndt": "10/26/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "Amended",
+      "sub": "",
+      "desc": "In Sept. 2023, my wife started with a new investment firm for her assets, and this new investment firm was unaware of our policy against owning individual stocks. On Sept. 26, the new investment firm purchased stock mimicking the S & P 500. I learned of the purchase of stock on Oct. 21, and immediately on the next business day (Oct. 23) requested the stocks be divested. The new investment firm sold the stock and instead invested in Exchange Traded Funds."
+    }
+  ]
+}

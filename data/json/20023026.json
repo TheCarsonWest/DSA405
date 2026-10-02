@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Sunshine Group Partners, 4% Interest",
+      "code": "OL",
+      "typ": "P",
+      "dt": "04/28/2023",
+      "ndt": "04/28/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Purchased ownership stock in Sunshine Group Partners"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "District Columbia Go 5.00% 06/01/35",
+      "code": "GS",
+      "typ": "P",
+      "dt": "06/06/2023",
+      "ndt": "06/13/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Stocks, Bonds, & Mutual Funds",
+      "desc": "25,000 units District of Columbia Government 5.00% 06/01/35"
+    },
+    {
+      "own": "JT",
+      "ast": "Union-Endicott NY Cent 3.75% 06/30/23",
+      "code": "GS",
+      "typ": "S",
+      "dt": "06/30/2023",
+      "ndt": "07/01/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Stocks, Bonds, & Mutual Funds",
+      "desc": "Bond reached maturity"
+    },
+    {
+      "own": "JT",
+      "ast": "Virginia College Bldg 4.00% 02/01/33",
+      "code": "GS",
+      "typ": "S",
+      "dt": "06/06/2023",
+      "ndt": "06/13/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Stocks, Bonds, & Mutual Funds",
+      "desc": "tender cash receipt, Virginia College Building 4.00% 02/01/33"
+    }
+  ]
+}

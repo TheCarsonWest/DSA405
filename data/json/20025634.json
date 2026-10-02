@@ -1,0 +1,56 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "Bank of Montreal MTN 4/19/27",
+      "code": "CS",
+      "typ": "S",
+      "dt": "07/19/2024",
+      "ndt": "07/22/2024",
+      "amt": "$250,001 - $500,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Hern Family Revocable Trust > Brokerage Investment Account",
+      "desc": "Note called by issuer 7/19/24"
+    },
+    {
+      "own": "JT",
+      "ast": "Barclays Bank Series A MTN 1/22/27",
+      "code": "CS",
+      "typ": "S",
+      "dt": "07/26/2024",
+      "ndt": "07/29/2024",
+      "amt": "$250,001 - $500,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Hern Family Foundation",
+      "desc": "Note called by issuer"
+    },
+    {
+      "own": "JT",
+      "ast": "Chubb Limited Common Stock (CB)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "07/08/2024",
+      "ndt": "07/09/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Hern Family Revocable Trust > Brokerage Investment Account",
+      "desc": "Dividend Reinvestment"
+    },
+    {
+      "own": "JT",
+      "ast": "Inland Real Estate Income Trust",
+      "code": "PS",
+      "typ": "P",
+      "dt": "07/08/2024",
+      "ndt": "07/09/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Hern Family Revocable Trust > Brokerage Investment Account",
+      "desc": "Dividend Reinvestment"
+    }
+  ]
+}

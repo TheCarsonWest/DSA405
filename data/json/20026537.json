@@ -1,0 +1,56 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "Rollins, Inc. Common Stock (ROL)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "12/12/2024",
+      "ndt": "01/08/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "R.W. Allen & Associates, Inc. > RWA&A - Securities",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "US TREASU NOTE 4.375% DUE 12/15/26 (91282CJP7)",
+      "code": "GS",
+      "typ": "P",
+      "dt": "12/03/2024",
+      "ndt": "01/08/2025",
+      "amt": "$100,001 - $250,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "R.W. Allen & Associates, Inc. > RWA&A - Securities",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "US TREASURY BILL DUE 03/20/25 (912797KJ5)",
+      "code": "GS",
+      "typ": "P",
+      "dt": "12/03/2024",
+      "ndt": "01/08/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "SCH1",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "US TREASURY NOTE 4.25% DUE 12/31/25 (91282CJS1)",
+      "code": "GS",
+      "typ": "P",
+      "dt": "12/03/2024",
+      "ndt": "01/08/2024",
+      "amt": "$50,001 - $100,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "SCH1",
+      "desc": ""
+    }
+  ]
+}

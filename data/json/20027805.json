@@ -1,0 +1,56 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Full House Resorts, Inc. - Common Stock (FLL)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "02/13/2025",
+      "ndt": "02/13/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Fidelity Investments Brokerage #1",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Full House Resorts, Inc. - Common Stock (FLL)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "02/21/2025",
+      "ndt": "02/21/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Fidelity Investments Brokerage #1",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Full House Resorts, Inc. - Common Stock (FLL)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "02/24/2025",
+      "ndt": "02/24/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Fidelity Investments Brokerage #1",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Full House Resorts, Inc. - Common Stock (FLL)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "03/12/2025",
+      "ndt": "03/12/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Fidelity Investments Brokerage #1",
+      "desc": ""
+    }
+  ]
+}

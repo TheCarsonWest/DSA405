@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "IXNZF",
+      "code": "ST",
+      "typ": "S",
+      "dt": "07/02/2024",
+      "ndt": "07/02/2024",
+      "amt": "$50,001 - $100,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Other",
+      "desc": ""
+    }
+  ]
+}

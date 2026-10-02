@@ -1,0 +1,43 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Storm Shield of Miami, Inc.",
+      "code": "PS",
+      "typ": "P",
+      "dt": "01/28/2023",
+      "ndt": "01/28/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Storm Shield of Miami, Inc.",
+      "desc": "Purchase of 50 shares of common stock in Storm Shield of Miami, Inc., a privately held corporation."
+    },
+    {
+      "own": "",
+      "ast": "U.S. TREASURY BILL ZERO%",
+      "code": "CS",
+      "typ": "S",
+      "dt": "01/19/2023",
+      "ndt": "01/19/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Merrill IRA 1",
+      "desc": "Redeemed U.S. TREASURY BILL ZERO% bond. The maturity date was January 19, 2023."
+    },
+    {
+      "own": "",
+      "ast": "U.S. TREASURY BILL ZERO%",
+      "code": "CS",
+      "typ": "P",
+      "dt": "01/27/2023",
+      "ndt": "01/27/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Merrill IRA 1",
+      "desc": "Purchased a U.S. TREASURY BILL ZERO% bond with a yield to maturity of 4.48%. The maturity date is February 23, 2023."
+    }
+  ]
+}

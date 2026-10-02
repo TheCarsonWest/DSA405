@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "Microsoft Corporation (MSFT)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "01/30/2023",
+      "ndt": "01/30/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Fidelity Brokerage Account",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "Microsoft Corporation (MSFT)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "02/01/2023",
+      "ndt": "02/01/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Fidelity Brokerage Account",
+      "desc": ""
+    }
+  ]
+}

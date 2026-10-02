@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "UNITED STATE TREASURY BILL",
+      "code": "GS",
+      "typ": "P",
+      "dt": "02/29/2024",
+      "ndt": "02/29/2024",
+      "amt": "$500,001 - $1,000,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "UNITED STATES TREASURY BILL",
+      "code": "GS",
+      "typ": "P",
+      "dt": "02/15/2024",
+      "ndt": "02/15/2024",
+      "amt": "$500,001 - $1,000,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

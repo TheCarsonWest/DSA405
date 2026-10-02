@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "DNB ASA SP/ADR (DNBBY)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "03/16/2022",
+      "ndt": "03/16/2022",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "Amended",
+      "sub": "West End Traditional IRA",
+      "desc": "Asset was transferred from old IRA account to West End Traditional IRA and then sold. The use of the ticker symbol DNHBY in reporting this transaction was a data entry error. The correct ticker symbol is DNBBY. DNBBY is OTC stock, and was previously not listed in the system’s stock catalog."
+    },
+    {
+      "own": "",
+      "ast": "NN GROUP NV UNSP/ADR (NNGRY)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "03/16/2022",
+      "ndt": "03/16/2022",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "Amended",
+      "sub": "West End Traditional IRA",
+      "desc": "Asset was transferred from old IRA account to West End Traditional IRA and then sold. The use of the ticker symbol NNGPF in reporting this transaction was a data entry error. The correct ticker symbol is NNGRY. NNGRY is OTC stock, and was previously not listed in the system’s stock catalog."
+    }
+  ]
+}

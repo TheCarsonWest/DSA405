@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "3 Month T bond",
+      "code": "GS",
+      "typ": "P",
+      "dt": "08/17/2023",
+      "ndt": "08/17/2023",
+      "amt": "$100,001 - $250,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "6 Month Bond",
+      "code": "GS",
+      "typ": "P",
+      "dt": "08/17/2023",
+      "ndt": "08/17/2023",
+      "amt": "$100,001 - $250,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

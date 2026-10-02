@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Nike, Inc. Common Stock (NKE)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "06/06/2024",
+      "ndt": "07/01/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Kean Family Partnership",
+      "desc": ""
+    }
+  ]
+}

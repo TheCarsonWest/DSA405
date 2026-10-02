@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "NVIDIA Corporation (NVDA)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "05/31/2023",
+      "ndt": "06/01/2023",
+      "amt": "$250,001 - $500,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Schwab Brokerage Account",
+      "desc": ""
+    }
+  ]
+}

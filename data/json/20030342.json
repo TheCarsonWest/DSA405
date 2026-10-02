@@ -1,0 +1,108 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Amphenol Corporation Common Stock (APH)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "04/10/2025",
+      "ndt": "05/05/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Moran Wealth IRA",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "Amphenol Corporation Common Stock (APH)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "04/10/2025",
+      "ndt": "05/05/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Moran Wealth IRA",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "Nu Holdings Ltd. Class A Ordinary Shares (NU)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "04/10/2025",
+      "ndt": "05/05/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Moran Wealth IRA",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Nu Holdings Ltd. Class A Ordinary Shares (NU)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "04/10/2025",
+      "ndt": "05/05/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Moran Wealth IRA",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Regeneron Pharmaceuticals, Inc. - Common Stock (REGN)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "04/10/2025",
+      "ndt": "05/05/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Moran Wealth IRA",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "Regeneron Pharmaceuticals, Inc. - Common Stock (REGN)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "04/10/2025",
+      "ndt": "05/05/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Moran Wealth IRA",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "Visa Inc. (V)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "04/10/2025",
+      "ndt": "05/05/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Moran Wealth IRA",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Visa Inc. (V)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "04/10/2025",
+      "ndt": "05/05/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Moran Wealth IRA",
+      "desc": ""
+    }
+  ]
+}

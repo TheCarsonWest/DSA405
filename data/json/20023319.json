@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "Ares Capital Corporation - Closed End Fund (ARCC)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "07/14/2023",
+      "ndt": "07/15/2023",
+      "amt": "$240.80",
+      "cg": false,
+      "stat": "New",
+      "sub": "IRA One",
+      "desc": "14 shares $240"
+    },
+    {
+      "own": "SP",
+      "ast": "US Treasury BILL 12/28/2023 @ 97.587",
+      "code": "GS",
+      "typ": "P",
+      "dt": "07/14/2023",
+      "ndt": "07/17/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Trust One",
+      "desc": "US Treasury BILL 12/28/2023 @ 97.587"
+    }
+  ]
+}

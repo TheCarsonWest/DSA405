@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "CVS Health Corporation Common Stock (CVS)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "01/31/2025",
+      "ndt": "01/31/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "HILL FAMILY FUND",
+      "desc": ""
+    }
+  ]
+}

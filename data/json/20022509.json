@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Federal Farm Credit Banks Bond",
+      "code": "CS",
+      "typ": "P",
+      "dt": "02/23/2023",
+      "ndt": "03/03/2023",
+      "amt": "$100,001 - $250,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Judith S. Clark Irrevocable Trust",
+      "desc": "6.150%; 03/01/2033"
+    }
+  ]
+}

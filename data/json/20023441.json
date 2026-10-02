@@ -1,0 +1,56 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Energy Transfer LP Common Units (ET)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "08/04/2023",
+      "ndt": "08/07/2023",
+      "amt": "$250,001 - $500,000",
+      "cg": true,
+      "stat": "New",
+      "sub": "Equitable Retirement Account",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "NGL ENERGY PARTNERS LP Common Units representing Limited Partner Interests (NGL)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "08/04/2023",
+      "ndt": "08/07/2023",
+      "amt": "$250,001 - $500,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Equitable Retirement Account",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "SPDR S&P 500 (SPY)",
+      "code": "OP",
+      "typ": "S",
+      "dt": "08/04/2023",
+      "ndt": "08/07/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Equitable Retirement Account",
+      "desc": "sell of Jan 24 SPY 440 put"
+    },
+    {
+      "own": "",
+      "ast": "SPDR S&P 500 (SPY)",
+      "code": "OP",
+      "typ": "P",
+      "dt": "07/11/2023",
+      "ndt": "08/04/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Equitable Retirement Account",
+      "desc": "13 SPY Puts strike price $440 expire 1/19/2024"
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "Accenture plc Class A Ordinary Shares (ACN)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "05/17/2024",
+      "ndt": "05/20/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Hern Family Revocable Trust > Brokerage Investment Account",
+      "desc": "Dividend Reinvestment"
+    },
+    {
+      "own": "JT",
+      "ast": "Exxon Mobil Corporation Common Stock (XOM)",
+      "code": "ST",
+      "typ": "E",
+      "dt": "05/03/2024",
+      "ndt": "05/06/2024",
+      "amt": "$100,001 - $250,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Hern Family Foundation",
+      "desc": "shares received through merger or PXD"
+    },
+    {
+      "own": "JT",
+      "ast": "Marsh & McLennan Companies, Inc. Common Stock (MMC)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "05/15/2024",
+      "ndt": "05/16/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Hern Family Revocable Trust > Brokerage Investment Account",
+      "desc": "Dividend Reinvestment"
+    },
+    {
+      "own": "JT",
+      "ast": "ONEOK, Inc. Common Stock (OKE)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "05/15/2024",
+      "ndt": "05/16/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Hern Family Revocable Trust > Brokerage Investment Account",
+      "desc": "Dividend Reinvestment"
+    },
+    {
+      "own": "JT",
+      "ast": "ONEOK, Inc. Common Stock (OKE)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "05/15/2024",
+      "ndt": "05/16/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Hern Family Foundation",
+      "desc": "Dividend Reinvestment"
+    },
+    {
+      "own": "JT",
+      "ast": "Pioneer Natural Resources Company Common Stock (PXD)",
+      "code": "ST",
+      "typ": "E",
+      "dt": "05/03/2024",
+      "ndt": "05/06/2024",
+      "amt": "$100,001 - $250,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Hern Family Foundation",
+      "desc": "exchanged for 2.3234 shares of XOM"
+    },
+    {
+      "own": "JT",
+      "ast": "Texas Instruments Incorporated - Common Stock (TXN)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "05/21/2024",
+      "ndt": "05/22/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Hern Family Foundation",
+      "desc": "Dividend Reinvestment"
+    },
+    {
+      "own": "JT",
+      "ast": "Texas Instruments Incorporated - Common Stock (TXN)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "05/21/2024",
+      "ndt": "05/22/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Hern Family Revocable Trust > Brokerage Investment Account",
+      "desc": "Dividend Reinvestment"
+    },
+    {
+      "own": "JT",
+      "ast": "US Treas Bills 05/16/2024",
+      "code": "GS",
+      "typ": "S",
+      "dt": "05/16/2024",
+      "ndt": "05/17/2024",
+      "amt": "$500,001 - $1,000,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Hern Family Revocable Trust > Brokerage Investment Account",
+      "desc": "T-Bill redeemed at maturity"
+    }
+  ]
+}

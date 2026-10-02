@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Berkshire Hathaway Inc. New Common Stock (BRK.B)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "05/09/2025",
+      "ndt": "06/20/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Schwab accounts",
+      "desc": ""
+    }
+  ]
+}

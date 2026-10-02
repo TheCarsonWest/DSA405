@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "UNITED STATES TREASURY BILL",
+      "code": "GS",
+      "typ": "P",
+      "dt": "09/07/2023",
+      "ndt": "09/07/2023",
+      "amt": "$500,001 - $1,000,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "UNITED STATES TREASURY BILL",
+      "code": "GS",
+      "typ": "P",
+      "dt": "09/07/2023",
+      "ndt": "09/07/2023",
+      "amt": "$500,001 - $1,000,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

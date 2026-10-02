@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "US Treasury NT .0125% Note Due 1/15/24",
+      "code": "GS",
+      "typ": "P",
+      "dt": "04/03/2023",
+      "ndt": "04/07/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

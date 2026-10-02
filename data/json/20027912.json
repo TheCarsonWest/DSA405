@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "DC",
+      "ast": "Hurco Companies, Inc. - Common Stock (HURC)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "02/06/2025",
+      "ndt": "02/06/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

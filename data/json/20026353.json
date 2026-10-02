@@ -1,0 +1,43 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "Oregon State Housing & Community Var 01/10/48",
+      "code": "GS",
+      "typ": "P",
+      "dt": "11/14/2024",
+      "ndt": "12/02/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Stocks, Bonds, & Mutual Funds",
+      "desc": "35,000 shares"
+    },
+    {
+      "own": "JT",
+      "ast": "Virginia State Housing Development 3.4% 07/01/29",
+      "code": "GS",
+      "typ": "P",
+      "dt": "11/21/2024",
+      "ndt": "12/02/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Stocks, Bonds, & Mutual Funds",
+      "desc": "40,000 Shares"
+    },
+    {
+      "own": "JT",
+      "ast": "Virginia State Housing Development 3.5% 07/01/30",
+      "code": "GS",
+      "typ": "P",
+      "dt": "11/21/2024",
+      "ndt": "12/02/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Stocks, Bonds, & Mutual Funds",
+      "desc": "40,000 shares"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Home Depot, Inc. (HD)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "06/13/2024",
+      "ndt": "07/03/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Reinvest Shares"
+    },
+    {
+      "own": "",
+      "ast": "International Business Machines Corporation Common Stock (IBM)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "06/10/2024",
+      "ndt": "07/03/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Reinvest Shares"
+    },
+    {
+      "own": "",
+      "ast": "Johnson & Johnson Common Stock (JNJ)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "06/04/2024",
+      "ndt": "07/03/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Reinvest Shares"
+    },
+    {
+      "own": "",
+      "ast": "PPG Industries, Inc. Common Stock (PPG)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "06/12/2024",
+      "ndt": "07/03/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Reinvest Shares"
+    }
+  ]
+}

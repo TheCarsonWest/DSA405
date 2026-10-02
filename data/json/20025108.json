@@ -1,0 +1,121 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Advanced Micro Devices, Inc. (AMD)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "05/21/2024",
+      "ndt": "05/21/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Apple Inc. - Common Stock (AAPL)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "05/21/2024",
+      "ndt": "05/21/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Caterpillar, Inc. Common Stock (CAT)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "05/21/2024",
+      "ndt": "05/21/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Charles Schwab Corporation (SCHW)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "05/21/2024",
+      "ndt": "05/21/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Kinder Morgan, Inc. Common Stock (KMI)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "05/21/2024",
+      "ndt": "05/21/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Southern Company (SO)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "05/21/2024",
+      "ndt": "05/21/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "US TREASURY BILL 06/18/2024",
+      "code": "GS",
+      "typ": "P",
+      "dt": "05/20/2024",
+      "ndt": "05/21/2024",
+      "amt": "$100,001 - $250,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "US TREASURY BILL 08/13/2024",
+      "code": "GS",
+      "typ": "P",
+      "dt": "05/20/2024",
+      "ndt": "05/22/2024",
+      "amt": "$100,001 - $250,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "US TREASURY BILL 11/29/2024",
+      "code": "GS",
+      "typ": "P",
+      "dt": "05/20/2024",
+      "ndt": "05/21/2024",
+      "amt": "$100,001 - $250,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

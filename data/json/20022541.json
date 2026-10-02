@@ -1,0 +1,69 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Advance Auto Parts Inc. (AAP)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "02/24/2023",
+      "ndt": "02/28/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Advance Auto Parts Inc. (AAP)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "02/24/2023",
+      "ndt": "02/27/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "The terms of the call are a strike price of $139, with an expiration of 04/06/23."
+    },
+    {
+      "own": "",
+      "ast": "Blackstone Inc. (BX)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "02/24/2023",
+      "ndt": "02/28/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Stryker Corporation (SYK)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "02/24/2023",
+      "ndt": "02/28/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "The Cigna Group (CI)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "02/24/2023",
+      "ndt": "02/28/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

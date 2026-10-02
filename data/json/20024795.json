@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "New York Community Bancorp, Inc. Common Stock (NYCB)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "03/01/2024",
+      "ndt": "04/02/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Judith S. Clark Irrevocable Trust",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "New York Community Bancorp, Inc. Common Stock (NYCB)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "03/01/2024",
+      "ndt": "04/02/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Katherine M. Clark Separate Share Trust",
+      "desc": "inherited April 5, 2019"
+    }
+  ]
+}

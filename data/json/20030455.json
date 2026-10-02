@@ -1,0 +1,95 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "HCA Healthcare, Inc. Common Stock (HCA)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "05/15/2025",
+      "ndt": "05/31/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley Active Assets (1)",
+      "desc": ""
+    },
+    {
+      "own": "DC",
+      "ast": "HCA Healthcare, Inc. Common Stock (HCA)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "05/15/2025",
+      "ndt": "05/31/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley Active Assets (5)",
+      "desc": ""
+    },
+    {
+      "own": "DC",
+      "ast": "The Cigna Group Common Stock (CI)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "05/15/2025",
+      "ndt": "05/31/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley Active Assets (5)",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "The Cigna Group Common Stock (CI)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "05/15/2025",
+      "ndt": "05/31/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley Active Assets (1)",
+      "desc": ""
+    },
+    {
+      "own": "DC",
+      "ast": "UnitedHealth Group Incorporated Common Stock (UNH)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "05/15/2025",
+      "ndt": "05/31/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley Active Assets (5)",
+      "desc": ""
+    },
+    {
+      "own": "DC",
+      "ast": "UnitedHealth Group Incorporated Common Stock (UNH)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "05/15/2025",
+      "ndt": "05/31/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley Active Assets (6)",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "UnitedHealth Group Incorporated Common Stock (UNH)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "05/15/2025",
+      "ndt": "05/30/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley Active Assets (1)",
+      "desc": ""
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Walt Disney Company (DIS)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "01/20/2023",
+      "ndt": "01/23/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

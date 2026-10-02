@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "BoodleAI",
+      "code": "PS",
+      "typ": "E",
+      "dt": "12/24/2024",
+      "ndt": "12/27/2024",
+      "amt": "$50,001 - $100,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Simple Agreement for Future Equity. Mandatory conversion of preferred stock for common stock."
+    },
+    {
+      "own": "",
+      "ast": "BoodleAI",
+      "code": "PS",
+      "typ": "E",
+      "dt": "12/24/2024",
+      "ndt": "12/27/2024",
+      "amt": "$50,001 - $100,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Common stock received through mandatory conversion of preferred stock."
+    }
+  ]
+}

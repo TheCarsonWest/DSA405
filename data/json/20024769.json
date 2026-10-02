@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "Virginia St Hsg Dev 3.65% 04/01/33",
+      "code": "GS",
+      "typ": "P",
+      "dt": "03/28/2024",
+      "ndt": "03/31/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Stocks, Bonds, & Mutual Funds",
+      "desc": "20,000 units of Virginia State Housing Development bond, 3.65%, 04/01/33"
+    }
+  ]
+}

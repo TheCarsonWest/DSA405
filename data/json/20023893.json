@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "VA St Res Auth Infrastructure 8/14/2019 3 Pct 11/01/2036",
+      "code": "GS",
+      "typ": "S (partial)",
+      "dt": "10/13/2023",
+      "ndt": "10/23/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "MERRILL LYNCH #806",
+      "desc": "Partial Bond Redemption"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Outsell, Inc.",
+      "code": "OL",
+      "typ": "S (partial)",
+      "dt": "06/27/2024",
+      "ndt": "07/09/2024",
+      "amt": "$1,000,001 - $5,000,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Fialko, LLC",
+      "desc": "Developer of consumer engagement technologies for the automotive industry."
+    },
+    {
+      "own": "",
+      "ast": "Outsell, Inc.",
+      "code": "OL",
+      "typ": "S",
+      "dt": "07/02/2024",
+      "ndt": "07/09/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Fialko, LLC",
+      "desc": "Developer of consumer engagement technologies for the automotive industry."
+    }
+  ]
+}

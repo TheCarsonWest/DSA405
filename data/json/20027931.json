@@ -1,0 +1,69 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Amazon.com, Inc. - Common Stock (AMZN)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "02/26/2025",
+      "ndt": "03/07/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Kean Family Partnership",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Magnera Corporation Common Stock (MAGN)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "02/12/2025",
+      "ndt": "03/07/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Kean Family Partnership",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Mondelez International, Inc. - Class A Common Stock (MDLZ)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "02/07/2025",
+      "ndt": "03/07/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Kean Family Partnership",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "PERNOD RICARD S A SP/ADR (PRNDY)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "02/07/2025",
+      "ndt": "03/07/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Kean Family Partnership",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Stryker Corporation Common Stock (SYK)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "02/26/2025",
+      "ndt": "03/05/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": true,
+      "stat": "New",
+      "sub": "State Street Bank & Trust Co.",
+      "desc": ""
+    }
+  ]
+}

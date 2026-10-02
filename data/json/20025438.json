@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "US Treasury Bill 12/05/2024",
+      "code": "GS",
+      "typ": "P",
+      "dt": "07/13/2024",
+      "ndt": "07/13/2024",
+      "amt": "$250,001 - $500,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Schwab Brokerage Account",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "US Treasury Bill 12/05/2024",
+      "code": "GS",
+      "typ": "S",
+      "dt": "07/24/2024",
+      "ndt": "07/24/2024",
+      "amt": "$250,001 - $500,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Schwab Brokerage Account",
+      "desc": ""
+    }
+  ]
+}

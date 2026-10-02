@@ -1,0 +1,56 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "Activision Blizzard, Inc (ATVI)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "10/13/2023",
+      "ndt": "11/06/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "INIRA",
+      "desc": "cash merger no longer publicly traded company"
+    },
+    {
+      "own": "",
+      "ast": "Activision Blizzard, Inc (ATVI)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "10/13/2023",
+      "ndt": "11/06/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "IRA",
+      "desc": "cash merger no longer publicly traded company"
+    },
+    {
+      "own": "SP",
+      "ast": "The Charles Schwab Corporation Depositary Shares each representing 1/40th interest in a share of 5.95% Non-Cumulative Perpetual Preferred Stock, Series D (SCHW$D)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "10/10/2023",
+      "ndt": "11/06/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "R.W. Allen & Associates, Inc.",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "US Treasury Bill 912797GD3",
+      "code": "GS",
+      "typ": "P",
+      "dt": "10/03/2023",
+      "ndt": "11/06/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "SCH1",
+      "desc": ""
+    }
+  ]
+}

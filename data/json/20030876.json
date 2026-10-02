@@ -1,0 +1,56 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "GV Livingston LLC",
+      "code": "OL",
+      "typ": "P",
+      "dt": "07/03/2025",
+      "ndt": "07/31/2025",
+      "amt": "$50,001 - $100,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Location: Livingston, MT, US\nDescription: Mobile Home Park"
+    },
+    {
+      "own": "SP",
+      "ast": "Kent Street Group LLC",
+      "code": "OT",
+      "typ": "P",
+      "dt": "07/24/2025",
+      "ndt": "07/31/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Location: US\nDescription: Pooled Investment Fund/Venture Capital"
+    },
+    {
+      "own": "SP",
+      "ast": "Los Angeles CA FINL SCH",
+      "code": "GS",
+      "typ": "S",
+      "dt": "07/01/2025",
+      "ndt": "07/31/2025",
+      "amt": "$50,001 - $100,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "U.S Treasury Bills",
+      "code": "GS",
+      "typ": "S (partial)",
+      "dt": "07/31/2025",
+      "ndt": "07/31/2025",
+      "amt": "$250,001 - $500,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

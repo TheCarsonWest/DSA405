@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "NVIDIA Corporation - Common Stock (NVDA)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "02/05/2025",
+      "ndt": "02/24/2025",
+      "amt": "$500,001 - $1,000,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley - E*Trade",
+      "desc": ""
+    }
+  ]
+}

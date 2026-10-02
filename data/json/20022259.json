@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Stryker Corporation (SYK)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "12/30/2022",
+      "ndt": "01/04/2023",
+      "amt": "$100,001 - $250,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "Stryker Corporation (SYK)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "01/03/2023",
+      "ndt": "01/03/2023",
+      "amt": "$100,001 - $250,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

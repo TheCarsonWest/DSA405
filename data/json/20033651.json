@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Benable",
+      "code": "OI",
+      "typ": "P",
+      "dt": "12/15/2025",
+      "ndt": "12/16/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Investment Fund 1",
+      "desc": "Social commerce company, Richmond, VA"
+    }
+  ]
+}

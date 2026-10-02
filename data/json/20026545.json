@@ -1,0 +1,56 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "General Dynamics Corporation Common Stock (GD)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "12/16/2024",
+      "ndt": "01/09/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley Trust Account",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "Meta Platforms, Inc. - Class A Common Stock (META)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "12/09/2024",
+      "ndt": "01/09/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley Trust Account",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "O'Reilly Automotive, Inc. - Common Stock (ORLY)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "12/16/2024",
+      "ndt": "01/09/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley Trust Account",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "TIM S.A. American Depositary Shares (TIMB)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "12/09/2024",
+      "ndt": "01/09/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley Trust Account",
+      "desc": ""
+    }
+  ]
+}

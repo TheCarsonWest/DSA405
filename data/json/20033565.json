@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "US Treasury Bill",
+      "code": "GS",
+      "typ": "P",
+      "dt": "11/10/2025",
+      "ndt": "12/01/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Thomas Suozzi IRA FBO Thomas Suozzi",
+      "desc": ""
+    }
+  ]
+}

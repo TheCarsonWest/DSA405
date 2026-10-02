@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "Yum! Brands, Inc. (YUM)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "08/08/2024",
+      "ndt": "08/09/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

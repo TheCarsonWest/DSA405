@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "FedEx Corporation Common Stock (FDX)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "04/04/2024",
+      "ndt": "04/08/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Richard R Larsen IRA > Rick Larsen IRA Ameriprise SPS Managed Account",
+      "desc": "part of quarterly portfolio rebalancing conducted by asset manager and which i do not control per contract"
+    },
+    {
+      "own": "",
+      "ast": "United Parcel Service, Inc. Common Stock (UPS)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "04/04/2024",
+      "ndt": "04/08/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Richard R Larsen IRA > Rick Larsen IRA Ameriprise SPS Managed Account",
+      "desc": "part of a quarterly rebalancing of portfolio and conducted by asset manager without my control per contract"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Fortive Corporation Common Stock (FTV)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "08/02/2024",
+      "ndt": "09/18/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Kean Family Partnership",
+      "desc": ""
+    }
+  ]
+}

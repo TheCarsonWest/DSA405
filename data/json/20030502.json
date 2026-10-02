@@ -1,0 +1,43 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "Netflix, Inc. - Common Stock (NFLX)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "05/16/2025",
+      "ndt": "06/09/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "R.W. Allen & Associates, Inc. > RWA&A - Securities",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "Thermo Fisher Scientific Inc Common Stock (TMO)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "05/16/2025",
+      "ndt": "06/09/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "R.W. Allen & Associates, Inc. > RWA&A - Securities",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "US Treasury Bill 912797MS3 DUE 10/02/25",
+      "code": "GS",
+      "typ": "P",
+      "dt": "05/16/2025",
+      "ndt": "06/09/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "SCH1",
+      "desc": ""
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Broadcom Inc. - Common Stock (AVGO)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "05/14/2025",
+      "ndt": "05/22/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Fifth Third Bancorp - Common Stock (FITB)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "05/14/2025",
+      "ndt": "05/22/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Installed Building Products, Inc. Common Stock (IBP)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "05/15/2025",
+      "ndt": "05/22/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "David Taylor Trust > Schwab Joint Brokerage #1 (Home Grown)",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Microsoft Corporation - Common Stock (MSFT)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "05/12/2025",
+      "ndt": "05/22/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": true,
+      "stat": "New",
+      "sub": "David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Microsoft Corporation - Common Stock (MSFT)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "05/13/2025",
+      "ndt": "05/22/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": true,
+      "stat": "New",
+      "sub": "David Taylor Trust > Schwab Joint Brokerage #1 (Home Grown)",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Salesforce, Inc. Common Stock (CRM)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "05/12/2025",
+      "ndt": "05/22/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "David Taylor Trust > Schwab Joint Brokerage #1 (Home Grown)",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "UnitedHealth Group Incorporated Common Stock (UNH)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "05/14/2025",
+      "ndt": "05/22/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": true,
+      "stat": "New",
+      "sub": "David Taylor Trust > Schwab Joint Brokerage #1 (Home Grown)",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "UnitedHealth Group Incorporated Common Stock (UNH)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "05/14/2025",
+      "ndt": "05/22/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": true,
+      "stat": "New",
+      "sub": "David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
+      "desc": ""
+    }
+  ]
+}

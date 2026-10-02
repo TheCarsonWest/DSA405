@@ -1,0 +1,121 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "Abbott Laboratories (ABT)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "09/13/2023",
+      "ndt": "10/02/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Northwestern Mutual - Joint",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "Adobe Inc. (ADBE)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "09/13/2023",
+      "ndt": "10/02/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Northwestern Mutual - Joint",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "Eli Lilly and Company (LLY)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "09/13/2023",
+      "ndt": "10/02/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Northwestern Mutual - Joint",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "Emerson Electric Company (EMR)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "09/13/2023",
+      "ndt": "10/02/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Northwestern Mutual - Joint",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "Johnson & Johnson (JNJ)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "09/13/2023",
+      "ndt": "10/02/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Northwestern Mutual - Joint",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "Palo Alto Networks, Inc. (PANW)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "09/13/2023",
+      "ndt": "10/02/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Northwestern Mutual - Joint",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "TEXAS ST GO MOBILITY FD BDS A 4.000% 10/01/34",
+      "code": "CS",
+      "typ": "P",
+      "dt": "09/22/2023",
+      "ndt": "10/02/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Northwestern Mutual - Joint",
+      "desc": "Texas State"
+    },
+    {
+      "own": "JT",
+      "ast": "Union Pacific Corporation (UNP)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "09/13/2023",
+      "ndt": "10/02/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Northwestern Mutual - Joint",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "Waste Management, Inc. (WM)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "09/13/2023",
+      "ndt": "10/02/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Northwestern Mutual - Joint",
+      "desc": ""
+    }
+  ]
+}

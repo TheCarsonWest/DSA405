@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "Antero Resources Corporation Common Stock (AR)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "08/02/2024",
+      "ndt": "08/02/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

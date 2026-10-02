@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "Civitas Resources, Inc. Common Stock (CIVI)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "04/08/2024",
+      "ndt": "05/08/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Neuberger",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "Clearway Energy, Inc. Class C Common Stock (CWEN)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "04/26/2024",
+      "ndt": "04/26/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Neuberger",
+      "desc": ""
+    }
+  ]
+}

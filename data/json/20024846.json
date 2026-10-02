@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "United States Treasury Notes",
+      "code": "GS",
+      "typ": "P",
+      "dt": "03/27/2024",
+      "ndt": "04/09/2024",
+      "amt": "$100,001 - $250,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

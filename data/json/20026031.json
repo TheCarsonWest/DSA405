@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "Charles Schwab Corporation (SCHW)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "09/12/2024",
+      "ndt": "10/14/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "R.W. Allen & Associates, Inc.",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "US Treasury Bill 912797HP5",
+      "code": "GS",
+      "typ": "S",
+      "dt": "09/13/2024",
+      "ndt": "10/14/2024",
+      "amt": "$100,001 - $250,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "SCH1",
+      "desc": ""
+    }
+  ]
+}

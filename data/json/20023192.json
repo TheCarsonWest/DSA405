@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "Apple Inc. (AAPL)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "06/15/2023",
+      "ndt": "06/15/2023",
+      "amt": "$250,001 - $500,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Exercised 50 call options purchased 5/24/22 (5,000 shares) at a strike price of $80 with an expiration date of 6/16/23."
+    },
+    {
+      "own": "SP",
+      "ast": "Microsoft Corporation (MSFT)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "06/15/2023",
+      "ndt": "06/15/2023",
+      "amt": "$500,001 - $1,000,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Exercised 50 call options purchased 5/24/22 (5,000 shares) at a strike price of $180 with an expiration date of 6/16/23."
+    }
+  ]
+}

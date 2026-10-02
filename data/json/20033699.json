@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "JP Morgan 3-year auto callable buffer note",
+      "code": "CS",
+      "typ": "P",
+      "dt": "12/30/2025",
+      "ndt": "12/30/2025",
+      "amt": "$5,000,001 - $25,000,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Advisory Account holding Structured Notes",
+      "desc": "Structured Note"
+    },
+    {
+      "own": "",
+      "ast": "Prudential RILA - 10% Buffer 6-year Alliance Bernstein 500 Plus Index with participation rate",
+      "code": "VA",
+      "typ": "P",
+      "dt": "12/29/2025",
+      "ndt": "12/29/2025",
+      "amt": "$5,000,001 - $25,000,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Registered Index Linked Annuity (RILA)",
+      "desc": "Buffered Index Annuity"
+    }
+  ]
+}

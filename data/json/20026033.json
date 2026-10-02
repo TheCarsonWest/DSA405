@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "Citigroup MTN 9/1/2026",
+      "code": "CS",
+      "typ": "S",
+      "dt": "09/23/2024",
+      "ndt": "09/24/2024",
+      "amt": "$250,001 - $500,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Hern Family Foundation",
+      "desc": "full call. Redeemed by the issuer"
+    }
+  ]
+}

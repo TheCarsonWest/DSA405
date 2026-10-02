@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "DC",
+      "ast": "West Pharmaceutical Services, Inc. Common Stock (WST)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "02/13/2025",
+      "ndt": "02/28/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley Active Assets (6)",
+      "desc": ""
+    }
+  ]
+}

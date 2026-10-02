@@ -1,0 +1,56 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Danaher Corporation Common Stock (DHR)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "06/11/2025",
+      "ndt": "07/07/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Kean Family Partnership",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Prologis, Inc. Common Stock (PLD)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "06/30/2025",
+      "ndt": "07/07/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Kean Family Partnership",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Stryker Corporation Common Stock (SYK)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "06/26/2025",
+      "ndt": "07/02/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": true,
+      "stat": "New",
+      "sub": "State Street Bank & Trust Co.",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "WESCO International, Inc. Common Stock (WCC)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "06/23/2025",
+      "ndt": "07/07/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Kean Family Partnership",
+      "desc": ""
+    }
+  ]
+}

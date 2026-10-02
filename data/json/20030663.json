@@ -1,0 +1,95 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "Allocate Alpha Fund II LP",
+      "code": "OI",
+      "typ": "P",
+      "dt": "06/24/2025",
+      "ndt": "06/30/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Pooled Investment Fund"
+    },
+    {
+      "own": "SP",
+      "ast": "Allocate Premier Access Fund",
+      "code": "OI",
+      "typ": "P",
+      "dt": "06/23/2025",
+      "ndt": "06/30/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Pooled Investment Fund"
+    },
+    {
+      "own": "SP",
+      "ast": "East Bay MUD SYS CA",
+      "code": "GS",
+      "typ": "S (partial)",
+      "dt": "06/02/2025",
+      "ndt": "06/30/2025",
+      "amt": "$50,001 - $100,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "Los Angeles CA Wtr Swr Util",
+      "code": "GS",
+      "typ": "P",
+      "dt": "06/10/2025",
+      "ndt": "06/30/2025",
+      "amt": "$100,001 - $250,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "U.S Treasury Bills",
+      "code": "GS",
+      "typ": "S (partial)",
+      "dt": "06/12/2025",
+      "ndt": "06/30/2025",
+      "amt": "$100,001 - $250,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "U.S Treasury Bills",
+      "code": "GS",
+      "typ": "P",
+      "dt": "06/16/2025",
+      "ndt": "06/30/2025",
+      "amt": "$100,001 - $250,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "Valo Ventures GP II, LP",
+      "code": "OI",
+      "typ": "P",
+      "dt": "06/25/2025",
+      "ndt": "06/30/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Pooled Investment Fund"
+    }
+  ]
+}

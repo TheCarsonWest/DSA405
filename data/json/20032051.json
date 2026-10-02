@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Paramount Skydance Corporation - Class B Common Stock (PSKY)",
+      "code": "ST",
+      "typ": "E",
+      "dt": "08/07/2025",
+      "ndt": "08/31/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Fidelity Brokerage Services, LLC",
+      "desc": "Paramount Class B Stock (PARA) exchanged for Paramount Skydance Class B Stock (PSKY) following merger"
+    },
+    {
+      "own": "",
+      "ast": "Walt Disney Company (DIS)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "08/26/2025",
+      "ndt": "08/31/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Fidelity Roth IRA",
+      "desc": ""
+    }
+  ]
+}

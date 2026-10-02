@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Questek International, LLC",
+      "code": "PS",
+      "typ": "S",
+      "dt": "06/09/2024",
+      "ndt": "06/09/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "25 - Other Individual Investments",
+      "desc": "Redeemed stock with the company"
+    }
+  ]
+}

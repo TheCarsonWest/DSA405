@@ -1,0 +1,43 @@
+{
+  "transactions": [
+    {
+      "own": "DC",
+      "ast": "AngioDynamics, Inc. - Common Stock (ANGO)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "06/27/2025",
+      "ndt": "06/28/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "AngioDynamics, Inc. - Common Stock (ANGO)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "07/16/2025",
+      "ndt": "07/16/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "DC",
+      "ast": "ViaSat, Inc. - Common Stock (VSAT)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "07/18/2025",
+      "ndt": "07/18/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

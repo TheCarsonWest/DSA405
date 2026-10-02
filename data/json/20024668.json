@@ -1,0 +1,69 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "BOEING CO NOTE CALL MAKE WHOLE 3.62500% 02/01/2031",
+      "code": "CS",
+      "typ": "S",
+      "dt": "02/08/2024",
+      "ndt": "03/11/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Bill's IRA",
+      "desc": "097023DC6"
+    },
+    {
+      "own": "",
+      "ast": "Boeing Company (BA)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "02/28/2024",
+      "ndt": "03/11/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Bill's IRA",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "CAPITAL ONE FINL CORP NOTE 7.62400% 10/30/2031",
+      "code": "CS",
+      "typ": "P",
+      "dt": "03/07/2024",
+      "ndt": "03/11/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Bill's IRA",
+      "desc": "14040HDC6"
+    },
+    {
+      "own": "",
+      "ast": "Transdigm Group Incorporated Common Stock (TDG)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "02/28/2024",
+      "ndt": "03/11/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Bill's IRA",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "United Rentals, Inc. Common Stock (URI)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "02/28/2024",
+      "ndt": "03/11/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Bill's IRA",
+      "desc": ""
+    }
+  ]
+}

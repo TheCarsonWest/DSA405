@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Illumina, Inc. - Common Stock (ILMN)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "08/30/2024",
+      "ndt": "09/03/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "sale of 200 shares"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "Arista Networks, Inc. (ANET)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "11/01/2023",
+      "ndt": "11/07/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "CP - INV",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "International Seaways, Inc. (INSW)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "10/27/2023",
+      "ndt": "11/03/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "CP - INV",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "Uranium Energy Corp. (UEC)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "10/25/2023",
+      "ndt": "11/03/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "CP - INV",
+      "desc": ""
+    }
+  ]
+}

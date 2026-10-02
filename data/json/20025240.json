@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Arcadia Medal Investors, LP",
+      "code": "HN",
+      "typ": "P",
+      "dt": "05/21/2024",
+      "ndt": "05/22/2024",
+      "amt": "$500,001 - $1,000,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Hedge fund. Fund manager letter on file with the Committee on Ethics."
+    }
+  ]
+}

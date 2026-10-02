@@ -1,0 +1,95 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "Allocate Alpha Fund II LP",
+      "code": "OT",
+      "typ": "P",
+      "dt": "09/19/2024",
+      "ndt": "09/30/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Location: US\nDescription: Pooled Investment Fund"
+    },
+    {
+      "own": "SP",
+      "ast": "Allocate Premier Access Fund",
+      "code": "OT",
+      "typ": "P",
+      "dt": "09/20/2024",
+      "ndt": "09/30/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Location: US\nDescription: Pooled Investment Fund"
+    },
+    {
+      "own": "SP",
+      "ast": "GV Christi LLC",
+      "code": "OL",
+      "typ": "P",
+      "dt": "09/10/2024",
+      "ndt": "09/30/2024",
+      "amt": "$50,001 - $100,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Location: Caldwell, ID, US\nDescription: Own/operate mobile home park"
+    },
+    {
+      "own": "SP",
+      "ast": "Kent Street Group GP",
+      "code": "OT",
+      "typ": "P",
+      "dt": "09/11/2024",
+      "ndt": "09/30/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Location: US\nDescription: Pooled Investment Fund/Venture Capital"
+    },
+    {
+      "own": "SP",
+      "ast": "Lynett Capital Partners III",
+      "code": "OT",
+      "typ": "P",
+      "dt": "09/09/2024",
+      "ndt": "09/30/2024",
+      "amt": "$100,001 - $250,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Location: US\nDescription: Pooled Investment Fund/Venture Capital"
+    },
+    {
+      "own": "SP",
+      "ast": "Sacramento CA WTR UTIL",
+      "code": "GS",
+      "typ": "P",
+      "dt": "09/27/2024",
+      "ndt": "09/30/2024",
+      "amt": "$50,001 - $100,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "San Mateo CA UHSD IMPT SCH",
+      "code": "GS",
+      "typ": "S",
+      "dt": "09/03/2024",
+      "ndt": "09/30/2024",
+      "amt": "$50,001 - $100,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

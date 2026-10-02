@@ -1,0 +1,69 @@
+{
+  "transactions": [
+    {
+      "own": "DC",
+      "ast": "AdaptHealth Corp. (AHCO)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "04/06/2023",
+      "ndt": "04/07/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Gabrielle Ashtyn Hern Trust",
+      "desc": "Sell to close"
+    },
+    {
+      "own": "DC",
+      "ast": "AdaptHealth Corp. (AHCO)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "04/06/2023",
+      "ndt": "04/07/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Kaden Everett Hern Trust",
+      "desc": "Sell to Close"
+    },
+    {
+      "own": "JT",
+      "ast": "FS Energy & Power Fund Common",
+      "code": "PS",
+      "typ": "P",
+      "dt": "04/13/2023",
+      "ndt": "04/14/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Hern Family Revocable Trust > Brokerage Investment Account",
+      "desc": "Dividend Reinvestment"
+    },
+    {
+      "own": "JT",
+      "ast": "Inland Real Estate Income Trust",
+      "code": "PS",
+      "typ": "P",
+      "dt": "04/06/2023",
+      "ndt": "04/07/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Hern Family Revocable Trust > Brokerage Investment Account",
+      "desc": "Dividend Reinvestment"
+    },
+    {
+      "own": "JT",
+      "ast": "JP Morgan Chase & Co. (JPM)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "04/28/2023",
+      "ndt": "05/01/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Hern Family Revocable Trust > Brokerage Investment Account",
+      "desc": "Dividend Reinvestment"
+    }
+  ]
+}

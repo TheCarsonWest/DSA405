@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "Microsoft Corporation - Common Stock (MSFT)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "12/18/2024",
+      "ndt": "12/19/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Trust One",
+      "desc": ""
+    }
+  ]
+}

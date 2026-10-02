@@ -1,0 +1,95 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "CrowdStrike Holdings, Inc. - Class A Common Stock (CRWD)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "03/07/2025",
+      "ndt": "03/07/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Dollar General Corporation Common Stock (DG)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "03/07/2025",
+      "ndt": "03/07/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Dollar General Corporation Common Stock (DG)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "03/03/2025",
+      "ndt": "03/04/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Goldman Sachs Group, Inc. (GS)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "03/07/2025",
+      "ndt": "03/07/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Impinj, Inc. - Common Stock (PI)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "03/03/2025",
+      "ndt": "03/04/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "iShares Bitcoin Trust ETF (IBIT)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "03/03/2025",
+      "ndt": "03/04/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Tesla, Inc. - Common Stock (TSLA)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "03/07/2025",
+      "ndt": "03/07/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

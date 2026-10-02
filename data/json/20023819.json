@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "Ares Capital Corporation - Closed End Fund (ARCC)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "10/06/2023",
+      "ndt": "10/06/2023",
+      "amt": "$569.25",
+      "cg": false,
+      "stat": "New",
+      "sub": "IRA One",
+      "desc": "30 shares"
+    },
+    {
+      "own": "SP",
+      "ast": "Warner Bros. Discovery, Inc. - Series A (WBD)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "10/06/2023",
+      "ndt": "10/06/2023",
+      "amt": "$493.91",
+      "cg": false,
+      "stat": "New",
+      "sub": "IRA One",
+      "desc": "48 shares loss"
+    }
+  ]
+}

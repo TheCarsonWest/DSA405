@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Capital One Financial Corporation Depositary shares each representing a 1/40th interest in a share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series I of the Issuer (COF$I)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "03/03/2025",
+      "ndt": "04/03/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "IRA #3",
+      "desc": ""
+    }
+  ]
+}

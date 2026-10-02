@@ -1,0 +1,82 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Alphabet Inc. - Class C Capital Stock (GOOG)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "04/11/2025",
+      "ndt": "04/11/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "JP Morgan Brokerage Account #2",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Meta Platforms, Inc. - Class A Common Stock (META)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "04/16/2025",
+      "ndt": "04/16/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "JP Morgan Brokerage Account #2",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Meta Platforms, Inc. - Class A Common Stock (META)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "04/17/2025",
+      "ndt": "04/17/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "JP Morgan Brokerage Account #2",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Netflix, Inc. - Common Stock (NFLX)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "05/17/2025",
+      "ndt": "05/17/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "JP Morgan Brokerage Account #2",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "NVIDIA Corporation - Common Stock (NVDA)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "04/11/2025",
+      "ndt": "04/11/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "JP Morgan Brokerage Account #2",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Texas Instruments Incorporated - Common Stock (TXN)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "04/11/2025",
+      "ndt": "04/11/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "JP Morgan Brokerage Account #2",
+      "desc": ""
+    }
+  ]
+}

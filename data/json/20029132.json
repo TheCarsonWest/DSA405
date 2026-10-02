@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Novo Nordisk A/S Common Stock (NVO)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "03/27/2025",
+      "ndt": "04/07/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Fidelity Roth IRA",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Novo Nordisk A/S Common Stock (NVO)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "03/27/2025",
+      "ndt": "04/07/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Fidelity Traditional IRA",
+      "desc": ""
+    }
+  ]
+}

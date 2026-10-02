@@ -1,0 +1,56 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "3M Company Common Stock (MMM)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "10/20/2025",
+      "ndt": "11/03/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley - Select UMA Account # 1",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "Intercontinental Exchange Inc. Common Stock (ICE)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "10/16/2025",
+      "ndt": "11/03/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley - Select UMA Account # 1",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "NetEase, Inc. - American Depositary Shares, each representing 5 ordinary shares (NTES)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "10/17/2025",
+      "ndt": "11/03/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley - Select UMA Account # 1",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "NICE Ltd - American Depositary Shares each representing one Ordinary Share (NICE)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "10/17/2025",
+      "ndt": "11/03/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley - Select UMA Account # 1",
+      "desc": ""
+    }
+  ]
+}

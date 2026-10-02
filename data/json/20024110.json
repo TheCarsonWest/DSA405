@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "3 month USG bond",
+      "code": "GS",
+      "typ": "P",
+      "dt": "12/04/2023",
+      "ndt": "12/04/2023",
+      "amt": "$250,001 - $500,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Funds used to purchase were from 3 month bond that matured on 11/30/23 (rolled over)"
+    }
+  ]
+}

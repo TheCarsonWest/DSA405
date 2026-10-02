@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "AutoZone, Inc. Common Stock (AZO)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "07/16/2024",
+      "ndt": "08/06/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "LIVTR",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "Johnson & Johnson Common Stock (JNJ)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "07/16/2024",
+      "ndt": "08/06/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": true,
+      "stat": "New",
+      "sub": "LIVTR",
+      "desc": ""
+    }
+  ]
+}

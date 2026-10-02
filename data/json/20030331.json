@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "OUNZ Van Eck Gold Trust ETF",
+      "code": "OT",
+      "typ": "S",
+      "dt": "04/29/2025",
+      "ndt": "05/12/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Equitable Advisors Investment Account",
+      "desc": "sale of OUNZ exchange traded fund"
+    }
+  ]
+}

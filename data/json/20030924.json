@@ -1,0 +1,56 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "AbbVie Inc. Common Stock (ABBV)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "08/04/2025",
+      "ndt": "08/05/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "United Parcel Service, Inc. Common Stock (UPS)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "08/04/2025",
+      "ndt": "08/05/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "UnitedHealth Group Incorporated Common Stock (UNH)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "08/04/2025",
+      "ndt": "08/05/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "US Treasury Bill",
+      "code": "GS",
+      "typ": "P",
+      "dt": "08/04/2025",
+      "ndt": "08/05/2025",
+      "amt": "$50,001 - $100,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Amgen Inc. (AMGN)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "04/05/2023",
+      "ndt": "04/10/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Purchase of 100 shares"
+    },
+    {
+      "own": "SP",
+      "ast": "Microsoft Corporation (MSFT)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "04/10/2023",
+      "ndt": "04/11/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Phillips 66 (PSX)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "04/05/2023",
+      "ndt": "04/10/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "purchase of 200 shares."
+    },
+    {
+      "own": "",
+      "ast": "Stryker Corporation (SYK)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "03/17/2023",
+      "ndt": "03/21/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Texas Instruments Incorporated (TXN)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "04/05/2023",
+      "ndt": "04/10/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "sale of 29 shares"
+    }
+  ]
+}

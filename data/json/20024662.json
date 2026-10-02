@@ -1,0 +1,43 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "U.S Treasury Bills",
+      "code": "GS",
+      "typ": "S (partial)",
+      "dt": "02/08/2024",
+      "ndt": "02/29/2024",
+      "amt": "$500,001 - $1,000,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "U.S Treasury Bills",
+      "code": "GS",
+      "typ": "P",
+      "dt": "02/14/2024",
+      "ndt": "02/29/2024",
+      "amt": "$500,001 - $1,000,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "U.S Treasury Bills",
+      "code": "GS",
+      "typ": "S (partial)",
+      "dt": "02/29/2024",
+      "ndt": "02/29/2024",
+      "amt": "$500,001 - $1,000,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

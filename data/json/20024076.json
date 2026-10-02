@@ -1,0 +1,69 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "International Paper Company (IP) [ST]",
+      "code": "ST",
+      "typ": "S",
+      "dt": "11/08/2023",
+      "ndt": "12/04/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Part of my spouse's retirement portfolio."
+    },
+    {
+      "own": "SP",
+      "ast": "Northwest Natural Holding Company (NWN) [ST]",
+      "code": "ST",
+      "typ": "P",
+      "dt": "11/15/2023",
+      "ndt": "11/30/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Dividend reinvestment. Part of my spouse's retirement portfolio."
+    },
+    {
+      "own": "SP",
+      "ast": "PayPal Holdings, Inc. (PYPL) [ST]",
+      "code": "ST",
+      "typ": "S",
+      "dt": "11/09/2023",
+      "ndt": "12/04/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Part of my spouse's retirement portfolio."
+    },
+    {
+      "own": "",
+      "ast": "US Treasury Bill Due 05/16/24 [GS]",
+      "code": "GS",
+      "typ": "P",
+      "dt": "11/03/2023",
+      "ndt": "12/03/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "US Treasury Bill Due 10/31/24 [GS]",
+      "code": "GS",
+      "typ": "P",
+      "dt": "11/03/2023",
+      "ndt": "12/03/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

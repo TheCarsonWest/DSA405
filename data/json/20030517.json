@@ -1,0 +1,43 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "Allocate Alpha Fund II LP",
+      "code": "OI",
+      "typ": "P",
+      "dt": "05/27/2025",
+      "ndt": "05/31/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Pooled Investment Fund"
+    },
+    {
+      "own": "SP",
+      "ast": "Allocate Premier Access Fund",
+      "code": "OI",
+      "typ": "P",
+      "dt": "05/23/2025",
+      "ndt": "05/31/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Pooled Investment Fund"
+    },
+    {
+      "own": "SP",
+      "ast": "Lynett Capital Partners III",
+      "code": "OI",
+      "typ": "P",
+      "dt": "05/21/2025",
+      "ndt": "05/31/2025",
+      "amt": "$100,001 - $250,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Pooled Investment Fund/Venture Capital"
+    }
+  ]
+}

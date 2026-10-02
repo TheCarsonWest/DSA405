@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "CarterBaldwin",
+      "code": "PS",
+      "typ": "P",
+      "dt": "01/30/2024",
+      "ndt": "01/30/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Partner stock"
+    }
+  ]
+}

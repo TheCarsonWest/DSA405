@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "New York ST MTG AGY 3.45% 10/01/33",
+      "code": "GS",
+      "typ": "S",
+      "dt": "04/18/2023",
+      "ndt": "04/29/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Stocks, Bonds, & Mutual Funds",
+      "desc": "to pay 2022 taxes"
+    }
+  ]
+}

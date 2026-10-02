@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Illumina, Inc. - Common Stock (ILMN)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "04/19/2024",
+      "ndt": "05/02/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Kean Family Partnership",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Nike, Inc. Common Stock (NKE)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "04/19/2024",
+      "ndt": "05/02/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Kean Family Partnership",
+      "desc": ""
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "ABBVIE INC NOTE CALL MAKE WHOLE 5.05000% 03/15/2034",
+      "code": "CS",
+      "typ": "P",
+      "dt": "03/27/2024",
+      "ndt": "04/11/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Bill's IRA",
+      "desc": "00287YDU0"
+    },
+    {
+      "own": "",
+      "ast": "GOLDMAN SACHS GROUP INC NOTE 3.50000% 01/23/2025",
+      "code": "CS",
+      "typ": "S",
+      "dt": "03/27/2024",
+      "ndt": "04/11/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Bill's IRA",
+      "desc": "38148LAC0"
+    },
+    {
+      "own": "",
+      "ast": "LOWES COS INC NOTE CALL MAKE WHOLE 4.50000% 04/15/2030",
+      "code": "CS",
+      "typ": "P",
+      "dt": "04/11/2024",
+      "ndt": "04/24/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Bill's IRA",
+      "desc": "548661DU8"
+    }
+  ]
+}

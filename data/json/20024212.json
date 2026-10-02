@@ -1,0 +1,56 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "Alibaba Group Holding Limited American Depositary Shares each representing eight Ordinary share (BABA)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "12/28/2023",
+      "ndt": "12/29/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Trust One",
+      "desc": "45 shares loss ~$5500"
+    },
+    {
+      "own": "SP",
+      "ast": "American Tower Corporation (AMT)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "12/28/2023",
+      "ndt": "12/29/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Trust One",
+      "desc": "sold loss 21.1125 shares"
+    },
+    {
+      "own": "SP",
+      "ast": "Crown Castle Inc. (CCI)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "12/28/2023",
+      "ndt": "12/29/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Trust One",
+      "desc": "Sale loss 45.9831 shares"
+    },
+    {
+      "own": "",
+      "ast": "US Treasury Bill 9128286R6",
+      "code": "GS",
+      "typ": "P",
+      "dt": "01/25/2024",
+      "ndt": "01/25/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "$5K 30 day T-Bill 5.1%"
+    }
+  ]
+}

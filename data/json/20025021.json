@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "US Treasury Bill",
+      "code": "GS",
+      "typ": "P",
+      "dt": "05/09/2024",
+      "ndt": "05/09/2024",
+      "amt": "$250,001 - $500,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

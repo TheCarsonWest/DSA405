@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "North Dakota ST HSG Fin Agy Home MTG 1.85 % Due Jan 1, 2032",
+      "code": "GS",
+      "typ": "P",
+      "dt": "03/15/2023",
+      "ndt": "03/15/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "Sales Tax Securitization Corp 5.00 % Due Jan 1, 2031",
+      "code": "GS",
+      "typ": "P",
+      "dt": "03/07/2023",
+      "ndt": "03/07/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

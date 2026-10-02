@@ -1,0 +1,82 @@
+{
+  "transactions": [
+    {
+      "own": "DC",
+      "ast": "Bio-Techne Corp - Common Stock (TECH)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "05/26/2025",
+      "ndt": "07/01/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "DC",
+      "ast": "Clean Harbors, Inc. Common Stock (CLH)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "06/20/2025",
+      "ndt": "07/01/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": true,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "DC",
+      "ast": "Markel Group Inc. Common Stock (MKL)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "06/06/2025",
+      "ndt": "07/01/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "DC",
+      "ast": "Paychex, Inc. - Common Stock (PAYX)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "06/26/2025",
+      "ndt": "07/01/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "DC",
+      "ast": "STERIS plc (STE)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "06/26/2025",
+      "ndt": "07/01/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": true,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "DC",
+      "ast": "Tractor Supply Company - Common Stock (TSCO)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "06/06/2025",
+      "ndt": "07/01/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

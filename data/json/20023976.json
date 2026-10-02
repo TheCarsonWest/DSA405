@@ -1,0 +1,43 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "New Fortress Energy Inc. - Class A (NFE)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "10/24/2023",
+      "ndt": "10/24/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Neuberger",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "NextEra Energy Partners, LP Common Units representing limited partner interests (NEP)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "10/24/2023",
+      "ndt": "10/24/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Neuberger",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "US Treasury Bill",
+      "code": "GS",
+      "typ": "P",
+      "dt": "10/26/2023",
+      "ndt": "10/26/2023",
+      "amt": "$500,001 - $1,000,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

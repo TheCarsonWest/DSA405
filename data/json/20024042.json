@@ -1,0 +1,56 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "ETH Cryptocurrency",
+      "code": "OT",
+      "typ": "S",
+      "dt": "11/24/2023",
+      "ndt": "12/11/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": true,
+      "stat": "New",
+      "sub": "",
+      "desc": "sale of eth"
+    },
+    {
+      "own": "",
+      "ast": "ETH Cryptocurrency",
+      "code": "OT",
+      "typ": "P",
+      "dt": "12/10/2023",
+      "ndt": "12/11/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "eth cryptocurrency"
+    },
+    {
+      "own": "",
+      "ast": "Ethereum Crypto currency",
+      "code": "OT",
+      "typ": "P",
+      "dt": "10/09/2023",
+      "ndt": "10/09/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Purchase of ETH crypto"
+    },
+    {
+      "own": "",
+      "ast": "Ethereum Crypto currency",
+      "code": "OT",
+      "typ": "P",
+      "dt": "11/05/2023",
+      "ndt": "11/05/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "purchase of ETH crypto"
+    }
+  ]
+}

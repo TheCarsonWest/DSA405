@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "First Solar, Inc. - Common Stock (FSLR)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "03/19/2025",
+      "ndt": "03/31/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": true,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Zoom Technologies, Inc. (ZOOM)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "03/19/2025",
+      "ndt": "03/31/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

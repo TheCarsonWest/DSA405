@@ -1,0 +1,56 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Accenture plc Class A Ordinary Shares (ACN)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "10/08/2022",
+      "ndt": "10/08/2022",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Mastercard Incorporated (MA)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "12/07/2022",
+      "ndt": "12/07/2022",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Piedmont Office Realty Trust, Inc. Class A (PDM)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "02/27/2022",
+      "ndt": "02/27/2022",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "TJX Companies, Inc. (TJX)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "07/15/2022",
+      "ndt": "07/15/2022",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley INH IRA",
+      "desc": ""
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "DC",
+      "ast": "First Trust MLP and Energy Income Fund Common Shares of Beneficial Interest (FEI)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "12/18/2023",
+      "ndt": "06/21/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "US Treasury",
+      "code": "GS",
+      "typ": "P",
+      "dt": "01/17/2023",
+      "ndt": "01/17/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "US Treasury BILL 07/20/2023 @ 97.640"
+    },
+    {
+      "own": "SP",
+      "ast": "US Treasury",
+      "code": "GS",
+      "typ": "P",
+      "dt": "01/17/2023",
+      "ndt": "01/17/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Trust One",
+      "desc": "US Treasury BILL 07/20/2023 @ 97.640"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "DC",
+      "ast": "Ichor Holdings - Ordinary Shares (ICHR)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "08/05/2025",
+      "ndt": "08/06/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

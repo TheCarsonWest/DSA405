@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Paramount Skydance Corporation - Class B Common Stock (PSKY)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "09/10/2025",
+      "ndt": "10/07/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Fidelity Brokerage Services, LLC",
+      "desc": ""
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "Cibolo Creek Muni Swr Util",
+      "code": "GS",
+      "typ": "S",
+      "dt": "07/10/2023",
+      "ndt": "07/31/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "San Diego CA Trans Excise Tax",
+      "code": "GS",
+      "typ": "P",
+      "dt": "07/13/2023",
+      "ndt": "07/31/2023",
+      "amt": "$100,001 - $250,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "U.S. Treasury Notes",
+      "code": "GS",
+      "typ": "P",
+      "dt": "07/14/2023",
+      "ndt": "07/31/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "U.S. Treasury Notes",
+      "code": "GS",
+      "typ": "S (partial)",
+      "dt": "07/20/2023",
+      "ndt": "07/31/2023",
+      "amt": "$250,001 - $500,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "U.S. Treasury Notes",
+      "code": "GS",
+      "typ": "P",
+      "dt": "07/24/2023",
+      "ndt": "07/31/2023",
+      "amt": "$250,001 - $500,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

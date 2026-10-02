@@ -1,0 +1,82 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Compass Minerals Intl Inc (CMP)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "10/11/2023",
+      "ndt": "10/12/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Kevin Hern Traditional IRA",
+      "desc": "sell to close"
+    },
+    {
+      "own": "JT",
+      "ast": "Inland Real Estate Income Trust",
+      "code": "PS",
+      "typ": "P",
+      "dt": "10/06/2023",
+      "ndt": "10/16/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Hern Family Revocable Trust > Brokerage Investment Account",
+      "desc": "Reinvestment of Distribution"
+    },
+    {
+      "own": "JT",
+      "ast": "JP Morgan Chase & Co. (JPM)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "10/31/2023",
+      "ndt": "11/01/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Hern Family Revocable Trust > Brokerage Investment Account",
+      "desc": "Dividend Reinvestment"
+    },
+    {
+      "own": "JT",
+      "ast": "UNITED STATES TREAS BILLS ZERO CPN 0.00000% 10/03/2024",
+      "code": "GS",
+      "typ": "P",
+      "dt": "10/11/2023",
+      "ndt": "10/12/2023",
+      "amt": "$500,001 - $1,000,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Hern Family Revocable Trust > Brokerage Investment Account",
+      "desc": "buy to open"
+    },
+    {
+      "own": "JT",
+      "ast": "UNITED STATES TREAS BILLS ZERO CPN 0.00000% 10/03/2024",
+      "code": "GS",
+      "typ": "P",
+      "dt": "10/11/2023",
+      "ndt": "10/12/2023",
+      "amt": "$50,001 - $100,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Hern Family Foundation",
+      "desc": "Buy to open"
+    },
+    {
+      "own": "",
+      "ast": "Vodafone Group Plc - American Depositary Shares each representing ten Ordinary Shares (VOD)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "10/11/2023",
+      "ndt": "10/11/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Kevin Hern Traditional IRA",
+      "desc": "sell to close"
+    }
+  ]
+}

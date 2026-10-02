@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "Florida Dev Fin Corp Healthcare Facs Rev 4.00 % Due Nov 15, 2035",
+      "code": "GS",
+      "typ": "S",
+      "dt": "06/18/2025",
+      "ndt": "06/18/2025",
+      "amt": "$250,001 - $500,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "University Kans Hos 4%36 SYST HLTH Due 03/01/36",
+      "code": "GS",
+      "typ": "P",
+      "dt": "06/18/2025",
+      "ndt": "06/18/2025",
+      "amt": "$250,001 - $500,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

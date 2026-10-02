@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "Divergent Technologies, Inc.",
+      "code": "PS",
+      "typ": "P",
+      "dt": "07/15/2025",
+      "ndt": "07/15/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Lateralus Holdings IV, LLC",
+      "desc": "Industrial manufacturing company. Torrance, CA, US"
+    }
+  ]
+}

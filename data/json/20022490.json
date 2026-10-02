@@ -1,0 +1,82 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Alphabet Inc. - Class A (GOOGL)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "02/13/2023",
+      "ndt": "02/28/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Bill's IRA",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "JP Morgan Chase & Co. (JPM)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "02/13/2023",
+      "ndt": "02/28/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Bill's IRA",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Lam Research Corporation (LRCX)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "02/13/2023",
+      "ndt": "02/28/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Bill's IRA",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "NXP Semiconductors N.V. (NXPI)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "02/13/2023",
+      "ndt": "02/28/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Bill's IRA",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "PNC Financial Services Group, Inc. (PNC)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "02/13/2023",
+      "ndt": "02/28/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Bill's IRA",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Veeva Systems Inc. Class A (VEEV)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "02/13/2023",
+      "ndt": "02/28/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Bill's IRA",
+      "desc": ""
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "SMX Industrial Solutions",
+      "code": "OI",
+      "typ": "P",
+      "dt": "04/10/2025",
+      "ndt": "04/10/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Investment Fund 1",
+      "desc": "Advanced Fabrication & Welding Solutions Company"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "Illinois ST Sales Tax Rev JR Oblig 4.00 % Due Jun 15, 2030",
+      "code": "GS",
+      "typ": "P",
+      "dt": "08/22/2023",
+      "ndt": "08/22/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "Microsoft Corporation (MSFT)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "08/30/2023",
+      "ndt": "08/30/2023",
+      "amt": "$250,001 - $500,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Vested shares sold to separate trust not for the benefit of filer or spouse pursuant to forward contract dated 2/9/2022."
+    },
+    {
+      "own": "SP",
+      "ast": "Microsoft Corporation (MSFT)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "08/31/2023",
+      "ndt": "08/31/2023",
+      "amt": "$500,001 - $1,000,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Vested shares sold to separate trust not for the benefit of filer or spouse pursuant to forward contract dated 2/9/2022."
+    },
+    {
+      "own": "JT",
+      "ast": "Prince Georges CNTY MD Go Consolidated 5.00 % Due Jul 15, 2031",
+      "code": "GS",
+      "typ": "P",
+      "dt": "08/28/2023",
+      "ndt": "08/28/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

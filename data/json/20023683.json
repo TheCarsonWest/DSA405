@@ -1,0 +1,69 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "Alerian MLP ETF (AMLP)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "09/01/2023",
+      "ndt": "09/13/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Trust One",
+      "desc": "sold loss"
+    },
+    {
+      "own": "SP",
+      "ast": "Microsoft Corporation (MSFT)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "09/20/2023",
+      "ndt": "09/23/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Trust One",
+      "desc": "20 shares Schwab + 20 more Schwab"
+    },
+    {
+      "own": "SP",
+      "ast": "NVIDIA Corporation (NVDA)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "09/12/2023",
+      "ndt": "09/13/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "IRA Two",
+      "desc": "3 shares $1344"
+    },
+    {
+      "own": "SP",
+      "ast": "US Treasury 912797GQ4",
+      "code": "GS",
+      "typ": "P",
+      "dt": "09/13/2023",
+      "ndt": "09/13/2023",
+      "amt": "$100,001 - $250,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Trust One",
+      "desc": "US Treasury 5.524% 912797GQ4 $150k"
+    },
+    {
+      "own": "SP",
+      "ast": "US Treasury BILL 03/21/2024",
+      "code": "GS",
+      "typ": "P",
+      "dt": "09/22/2023",
+      "ndt": "09/22/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Trust One",
+      "desc": "US Treasury BILL 03/21/2024 5.6% Schwab"
+    }
+  ]
+}

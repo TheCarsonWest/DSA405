@@ -1,0 +1,69 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Coinbase Global, Inc. - Class A Common Stock (COIN)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "09/11/2025",
+      "ndt": "10/04/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "TradeWinds",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Colgate-Palmolive Company Common Stock (CL)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "09/10/2025",
+      "ndt": "10/04/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "TradeWinds",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Hyster-Yale, Inc. Class A common stock (HY)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "09/11/2025",
+      "ndt": "10/04/2025",
+      "amt": "$50,001 - $100,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Schwab One",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Hyster-Yale, Inc. Class A common stock (HY)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "09/19/2025",
+      "ndt": "10/04/2025",
+      "amt": "$50,001 - $100,000",
+      "cg": true,
+      "stat": "New",
+      "sub": "Schwab One",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Procter & Gamble Company (PG)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "09/10/2025",
+      "ndt": "10/04/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "TradeWinds",
+      "desc": ""
+    }
+  ]
+}

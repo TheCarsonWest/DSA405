@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "Amgen Inc. - Common Stock (AMGN)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "06/06/2025",
+      "ndt": "07/01/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Charles Schwab SEP-IRA",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "Procter & Gamble Company (PG)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "06/06/2025",
+      "ndt": "07/01/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Charles Schwab SEP-IRA",
+      "desc": ""
+    }
+  ]
+}

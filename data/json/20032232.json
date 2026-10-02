@@ -1,0 +1,56 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "Arm Holdings plc - American Depositary Shares (ARM) [ST]",
+      "code": "ST",
+      "typ": "S",
+      "dt": "09/02/2025",
+      "ndt": "10/06/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley - Rollover IRA",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "Lam Research Corporation - Common Stock (LRCX) [ST]",
+      "code": "ST",
+      "typ": "S",
+      "dt": "09/03/2025",
+      "ndt": "10/06/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley - Rollover IRA",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "Robinhood Markets, Inc. - Class A Common Stock (HOOD) [ST]",
+      "code": "ST",
+      "typ": "P",
+      "dt": "09/05/2025",
+      "ndt": "10/06/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley - Rollover IRA",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "Tenet Healthcare Corporation Common Stock (THC) [ST]",
+      "code": "ST",
+      "typ": "P",
+      "dt": "09/03/2025",
+      "ndt": "10/06/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley - Rollover IRA",
+      "desc": ""
+    }
+  ]
+}

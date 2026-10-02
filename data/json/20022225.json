@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "Amazon.Com, Inc, 4.65%29 Due 12/01/29",
+      "code": "CS",
+      "typ": "P",
+      "dt": "12/22/2022",
+      "ndt": "01/04/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Part of my spouse's retirement portfolio."
+    },
+    {
+      "own": "SP",
+      "ast": "Intel Corp 2.7%/22 Due 12/15/22",
+      "code": "CS",
+      "typ": "S",
+      "dt": "12/15/2022",
+      "ndt": "01/04/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Full Redemption. Part of my spouse's retirement portfolio."
+    }
+  ]
+}

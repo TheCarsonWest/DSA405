@@ -1,0 +1,56 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "ConocoPhillips Common Stock (COP)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "04/02/2024",
+      "ndt": "05/06/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley Trust Account",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "Hexcel Corporation Common Stock (HXL)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "04/24/2024",
+      "ndt": "05/06/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley Trust Account",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "JP Morgan Chase & Co. Common Stock (JPM)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "04/24/2024",
+      "ndt": "05/06/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley Trust Account",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "lululemon athletica inc. - Common Stock (LULU)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "04/02/2024",
+      "ndt": "05/06/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley Trust Account",
+      "desc": ""
+    }
+  ]
+}

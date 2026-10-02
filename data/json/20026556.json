@@ -1,0 +1,43 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Airbnb, Inc. - Class A Common Stock (ABNB)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "01/07/2025",
+      "ndt": "01/10/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Bill's IRA",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Amazon.com, Inc. - Common Stock (AMZN)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "01/07/2025",
+      "ndt": "01/10/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Bill's IRA",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Fiserv, Inc. Common Stock (FI)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "01/07/2025",
+      "ndt": "01/10/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Bill's IRA",
+      "desc": ""
+    }
+  ]
+}

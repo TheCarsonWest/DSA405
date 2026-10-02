@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Simon Property Group, Inc. (SPG)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "08/03/2023",
+      "ndt": "08/10/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "TD Ameritrade Roth IRA",
+      "desc": "This Transaction was made by Jason Spartz (spouse) Roth IRA"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Treasury Bill (3-Month, Matures 04/18/2024)",
+      "code": "GS",
+      "typ": "P",
+      "dt": "01/18/2024",
+      "ndt": "01/18/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Treasury Direct",
+      "desc": ""
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Treasury Bill",
+      "code": "GS",
+      "typ": "S",
+      "dt": "12/02/2024",
+      "ndt": "12/02/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Treasury Direct",
+      "desc": ""
+    }
+  ]
+}

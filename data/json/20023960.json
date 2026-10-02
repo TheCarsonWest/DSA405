@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "Florida St Brd of Edu Public E Capital OU GO 5% Due 6/1/204",
+      "code": "GS",
+      "typ": "S",
+      "dt": "10/02/2023",
+      "ndt": "11/03/2023",
+      "amt": "$100,001 - $250,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "Wisconsin St Hlth & Eductn Ascension Rev 4% due 11/15/20233",
+      "code": "GS",
+      "typ": "S",
+      "dt": "10/19/2023",
+      "ndt": "11/03/2023",
+      "amt": "$100,001 - $250,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

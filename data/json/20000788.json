@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Colgate-Palmolive Company Common Stock (CL)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "08/25/2023",
+      "ndt": "08/25/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Raymond James IRA",
+      "desc": "Tax Deferred Roll-over of IRA into TSP. Stock held in my IRA at Raymond James. Due to balance requirement at Raymond James of $10,000, I was forced to sell the stocks and then I rolled the balance into my TSP via the TSP rollover process, never touching or having access to the funds."
+    },
+    {
+      "own": "",
+      "ast": "JD.com, Inc. - American Depositary Shares (JD)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "08/25/2023",
+      "ndt": "08/25/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Raymond James IRA",
+      "desc": "Tax Deferred Roll-over of IRA into TSP. Stock held in my IRA at Raymond James. Due to balance requirement at Raymond James of $10,000, I was forced to sell the stocks and then I rolled the balance into my TSP via the TSP rollover process, never touching or having access to the funds."
+    }
+  ]
+}

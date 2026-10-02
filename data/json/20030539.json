@@ -1,0 +1,108 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Adobe Inc. - Common Stock (ADBE)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "06/06/2025",
+      "ndt": "06/09/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Applied Materials, Inc. - Common Stock (AMAT)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "06/06/2025",
+      "ndt": "06/09/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Gilead Sciences, Inc. - Common Stock (GILD)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "06/06/2025",
+      "ndt": "06/09/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Netflix, Inc. - Common Stock (NFLX)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "06/06/2025",
+      "ndt": "06/09/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "NextEra Energy, Inc. Common Stock (NEE)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "06/06/2025",
+      "ndt": "06/09/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "ServiceNow, Inc. Common Stock (NOW)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "06/06/2025",
+      "ndt": "06/09/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Snowflake Inc. Class A Common Stock (SNOW)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "06/06/2025",
+      "ndt": "06/09/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "US Treasury Bill",
+      "code": "GS",
+      "typ": "P",
+      "dt": "06/12/2025",
+      "ndt": "06/13/2025",
+      "amt": "$100,001 - $250,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

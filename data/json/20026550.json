@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "California St Go Call 12/1/27 4% due 12/1/47",
+      "code": "GS",
+      "typ": "S (partial)",
+      "dt": "12/02/2024",
+      "ndt": "12/11/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Victoria Kelly Trust ICA",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "Mississippi St Ref GO P/R 10/1/27 5% due 10/1/31",
+      "code": "GS",
+      "typ": "P",
+      "dt": "12/27/2024",
+      "ndt": "01/09/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Victoria Kelly Trust ICA",
+      "desc": ""
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Fiserv, Inc. (FISV)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "10/31/2025",
+      "ndt": "11/03/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Kean Family Partnership",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "U.S. Treasury Note",
+      "code": "GS",
+      "typ": "P",
+      "dt": "10/17/2025",
+      "ndt": "11/03/2025",
+      "amt": "$100,001 - $250,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Kean Family Partnership",
+      "desc": "4.0%, Feb. 15, 2026"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "CVS Health Corporation (CVS)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "06/08/2023",
+      "ndt": "06/13/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Bill's IRA",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "McKesson Corporation (MCK)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "06/08/2023",
+      "ndt": "06/13/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Bill's IRA",
+      "desc": ""
+    }
+  ]
+}

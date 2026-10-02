@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Treasury Bill (3-Month, Matures 8/7/2025)",
+      "code": "GS",
+      "typ": "P",
+      "dt": "05/05/2025",
+      "ndt": "05/05/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "TD Ameritrade",
+      "desc": ""
+    }
+  ]
+}

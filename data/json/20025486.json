@@ -1,0 +1,56 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Goldman Sachs Group, Inc. (GS)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "07/02/2024",
+      "ndt": "07/12/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Richard R Larsen IRA",
+      "desc": "Part of quarterly portfolio rebalance"
+    },
+    {
+      "own": "",
+      "ast": "Hartford Financial Services Group, Inc. (HIG)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "07/02/2024",
+      "ndt": "07/12/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Richard R Larsen IRA",
+      "desc": "Part of quarterly portfolio rebalance"
+    },
+    {
+      "own": "",
+      "ast": "Old Dominion Freight Line, Inc. - Common Stock (ODFL)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "07/02/2024",
+      "ndt": "07/12/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Richard R Larsen IRA",
+      "desc": "Quarterly portfolio rebalance"
+    },
+    {
+      "own": "",
+      "ast": "Waste Management, Inc. Common Stock (WM)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "07/02/2024",
+      "ndt": "07/12/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Richard R Larsen IRA",
+      "desc": "Quarterly portfolio rebalance"
+    }
+  ]
+}

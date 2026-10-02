@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Mercato Partners Travers IV QP, LP (GLAS Funds, LP)",
+      "code": "HN",
+      "typ": "P",
+      "dt": "01/25/2024",
+      "ndt": "01/26/2024",
+      "amt": "$468.43",
+      "cg": false,
+      "stat": "New",
+      "sub": "2012 Trust",
+      "desc": "Capital call for Mercato Partners Traverse IV QP, LP through GLAS LP"
+    }
+  ]
+}

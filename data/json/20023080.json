@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "Apple Inc. (AAPL)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "05/08/2023",
+      "ndt": "05/08/2023",
+      "amt": "$500,001 - $1,000,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Contribution of 2,900 shares held personally to Trinity College."
+    }
+  ]
+}

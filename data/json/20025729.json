@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "aerodrome",
+      "code": "CT",
+      "typ": "S (partial)",
+      "dt": "08/04/2024",
+      "ndt": "08/04/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": true,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "aerodrome",
+      "code": "CT",
+      "typ": "P",
+      "dt": "08/05/2024",
+      "ndt": "08/05/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

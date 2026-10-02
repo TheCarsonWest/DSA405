@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Berkshire Hathaway Inc. New Common Stock (BRK.B)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "10/14/2025",
+      "ndt": "10/20/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "MERRILL LYNCH #806",
+      "desc": ""
+    }
+  ]
+}

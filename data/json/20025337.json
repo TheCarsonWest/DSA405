@@ -1,0 +1,95 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "ASML Holding N.V. - New York Registry Shares (ASML)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "06/24/2024",
+      "ndt": "06/24/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Costco Wholesale Corporation - Common Stock (COST)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "06/24/2024",
+      "ndt": "06/24/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "CrowdStrike Holdings, Inc. - Class A Common Stock (CRWD)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "06/24/2024",
+      "ndt": "06/24/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "lululemon athletica inc. - Common Stock (LULU)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "06/24/2024",
+      "ndt": "06/24/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "NESTLE S.A S/ADR (NSRGY)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "06/24/2024",
+      "ndt": "06/24/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "NextEra Energy, Inc. Common Stock (NEE)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "06/24/2024",
+      "ndt": "06/24/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "US TREASURY BILL",
+      "code": "GS",
+      "typ": "P",
+      "dt": "06/21/2024",
+      "ndt": "06/24/2024",
+      "amt": "$100,001 - $250,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Best Buy Co., Inc. Common Stock (BBY)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "02/23/2024",
+      "ndt": "02/27/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "Best Buy Co., Inc. Common Stock (BBY)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "02/26/2024",
+      "ndt": "02/27/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "Illumina, Inc. - Common Stock (ILMN)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "02/12/2024",
+      "ndt": "02/13/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Illumina, Inc. - Common Stock (ILMN)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "02/09/2024",
+      "ndt": "03/13/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Illumina, Inc. - Common Stock (ILMN)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "02/12/2024",
+      "ndt": "02/13/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "The terms of the call are a strike price of $138, and an expiration of 03/08/2024."
+    },
+    {
+      "own": "",
+      "ast": "Illumina, Inc. - Common Stock (ILMN)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "02/12/2024",
+      "ndt": "02/14/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Palo Alto Networks, Inc. (PANW)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "02/09/2024",
+      "ndt": "02/13/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

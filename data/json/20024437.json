@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Blackstone Inc. (BX)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "01/12/2024",
+      "ndt": "02/17/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Valero Energy Corporation (VLO)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "01/12/2024",
+      "ndt": "01/17/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

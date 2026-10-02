@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "TuHURA Biosciences, Inc.",
+      "code": "CS",
+      "typ": "P",
+      "dt": "05/06/2024",
+      "ndt": "05/20/2024",
+      "amt": "$100,001 - $250,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Convertible Promissory Note Loan"
+    }
+  ]
+}

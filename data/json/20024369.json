@@ -1,0 +1,82 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "U.S. Treasury Note due 12/15/2024",
+      "code": "GS",
+      "typ": "P",
+      "dt": "01/16/2024",
+      "ndt": "01/16/2024",
+      "amt": "$500,001 - $1,000,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "U.S. Treasury Note due 12/15/2025",
+      "code": "GS",
+      "typ": "P",
+      "dt": "01/16/2024",
+      "ndt": "01/16/2024",
+      "amt": "Spouse/DC Over $1,000,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "U.S. Treasury Note due 3/15/2025",
+      "code": "GS",
+      "typ": "P",
+      "dt": "01/16/2024",
+      "ndt": "01/16/2024",
+      "amt": "Spouse/DC Over $1,000,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "U.S. Treasury Note due 3/15/2026",
+      "code": "GS",
+      "typ": "P",
+      "dt": "01/16/2024",
+      "ndt": "01/16/2024",
+      "amt": "Spouse/DC Over $1,000,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "U.S. Treasury Note due 6/15/2025",
+      "code": "GS",
+      "typ": "P",
+      "dt": "01/16/2024",
+      "ndt": "01/16/2024",
+      "amt": "Spouse/DC Over $1,000,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "U.S. Treasury Note due 9/15/2025",
+      "code": "GS",
+      "typ": "P",
+      "dt": "01/16/2024",
+      "ndt": "01/16/2024",
+      "amt": "Spouse/DC Over $1,000,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

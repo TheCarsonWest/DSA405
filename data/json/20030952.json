@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Gap, Inc. (GAP)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "08/21/2025",
+      "ndt": "08/21/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Stock Account",
+      "desc": ""
+    }
+  ]
+}

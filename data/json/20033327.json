@@ -1,0 +1,82 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "iShares Core S&P 500 ETF (IVV)",
+      "code": "OT",
+      "typ": "P",
+      "dt": "10/14/2025",
+      "ndt": "10/21/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Fidelity Roth IRA",
+      "desc": "IVV (iShares Core S&P 500 ETF) isn't shown as an option in the Stocks dropdown list, even though I have reported it on past PTRs and Annual FDs. I didn't see an option besides \"Other\" for entering it."
+    },
+    {
+      "own": "",
+      "ast": "iShares Core S&P 500 ETF (IVV)",
+      "code": "OT",
+      "typ": "P",
+      "dt": "10/14/2025",
+      "ndt": "10/21/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Fidelity Roth IRA",
+      "desc": "IVV (iShares Core S&P 500 ETF) isn't shown as an option in the Stocks dropdown list, even though I have reported it on past PTRs and Annual FDs. I didn't see an option besides \"Other\" for entering it."
+    },
+    {
+      "own": "",
+      "ast": "iShares Core S&P 500 ETF (IVV)",
+      "code": "OT",
+      "typ": "P",
+      "dt": "10/14/2025",
+      "ndt": "10/21/2025",
+      "amt": "$50,001 - $100,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Fidelity Traditional IRA",
+      "desc": "IVV (iShares Core S&P 500 ETF) isn't shown as an option in the Stocks dropdown list, even though I have reported it on past PTRs and Annual FDs. I didn't see an option besides \"Other\" for entering it."
+    },
+    {
+      "own": "",
+      "ast": "Union Pacific Corporation Common Stock (UNP)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "10/14/2025",
+      "ndt": "10/21/2025",
+      "amt": "$50,001 - $100,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Fidelity Traditional IRA",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Union Pacific Corporation Common Stock (UNP)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "10/14/2025",
+      "ndt": "10/21/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Fidelity Roth IRA",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "Union Pacific Corporation Common Stock (UNP)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "10/14/2025",
+      "ndt": "10/21/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Fidelity Roth IRA",
+      "desc": ""
+    }
+  ]
+}

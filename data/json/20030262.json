@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "University of Washington 4.00% 12/01/33",
+      "code": "GS",
+      "typ": "P",
+      "dt": "04/08/2025",
+      "ndt": "05/02/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Stocks, Bonds, & Mutual Funds",
+      "desc": "30,000 units University of Washington 4.00% maturing 12/01/33"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "Tesla, Inc. - Common Stock (TSLA)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "10/25/2024",
+      "ndt": "11/12/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Chris IRA",
+      "desc": ""
+    }
+  ]
+}

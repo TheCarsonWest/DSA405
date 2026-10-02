@@ -1,0 +1,43 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Hannon Armstrong Sustainable Infrastructure Capital, Inc. (HASI)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "12/20/2023",
+      "ndt": "01/08/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "PERSHING LLC",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Micron Technology, Inc. (MU)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "12/20/2023",
+      "ndt": "01/08/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "PERSHING LLC",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "ServiceNow, Inc. (NOW)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "12/20/2023",
+      "ndt": "01/08/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "PERSHING LLC",
+      "desc": ""
+    }
+  ]
+}

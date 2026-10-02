@@ -1,0 +1,43 @@
+{
+  "transactions": [
+    {
+      "own": "DC",
+      "ast": "Amazon.com, Inc. - Common Stock (AMZN)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "11/08/2024",
+      "ndt": "12/11/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "TR - D1",
+      "desc": ""
+    },
+    {
+      "own": "DC",
+      "ast": "monday.com Ltd. - Ordinary Shares (MNDY)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "11/08/2024",
+      "ndt": "12/11/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "TR - D1",
+      "desc": ""
+    },
+    {
+      "own": "DC",
+      "ast": "Tesla, Inc. - Common Stock (TSLA)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "11/08/2024",
+      "ndt": "12/11/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "TR - D1",
+      "desc": ""
+    }
+  ]
+}

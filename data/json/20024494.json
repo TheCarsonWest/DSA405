@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "Connecticut St Hlth & Educ Ref Ser M Rev 5% Due 7/1/24",
+      "code": "GS",
+      "typ": "S",
+      "dt": "01/24/2024",
+      "ndt": "02/06/2024",
+      "amt": "$100,001 - $250,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "Florida St Hsg Fin Corp Revenue Social Bon Rev Call 07/01/30 3% due 7/1/52",
+      "code": "GS",
+      "typ": "S (partial)",
+      "dt": "01/01/2024",
+      "ndt": "02/06/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

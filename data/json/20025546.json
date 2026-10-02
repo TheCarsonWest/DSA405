@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "Apple Inc. - Common Stock (AAPL)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "07/05/2024",
+      "ndt": "07/30/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "TD Ameritrade Account",
+      "desc": "Sale of 25 Jan 2025 $230 Call contracts"
+    },
+    {
+      "own": "SP",
+      "ast": "Apple Inc. - Common Stock (AAPL)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "07/05/2024",
+      "ndt": "07/30/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "TD Ameritrade Account",
+      "desc": "Purchase of 25 Jan 2025 $215 Put contracts"
+    }
+  ]
+}

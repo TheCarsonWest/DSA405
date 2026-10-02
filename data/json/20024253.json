@@ -1,0 +1,69 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "Albertsons Companies, Inc. Class A (ACI)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "12/14/2023",
+      "ndt": "01/04/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley Trust Account",
+      "desc": "083057"
+    },
+    {
+      "own": "JT",
+      "ast": "Heico Corporation (HEI)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "12/20/2023",
+      "ndt": "01/04/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": true,
+      "stat": "New",
+      "sub": "Morgan Stanley Trust Account",
+      "desc": "083057"
+    },
+    {
+      "own": "JT",
+      "ast": "Palo Alto Networks, Inc. (PANW)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "12/01/2023",
+      "ndt": "01/04/2024",
+      "amt": "$50,001 - $100,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley Trust Account",
+      "desc": "083057"
+    },
+    {
+      "own": "JT",
+      "ast": "Wayfair Inc. Class A (W)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "12/20/2023",
+      "ndt": "01/04/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley Trust Account",
+      "desc": "083057"
+    },
+    {
+      "own": "JT",
+      "ast": "Wayfair Inc. Class A (W)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "12/15/2023",
+      "ndt": "01/04/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley Trust Account",
+      "desc": "083057"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "Cintas Corporation - Common Stock (CTAS)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "05/20/2024",
+      "ndt": "06/07/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "R.W. Allen & Associates, Inc.",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "Starbucks Corporation - Common Stock (SBUX)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "05/20/2024",
+      "ndt": "06/07/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "R.W. Allen & Associates, Inc.",
+      "desc": ""
+    }
+  ]
+}

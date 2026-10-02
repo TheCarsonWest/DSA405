@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "Warner Bros. Discovery, Inc. - Series A Common Stock (WBD)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "01/13/2025",
+      "ndt": "02/07/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "RBC Roth IRA",
+      "desc": "Previously RBC IRA"
+    }
+  ]
+}

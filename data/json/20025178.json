@@ -1,0 +1,56 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "Illinois ST Sales Tax Rev JR Oblig 4.00% Due Jun 15, 2030",
+      "code": "GS",
+      "typ": "P",
+      "dt": "05/17/2024",
+      "ndt": "05/17/2024",
+      "amt": "$100,001 - $250,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "Pacific Co B1 Bond - Villa del Sol",
+      "code": "CS",
+      "typ": "P",
+      "dt": "05/24/2024",
+      "ndt": "05/24/2024",
+      "amt": "$1,000,001 - $5,000,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Real estate bond"
+    },
+    {
+      "own": "JT",
+      "ast": "Wise CNTY VA Indl Dev Auth Solid Waste 1.20% Due Nov 1, 2040",
+      "code": "GS",
+      "typ": "S",
+      "dt": "05/22/2024",
+      "ndt": "05/22/2024",
+      "amt": "$500,001 - $1,000,000",
+      "cg": true,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "Wise CNTY VA Indl Dev Auth Solid Waste 3.80% Due Nov 1, 2040",
+      "code": "GS",
+      "typ": "P",
+      "dt": "05/22/2024",
+      "ndt": "05/22/2024",
+      "amt": "$500,001 - $1,000,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

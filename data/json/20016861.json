@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "UnitedHealth Group Incorporated Common Stock (UNH)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "04/10/2025",
+      "ndt": "05/15/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Merrill Lynch SEP IRA",
+      "desc": ""
+    }
+  ]
+}

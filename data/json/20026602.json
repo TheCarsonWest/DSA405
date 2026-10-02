@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "TX Trans Commn TPK 5%42 TPK Tran Due 08/15/42",
+      "code": "GS",
+      "typ": "P",
+      "dt": "01/27/2025",
+      "ndt": "01/27/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

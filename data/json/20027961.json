@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "U.S Treasury Bills",
+      "code": "GS",
+      "typ": "P",
+      "dt": "02/03/2025",
+      "ndt": "02/28/2025",
+      "amt": "$250,001 - $500,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

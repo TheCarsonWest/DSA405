@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "US TREASURY BILL23 U S T BILL DUE 09/21/23 (912796ZN2)",
+      "code": "GS",
+      "typ": "P",
+      "dt": "06/22/2023",
+      "ndt": "08/08/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Trust - CM",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "US TREASURY BILL23 U S T BILL DUE 12/28/23 (912796CR8)",
+      "code": "GS",
+      "typ": "P",
+      "dt": "09/27/2023",
+      "ndt": "08/08/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Trust - CM",
+      "desc": ""
+    }
+  ]
+}

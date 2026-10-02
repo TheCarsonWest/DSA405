@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "California St Go Call 12/01/2027 4% Due 1/1/2047",
+      "code": "GS",
+      "typ": "S (partial)",
+      "dt": "06/03/2024",
+      "ndt": "07/02/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Victoria Kelly Trust ICA",
+      "desc": ""
+    }
+  ]
+}

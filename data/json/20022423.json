@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "OSHKOSH WIS AREA SCH DIST GO PROM NTS 2022 2.625% 03/01/27",
+      "code": "CS",
+      "typ": "P",
+      "dt": "01/27/2023",
+      "ndt": "01/30/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Northwestern Mutual - Joint",
+      "desc": "Oshkosh, WI"
+    }
+  ]
+}

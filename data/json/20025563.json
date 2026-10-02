@@ -1,0 +1,95 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "American Funds Euro-Pacific Mutual Fund",
+      "code": "OT",
+      "typ": "S",
+      "dt": "06/03/2024",
+      "ndt": "07/31/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "South Boston Community Health Center 403(b)",
+      "desc": "Sale Transaction"
+    },
+    {
+      "own": "",
+      "ast": "American Funds Income Fund of America",
+      "code": "OT",
+      "typ": "S",
+      "dt": "06/03/2024",
+      "ndt": "07/31/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "South Boston Community Health Center 403(b)",
+      "desc": "Sale Transaction"
+    },
+    {
+      "own": "",
+      "ast": "Federated Kaufman Small Cap A Mutual Fund",
+      "code": "OT",
+      "typ": "S",
+      "dt": "06/03/2024",
+      "ndt": "07/31/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "South Boston Community Health Center 403(b)",
+      "desc": "Sale Transaction"
+    },
+    {
+      "own": "",
+      "ast": "Fidelity Balanced Fund",
+      "code": "OT",
+      "typ": "S",
+      "dt": "06/03/2024",
+      "ndt": "07/31/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "South Boston Community Health Center 403(b)",
+      "desc": "Sale Transaction"
+    },
+    {
+      "own": "",
+      "ast": "Fidelity Contra Fund Mutual Fund",
+      "code": "OT",
+      "typ": "S",
+      "dt": "06/03/2024",
+      "ndt": "07/31/2024",
+      "amt": "$100,001 - $250,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "South Boston Community Health Center 403(b)",
+      "desc": "Sale Transaction"
+    },
+    {
+      "own": "",
+      "ast": "Fidelity Emerging Markets Mutual Fund",
+      "code": "OT",
+      "typ": "S",
+      "dt": "06/03/2024",
+      "ndt": "07/31/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "South Boston Community Health Center 403(b)",
+      "desc": "Sale Transaction"
+    },
+    {
+      "own": "",
+      "ast": "Vanguard Target Date 2025 Mutual Fund",
+      "code": "OT",
+      "typ": "P",
+      "dt": "06/03/2024",
+      "ndt": "07/31/2024",
+      "amt": "$250,001 - $500,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "South Boston Community Health Center 403(b)",
+      "desc": "All proceeds for the sale of the Mutual Funds listed: Fidelity Contra, Federated, Kaufman, American Funds Euro-Pacific, Fidelity Balanced Fund, Fidelity Emerging Markets, and Income Fund of America, have been invested in the Vanguard Target Date 2025 Mutual Fund"
+    }
+  ]
+}

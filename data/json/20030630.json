@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "Broadcom Inc. - Common Stock (AVGO)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "06/20/2025",
+      "ndt": "06/20/2025",
+      "amt": "$1,000,001 - $5,000,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Exercised 200 call options purchased 6/24/24 (20,000 shares) at a strike price of $80 with an expiration date of 6/20/25."
+    },
+    {
+      "own": "SP",
+      "ast": "Matthews International Mutual Fund",
+      "code": "OT",
+      "typ": "S",
+      "dt": "06/20/2025",
+      "ndt": "06/20/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Location: US. Sale of 2,822 units. Comments: Loss of $28,948 on sale."
+    }
+  ]
+}

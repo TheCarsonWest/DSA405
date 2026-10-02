@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Apple Inc. - Common Stock (AAPL)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "10/07/2024",
+      "ndt": "10/08/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Merrill Lynch- Advisor Discretion Account",
+      "desc": ""
+    }
+  ]
+}

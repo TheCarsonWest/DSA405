@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "NGL ENERGY PARTNERS LP Common Units representing Limited Partner Interests (NGL)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "06/03/2024",
+      "ndt": "06/11/2024",
+      "amt": "$100,001 - $250,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Equitable Retirement Account",
+      "desc": ""
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Kwikbit Inc",
+      "code": "OI",
+      "typ": "P",
+      "dt": "07/25/2025",
+      "ndt": "07/25/2025",
+      "amt": "$50,001 - $100,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Investment Fund 1",
+      "desc": "Communications technology and service"
+    },
+    {
+      "own": "",
+      "ast": "MM Fox LP",
+      "code": "OI",
+      "typ": "P",
+      "dt": "07/25/2025",
+      "ndt": "07/25/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Investment Fund 1",
+      "desc": "B2B software"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Capital One Financial Corporation (COF)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "06/30/2023",
+      "ndt": "07/17/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Bill's IRA",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "GENERAL MTRS CO NOTE CALL MAKE WHOLE 5.60000% 10/15/2032",
+      "code": "CS",
+      "typ": "P",
+      "dt": "06/27/2023",
+      "ndt": "07/17/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Bill's IRA",
+      "desc": "37045VAZ3"
+    },
+    {
+      "own": "",
+      "ast": "GENERAL MTRS FINL CO INC NOTE 3.10000% 01/12/2032 CALL MAKE WHOLE",
+      "code": "CS",
+      "typ": "S",
+      "dt": "06/27/2023",
+      "ndt": "07/17/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Bill's IRA",
+      "desc": "37045XDS2"
+    },
+    {
+      "own": "",
+      "ast": "Linde plc Ordinary Shares (LIN)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "06/30/2023",
+      "ndt": "07/17/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Bill's IRA",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "UNITED STATES TREAS SER BC-2024 2.50000% 05/31/2024 NTS NOTE",
+      "code": "GS",
+      "typ": "S",
+      "dt": "06/26/2023",
+      "ndt": "07/17/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Bill's IRA",
+      "desc": ""
+    }
+  ]
+}

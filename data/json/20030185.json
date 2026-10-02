@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "MORGAN STANLEY FIN LLC MTN ZERO CPN",
+      "code": "CS",
+      "typ": "S",
+      "dt": "03/31/2025",
+      "ndt": "04/01/2025",
+      "amt": "$500,001 - $1,000,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Hern Family Revocable Trust > Brokerage Investment Account",
+      "desc": "Matured - Redeemed by the issuer"
+    }
+  ]
+}

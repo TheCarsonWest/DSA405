@@ -1,0 +1,69 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "United States T-bills",
+      "code": "GS",
+      "typ": "P",
+      "dt": "10/26/2023",
+      "ndt": "10/26/2023",
+      "amt": "$100,001 - $250,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Schwab fka TD Ameritrade brokerage account",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "United States T-bills",
+      "code": "GS",
+      "typ": "P",
+      "dt": "10/25/2023",
+      "ndt": "10/25/2023",
+      "amt": "$250,001 - $500,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Schwab fka Ameritrade Institutional IRA-Jo",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "United States T-bills",
+      "code": "GS",
+      "typ": "P",
+      "dt": "10/25/2023",
+      "ndt": "10/25/2023",
+      "amt": "$100,001 - $250,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Schwab fka Ameritrade Institutional Jo",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "United States T-bills",
+      "code": "GS",
+      "typ": "P",
+      "dt": "10/26/2023",
+      "ndt": "10/26/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Schwab Roth IRA - Dan",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "United States T-bills",
+      "code": "GS",
+      "typ": "P",
+      "dt": "10/26/2023",
+      "ndt": "10/26/2023",
+      "amt": "$250,001 - $500,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Schwab fka Ameritrade Institutional IRA-Dan",
+      "desc": ""
+    }
+  ]
+}

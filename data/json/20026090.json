@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "New Water Capital Partners II, LP (GLAS Funds, LP)",
+      "code": "HN",
+      "typ": "S (partial)",
+      "dt": "09/29/2024",
+      "ndt": "10/28/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "2012 Trust",
+      "desc": "Redemption of investment $2,228.84; unsure of exact amount until K-1 received."
+    }
+  ]
+}

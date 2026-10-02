@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "Simon Property Group, Inc. Common Stock (SPG)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "02/03/2025",
+      "ndt": "02/07/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Charles Schwab Roth IRA",
+      "desc": "This Transaction was made by Jason Spartz (spouse) Roth IRA"
+    }
+  ]
+}

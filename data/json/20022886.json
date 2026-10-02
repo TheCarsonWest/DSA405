@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "The Andersons, Inc. (ANDE)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "10/21/2022",
+      "ndt": "12/31/2022",
+      "amt": "$1,280.03",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Divested stock inherited in family estate in 2021. Value $1280.03."
+    }
+  ]
+}

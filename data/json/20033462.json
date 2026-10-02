@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Automatic Data Processing, Inc. - Common Stock (ADP)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "11/12/2025",
+      "ndt": "11/13/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Paychex, Inc. - Common Stock (PAYX)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "11/12/2025",
+      "ndt": "11/13/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

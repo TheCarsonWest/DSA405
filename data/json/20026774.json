@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "Kent Street Group LLC",
+      "code": "OT",
+      "typ": "P",
+      "dt": "01/10/2025",
+      "ndt": "01/31/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Location: US\nDESCRIPTION: Pooled Investment Fund/Venture Capital"
+    },
+    {
+      "own": "SP",
+      "ast": "U.S Treasury Bills",
+      "code": "GS",
+      "typ": "S (partial)",
+      "dt": "01/28/2025",
+      "ndt": "01/31/2025",
+      "amt": "$250,001 - $500,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

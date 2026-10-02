@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "RAC Opportunity Fund II, LP (GLAS Funds, LP)",
+      "code": "HN",
+      "typ": "P",
+      "dt": "09/10/2024",
+      "ndt": "09/10/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "2012 Trust",
+      "desc": "Capital call for RAC Opportunity Fund II, LP (GLAS) - $2,841.83"
+    }
+  ]
+}

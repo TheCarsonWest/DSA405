@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "Roblox Corporation Class A (RBLX)",
+      "code": "OP",
+      "typ": "S",
+      "dt": "01/20/2023",
+      "ndt": "01/20/2023",
+      "amt": "$1.00",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "100 call options purchased 12/20/21 with a strike price of $100 and an expiration date of 1/20/23 expired with no value."
+    }
+  ]
+}

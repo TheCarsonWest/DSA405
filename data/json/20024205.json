@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Metro Wash DC Arpts Auth Dulles Toll Rd 7.85%CI B 0% 10/01/2038",
+      "code": "GS",
+      "typ": "S",
+      "dt": "12/21/2023",
+      "ndt": "12/27/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "MERRILL LYNCH #806",
+      "desc": "Bond Redemption"
+    }
+  ]
+}

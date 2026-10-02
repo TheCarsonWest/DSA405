@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "U.S. TREASURY BILL ZERO%",
+      "code": "CS",
+      "typ": "S",
+      "dt": "12/15/2022",
+      "ndt": "12/15/2022",
+      "amt": "$15,001 - $50,000",
+      "cg": true,
+      "stat": "New",
+      "sub": "Merrill IRA 1",
+      "desc": "Redeemed a U.S. TREASURY BILL ZERO% bond. The maturity date was December 15, 2022."
+    },
+    {
+      "own": "",
+      "ast": "U.S. TREASURY BILL ZERO%",
+      "code": "CS",
+      "typ": "P",
+      "dt": "12/22/2022",
+      "ndt": "12/22/2022",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Merrill IRA 1",
+      "desc": "Purchased a U.S. TREASURY BILL ZERO% bond with a yield to maturity of 3.73%. The maturity date is January 19, 2023."
+    }
+  ]
+}

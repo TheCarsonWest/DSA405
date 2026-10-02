@@ -1,0 +1,69 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "Baxter International Inc. Common Stock (BAX)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "07/09/2024",
+      "ndt": "08/06/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Part of my spouse's retirement portfolio."
+    },
+    {
+      "own": "SP",
+      "ast": "Medtronic plc. Ordinary Shares (MDT)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "07/09/2024",
+      "ndt": "08/06/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Part of my spouse's retirement portfolio."
+    },
+    {
+      "own": "",
+      "ast": "US Treasury Bill Due 06/12/25",
+      "code": "GS",
+      "typ": "P",
+      "dt": "07/12/2024",
+      "ndt": "08/06/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "US Treasury Bill Due 09/17/24",
+      "code": "GS",
+      "typ": "P",
+      "dt": "07/26/2024",
+      "ndt": "08/06/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "Warner Bros. Discovery, Inc. - Series A Common Stock (WBD)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "07/09/2024",
+      "ndt": "08/06/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Part of my spouse's retirement portfolio."
+    }
+  ]
+}

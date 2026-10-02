@@ -1,0 +1,56 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "Connecticut St SPL Tax 5.00% 01/01/37",
+      "code": "GS",
+      "typ": "P",
+      "dt": "10/22/2025",
+      "ndt": "11/02/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Stocks, Bonds, & Mutual Funds",
+      "desc": "40,000 units of Connecticut St SPL Tax 5.00% 01/01/37"
+    },
+    {
+      "own": "JT",
+      "ast": "King Cnty Wash 4.00% 12/01/32",
+      "code": "GS",
+      "typ": "P",
+      "dt": "10/31/2025",
+      "ndt": "11/02/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Stocks, Bonds, & Mutual Funds",
+      "desc": "35,000 units of King Cnty Wash 4.00% 12/01/32"
+    },
+    {
+      "own": "JT",
+      "ast": "North Allegheny PA Sch 5.00% 05/01/2030",
+      "code": "GS",
+      "typ": "E",
+      "dt": "10/14/2025",
+      "ndt": "10/22/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Stocks, Bonds, & Mutual Funds",
+      "desc": "redemption of municipal bond"
+    },
+    {
+      "own": "JT",
+      "ast": "St John Baptist Parish Var 06/01/37",
+      "code": "GS",
+      "typ": "P",
+      "dt": "10/23/2025",
+      "ndt": "11/02/2025",
+      "amt": "$50,001 - $100,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Stocks, Bonds, & Mutual Funds",
+      "desc": "55,000 units of St John Baptist Parish Var 06/01/37"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Redeem Technologies",
+      "code": "PS",
+      "typ": "P",
+      "dt": "05/25/2023",
+      "ndt": "05/25/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Simple Web3 KC LLC",
+      "desc": "Redeem Technologies is a privately held Web3 company."
+    }
+  ]
+}

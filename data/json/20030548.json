@@ -1,0 +1,43 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "lululemon athletica inc. - Common Stock (LULU)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "06/17/2025",
+      "ndt": "06/18/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Snowflake Inc. Class A Common Stock (SNOW)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "06/17/2025",
+      "ndt": "06/18/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Tractor Supply Company - Common Stock (TSCO)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "06/17/2025",
+      "ndt": "06/18/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

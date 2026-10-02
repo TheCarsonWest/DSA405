@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "Los Angeles CA W/P Wtr Util",
+      "code": "GS",
+      "typ": "S",
+      "dt": "01/01/2023",
+      "ndt": "01/31/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "Multi-Pack Solutions LLC",
+      "code": "OL",
+      "typ": "S (partial)",
+      "dt": "01/03/2023",
+      "ndt": "01/31/2023",
+      "amt": "$100,001 - $250,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Location: Mt. Prospect, IL, US\nDescription: Packaging Company"
+    }
+  ]
+}

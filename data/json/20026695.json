@@ -1,0 +1,69 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Aero Engineering Holdings LLC",
+      "code": "OI",
+      "typ": "P",
+      "dt": "01/27/2025",
+      "ndt": "01/27/2025",
+      "amt": "$50,001 - $100,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Investment Fund 1",
+      "desc": "Aviation parts manufacturer"
+    },
+    {
+      "own": "",
+      "ast": "Andersen Corporation",
+      "code": "OI",
+      "typ": "S (partial)",
+      "dt": "01/24/2025",
+      "ndt": "01/25/2025",
+      "amt": "$500,001 - $1,000,000",
+      "cg": true,
+      "stat": "New",
+      "sub": "Investment Fund 1",
+      "desc": "Window Manufacturer"
+    },
+    {
+      "own": "",
+      "ast": "Pathfinder 360 v.2",
+      "code": "HN",
+      "typ": "P",
+      "dt": "01/10/2025",
+      "ndt": "01/25/2025",
+      "amt": "$100,001 - $250,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Investment Fund 1",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Pathfinder 360 v.2",
+      "code": "HN",
+      "typ": "P",
+      "dt": "01/10/2025",
+      "ndt": "01/25/2025",
+      "amt": "$100,001 - $250,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Investment Fund 1",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Urban SKY",
+      "code": "OI",
+      "typ": "P",
+      "dt": "01/06/2025",
+      "ndt": "01/25/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Investment Fund 1",
+      "desc": "Stratospheric Flight Technology"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "Diamondback Energy, Inc. - Common Stock (FANG)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "09/10/2024",
+      "ndt": "10/02/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Rockefeller Capital Management (1)",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "NextEra Energy, Inc. Common Stock (NEE)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "09/10/2024",
+      "ndt": "10/02/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Rockefeller Capital Management (1)",
+      "desc": ""
+    }
+  ]
+}

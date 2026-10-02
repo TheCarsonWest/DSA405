@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "American Express Company Common Stock (AXP)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "04/09/2025",
+      "ndt": "04/11/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Part of quarterly rebalance"
+    },
+    {
+      "own": "",
+      "ast": "NextEra Energy, Inc. Common Stock (NEE)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "04/09/2025",
+      "ndt": "04/11/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Part of quarterly rebalancing"
+    }
+  ]
+}

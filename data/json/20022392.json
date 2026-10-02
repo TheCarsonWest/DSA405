@@ -1,0 +1,43 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "Essential Utilities, Inc. (WTRG)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "01/11/2023",
+      "ndt": "02/07/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "CP-Roth",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "Kinder Morgan, Inc. (KMI)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "01/11/2023",
+      "ndt": "02/07/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "CP-Roth",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "Pfizer, Inc. (PFE)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "01/11/2023",
+      "ndt": "02/07/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "CP-Roth",
+      "desc": ""
+    }
+  ]
+}

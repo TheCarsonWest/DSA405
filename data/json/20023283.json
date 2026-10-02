@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "DC",
+      "ast": "Adams Resources & Energy, Inc. (AE)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "10/27/2022",
+      "ndt": "10/28/2022",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

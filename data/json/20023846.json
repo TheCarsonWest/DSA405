@@ -1,0 +1,56 @@
+{
+  "transactions": [
+    {
+      "own": "DC",
+      "ast": "Cummins Inc. (CMI)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "09/27/2023",
+      "ndt": "09/30/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley Active Assets (5)",
+      "desc": ""
+    },
+    {
+      "own": "DC",
+      "ast": "Cummins Inc. (CMI)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "09/27/2023",
+      "ndt": "09/30/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley Active Assets (6)",
+      "desc": ""
+    },
+    {
+      "own": "DC",
+      "ast": "Target Corporation (TGT)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "09/27/2023",
+      "ndt": "09/30/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley Active Assets (5)",
+      "desc": ""
+    },
+    {
+      "own": "DC",
+      "ast": "Target Corporation (TGT)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "09/27/2023",
+      "ndt": "09/30/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley Active Assets (6)",
+      "desc": ""
+    }
+  ]
+}

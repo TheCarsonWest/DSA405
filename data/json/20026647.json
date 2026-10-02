@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "FEDERAL NATIONAL MORTGAGE ASSOCIATION POOL MA5471",
+      "code": "CS",
+      "typ": "P",
+      "dt": "01/15/2025",
+      "ndt": "01/22/2025",
+      "amt": "$100,001 - $250,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley Smith Barney LLC Brokerage Account",
+      "desc": "Corporate Bond; maturity date - 09/01/2054; Coupon Rate - 6% Fixed"
+    },
+    {
+      "own": "",
+      "ast": "Walt Disney Company (DIS)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "01/15/2025",
+      "ndt": "01/22/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley Smith Barney LLC IRA",
+      "desc": ""
+    }
+  ]
+}

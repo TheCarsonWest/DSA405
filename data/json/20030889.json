@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "iShares Bitcoin Trust ETF - iShares Bitcoin Trust ETF (IBIT)",
+      "code": "ET",
+      "typ": "P",
+      "dt": "07/17/2025",
+      "ndt": "07/17/2025",
+      "amt": "$50,001 - $100,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

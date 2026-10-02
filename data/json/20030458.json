@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "Novo Nordisk A/S Common Stock (NVO)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "05/08/2025",
+      "ndt": "06/04/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Five put contracts in Novo Nordisk (NVO) expiring June 20, 2025 at the $65 strike for $4 per share."
+    }
+  ]
+}

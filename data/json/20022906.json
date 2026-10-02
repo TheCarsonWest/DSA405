@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "DC",
+      "ast": "Simon Property Group, Inc. (SPG)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "05/03/2023",
+      "ndt": "05/10/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "TD Ameritrade Minor Roth IRA",
+      "desc": "This transaction was made by Lilianna Spartz's minor Roth IRA."
+    }
+  ]
+}

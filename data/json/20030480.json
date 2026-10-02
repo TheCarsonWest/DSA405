@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "Farmers & Merchants Bancorp, Inc. (FMAO)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "06/05/2025",
+      "ndt": "06/05/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Compensation"
+    }
+  ]
+}

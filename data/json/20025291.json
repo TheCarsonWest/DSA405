@@ -1,0 +1,43 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Aon plc Class A Ordinary Shares (AON)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "05/06/2024",
+      "ndt": "06/03/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Kean Family Partnership",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Becton, Dickinson and Company Common Stock (BDX)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "05/24/2024",
+      "ndt": "06/03/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Kean Family Partnership",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Fiserv, Inc. Common Stock (FI)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "05/22/2024",
+      "ndt": "06/03/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Kean Family Partnership",
+      "desc": ""
+    }
+  ]
+}

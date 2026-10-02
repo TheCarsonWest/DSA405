@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "BlackRock, Inc. Common Stock (BLK)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "12/19/2024",
+      "ndt": "01/09/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Rockefeller Capital Management (1)",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "United Rentals, Inc. Common Stock (URI)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "12/19/2024",
+      "ndt": "01/09/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Rockefeller Capital Management (1)",
+      "desc": ""
+    }
+  ]
+}

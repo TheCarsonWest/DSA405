@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Aspiration Fund Adviser LLC",
+      "code": "PS",
+      "typ": "P",
+      "dt": "08/27/2019",
+      "ndt": "08/27/2019",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Investment advisory services; Location: Marina Del Rey, CA."
+    },
+    {
+      "own": "",
+      "ast": "NameCoach Inc.",
+      "code": "CS",
+      "typ": "P",
+      "dt": "06/14/2022",
+      "ndt": "06/14/2022",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "IRA Club",
+      "desc": "Convertible Note. Pronunciation Guide Services; Location: Palo Alta, CA."
+    }
+  ]
+}

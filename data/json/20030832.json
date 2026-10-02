@@ -1,0 +1,121 @@
+{
+  "transactions": [
+    {
+      "own": "DC",
+      "ast": "Brown & Brown, Inc. Common Stock (BRO)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "07/25/2025",
+      "ndt": "08/01/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "DC",
+      "ast": "CDW Corporation - Common Stock (CDW)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "07/09/2025",
+      "ndt": "08/01/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "DC",
+      "ast": "Entegris, Inc. - Common Stock (ENTG)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "07/09/2025",
+      "ndt": "08/01/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "DC",
+      "ast": "Entegris, Inc. - Common Stock (ENTG)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "07/28/2025",
+      "ndt": "08/01/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "DC",
+      "ast": "IDEXX Laboratories, Inc. - Common Stock (IDXX)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "07/09/2025",
+      "ndt": "08/01/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": true,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "DC",
+      "ast": "Markel Group Inc. Common Stock (MKL)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "07/09/2025",
+      "ndt": "08/01/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "DC",
+      "ast": "Markel Group Inc. Common Stock (MKL)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "07/25/2025",
+      "ndt": "08/01/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "DC",
+      "ast": "Paychex, Inc. - Common Stock (PAYX)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "07/23/2025",
+      "ndt": "08/01/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "DC",
+      "ast": "PTC Inc. - Common Stock (PTC)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "07/11/2025",
+      "ndt": "08/01/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

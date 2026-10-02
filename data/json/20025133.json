@@ -1,0 +1,56 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "Metropolitan Wash DC 5.00% 10/01/31",
+      "code": "GS",
+      "typ": "P",
+      "dt": "05/02/2024",
+      "ndt": "05/24/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Stocks, Bonds, & Mutual Funds",
+      "desc": "20,000 units of Metropolitan Washington DC 5.00% 10/01/31 bonds"
+    },
+    {
+      "own": "JT",
+      "ast": "Putnam Cnty WVA Brd Ed 1.123% 05/01/24",
+      "code": "GS",
+      "typ": "S",
+      "dt": "05/23/2024",
+      "ndt": "05/24/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Stocks, Bonds, & Mutual Funds",
+      "desc": "Putnam County, WVA Brd Ed 1.123% bonds reached maturity 05/01/24"
+    },
+    {
+      "own": "JT",
+      "ast": "Wise Cnty VA Indl Var 11-01-40",
+      "code": "GS",
+      "typ": "P",
+      "dt": "05/31/2024",
+      "ndt": "05/31/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Stocks, Bonds, & Mutual Funds",
+      "desc": "25,000 units of Wise County Virginia Indl Var bonds, due 11-01-40"
+    },
+    {
+      "own": "JT",
+      "ast": "Wise Cnty VA V-A 1.875% 11-01-40",
+      "code": "GS",
+      "typ": "S",
+      "dt": "05/31/2024",
+      "ndt": "05/31/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Stocks, Bonds, & Mutual Funds",
+      "desc": "Called security; 25,000 units"
+    }
+  ]
+}

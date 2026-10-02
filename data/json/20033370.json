@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Alphabet Inc. - Class A Common Stock (GOOGL)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "10/10/2025",
+      "ndt": "10/14/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "PERSHING LLC",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Kyndryl Holdings, Inc. Common Stock (KD)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "10/10/2025",
+      "ndt": "10/14/2025",
+      "amt": "$224.00",
+      "cg": false,
+      "stat": "New",
+      "sub": "PERSHING LLC",
+      "desc": ""
+    }
+  ]
+}

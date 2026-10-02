@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Interest Rate Cap Transaction UBS",
+      "code": "OT",
+      "typ": "S",
+      "dt": "04/10/2025",
+      "ndt": "04/11/2025",
+      "amt": "$25,000,001 - $50,000,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Sale of two interest rate cap investments reported as purchases in 2023 and two interest rate cap investments that were purchased in 2024 and will be reported in the 2024 annual report. All four were sold prior to their maturity date thus triggering this report. The total of the 4 sales was $30 million."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "Maryland ST Dept TR 5%27 Comb Tax Due 11/01/27",
+      "code": "GS",
+      "typ": "P",
+      "dt": "10/30/2025",
+      "ndt": "10/30/2025",
+      "amt": "$250,001 - $500,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "Southeast Energy Auth Coop Dist Ala 5.00% Due Sep 1, 2035",
+      "code": "GS",
+      "typ": "P",
+      "dt": "10/28/2025",
+      "ndt": "10/28/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

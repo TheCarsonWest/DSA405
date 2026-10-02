@@ -1,0 +1,56 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "Dallas Tex Area Rapid 5.00% 12/01/25",
+      "code": "GS",
+      "typ": "E",
+      "dt": "12/02/2024",
+      "ndt": "01/06/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Stocks, Bonds, & Mutual Funds",
+      "desc": "Called Security"
+    },
+    {
+      "own": "JT",
+      "ast": "Duke Street LLC, 50% Interest",
+      "code": "OI",
+      "typ": "S",
+      "dt": "12/23/2024",
+      "ndt": "12/26/2024",
+      "amt": "$5,000,001 - $25,000,000",
+      "cg": true,
+      "stat": "New",
+      "sub": "Real estate investments",
+      "desc": "sale of 2712 Duke Street, Alexandria, Virginia"
+    },
+    {
+      "own": "JT",
+      "ast": "Oklahoma Cnty OK Indep 3.00% 07.01.25",
+      "code": "GS",
+      "typ": "P",
+      "dt": "12/04/2024",
+      "ndt": "01/06/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Stocks, Bonds, & Mutual Funds",
+      "desc": "15,000 units Oklahoma County, OK, Indep 3.00% 07/01/25"
+    },
+    {
+      "own": "JT",
+      "ast": "Oklahoma Cnty OK Indep 3.00% 07.01.25",
+      "code": "GS",
+      "typ": "P",
+      "dt": "12/04/2024",
+      "ndt": "01/06/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Stocks, Bonds, & Mutual Funds",
+      "desc": "5,000 units Oklahoma County, OK, Indep 3.00% 07/01/25"
+    }
+  ]
+}

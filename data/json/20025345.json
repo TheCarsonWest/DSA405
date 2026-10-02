@@ -1,0 +1,43 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Mercato Partners IV, LP",
+      "code": "HN",
+      "typ": "P",
+      "dt": "02/15/2023",
+      "ndt": "03/30/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "2012 Trust",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "New Water Capital II",
+      "code": "HN",
+      "typ": "P",
+      "dt": "02/17/2023",
+      "ndt": "03/30/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "2012 Trust",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "New Water Capital II",
+      "code": "HN",
+      "typ": "P",
+      "dt": "01/06/2023",
+      "ndt": "02/03/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "2012 Trust",
+      "desc": ""
+    }
+  ]
+}

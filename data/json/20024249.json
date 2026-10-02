@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "Alibaba Group Holding Limited American Depositary Shares each representing eight Ordinary share (BABA)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "12/29/2023",
+      "ndt": "01/03/2024",
+      "amt": "$100,001 - $250,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

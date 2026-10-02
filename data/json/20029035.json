@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Alpine Investors IX, LP (GLAS Funds, LP)",
+      "code": "HN",
+      "typ": "S (partial)",
+      "dt": "03/10/2025",
+      "ndt": "03/27/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "2012 Trust",
+      "desc": "Distribution from Alpine Investors IX LP of $2,202.88"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "CVS Health Corporation Common Stock (CVS)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "06/27/2024",
+      "ndt": "07/03/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Part of my spouse's retirement portfolio."
+    },
+    {
+      "own": "SP",
+      "ast": "US Treasu NT 4.625%04/31",
+      "code": "GS",
+      "typ": "P",
+      "dt": "06/07/2024",
+      "ndt": "07/03/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Part of my spouse's retirement portfolio."
+    },
+    {
+      "own": "SP",
+      "ast": "US Treasury 5.375%02/31UST Bond",
+      "code": "GS",
+      "typ": "S",
+      "dt": "06/07/2024",
+      "ndt": "07/03/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Part of my spouse's retirement portfolio."
+    },
+    {
+      "own": "",
+      "ast": "US Treasury Bill Due 12/26/24",
+      "code": "GS",
+      "typ": "P",
+      "dt": "06/21/2024",
+      "ndt": "07/03/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

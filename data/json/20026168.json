@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "NVIDIA Corporation - Common Stock (NVDA)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "10/02/2024",
+      "ndt": "11/07/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Merrill Lynch- Advisor Discretion Account- IRA",
+      "desc": ""
+    }
+  ]
+}

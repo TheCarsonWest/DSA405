@@ -1,0 +1,43 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Amgen Inc. - Common Stock",
+      "code": "ST",
+      "typ": "S",
+      "dt": "12/03/2025",
+      "ndt": "12/05/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "David Taylor Trust > Schwab Joint Brokerage #1 (Home Grown)",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Amgen Inc. - Common Stock",
+      "code": "ST",
+      "typ": "S",
+      "dt": "12/03/2025",
+      "ndt": "12/05/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Visa Inc.",
+      "code": "ST",
+      "typ": "P",
+      "dt": "12/03/2025",
+      "ndt": "12/05/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
+      "desc": ""
+    }
+  ]
+}

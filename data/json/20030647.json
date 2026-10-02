@@ -1,0 +1,43 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "3M Company Common Stock (MMM)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "06/18/2025",
+      "ndt": "07/08/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Chase Brokerage Account (3935)",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "Merck & Company, Inc. Common Stock (MRK)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "06/13/2025",
+      "ndt": "07/09/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Chase Brokerage Account (3935)",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "Palantir Technologies Inc. - Class A Common Stock (PLTR)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "06/30/2025",
+      "ndt": "07/09/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Merrill Lynch Tax Efficient Core",
+      "desc": ""
+    }
+  ]
+}

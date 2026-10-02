@@ -1,0 +1,69 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "Lynett Capital Partners III, LP",
+      "code": "OT",
+      "typ": "P",
+      "dt": "01/17/2024",
+      "ndt": "01/31/2024",
+      "amt": "$100,001 - $250,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Location: US\nDESCRIPTION: Pooled Investment Fund/Venture Capital"
+    },
+    {
+      "own": "SP",
+      "ast": "U.S Treasury Bills",
+      "code": "GS",
+      "typ": "P",
+      "dt": "01/02/2024",
+      "ndt": "01/31/2024",
+      "amt": "Spouse/DC Over $1,000,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "U.S Treasury Bills",
+      "code": "GS",
+      "typ": "S (partial)",
+      "dt": "01/18/2024",
+      "ndt": "01/31/2024",
+      "amt": "$250,001 - $500,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "U.S Treasury Bills",
+      "code": "GS",
+      "typ": "P",
+      "dt": "01/31/2024",
+      "ndt": "01/31/2024",
+      "amt": "$250,001 - $500,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "U.S Treasury Notes",
+      "code": "GS",
+      "typ": "P",
+      "dt": "01/02/2024",
+      "ndt": "01/31/2024",
+      "amt": "Spouse/DC Over $1,000,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

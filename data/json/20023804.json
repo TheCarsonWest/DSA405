@@ -1,0 +1,43 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "ChampionX Corporation (CHX)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "09/19/2023",
+      "ndt": "10/04/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley Trust Account",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "DTE Energy Company (DTE)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "09/26/2023",
+      "ndt": "10/04/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley Trust Account",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "NextEra Energy, Inc. (NEE)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "09/19/2023",
+      "ndt": "10/04/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": true,
+      "stat": "New",
+      "sub": "Morgan Stanley Trust Account",
+      "desc": ""
+    }
+  ]
+}

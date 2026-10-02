@@ -1,0 +1,43 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "Inland Real Estate Income Trust [PS]",
+      "code": "PS",
+      "typ": "P",
+      "dt": "04/08/2024",
+      "ndt": "04/09/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Hern Family Revocable Trust > Brokerage Investment Account",
+      "desc": "Dividend Reinvestment"
+    },
+    {
+      "own": "JT",
+      "ast": "JP Morgan Chase & Co. Common Stock (JPM) [ST]",
+      "code": "ST",
+      "typ": "P",
+      "dt": "04/30/2024",
+      "ndt": "05/01/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Hern Family Revocable Trust > Brokerage Investment Account",
+      "desc": "Dividend Reinvestment"
+    },
+    {
+      "own": "JT",
+      "ast": "TORONTO DOMINION BANK SER E NOTE 04/27/2029 [CS]",
+      "code": "CS",
+      "typ": "P",
+      "dt": "04/24/2024",
+      "ndt": "04/25/2024",
+      "amt": "$250,001 - $500,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Hern Family Foundation",
+      "desc": "Buy Open"
+    }
+  ]
+}

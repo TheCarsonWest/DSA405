@@ -1,0 +1,43 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Marvell Technology, Inc. - Common Stock (MRVL)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "01/21/2025",
+      "ndt": "02/22/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Palantir Technologies Inc. - Class A Common Stock (PLTR)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "01/21/2025",
+      "ndt": "01/22/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "The Trade Desk, Inc. - Class A Common Stock (TTD)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "02/04/2025",
+      "ndt": "02/05/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

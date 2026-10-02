@@ -1,0 +1,69 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Analog Devices, Inc. (ADI)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "04/14/2023",
+      "ndt": "04/30/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley Active Assets (1)",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Kimberly-Clark Corporation (KMB)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "04/14/2023",
+      "ndt": "04/30/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley Active Assets (1)",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Public Service Enterprise Group Incorporated (PEG)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "04/14/2023",
+      "ndt": "04/30/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley Active Assets (1)",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Roper Technologies, Inc. (ROP)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "04/14/2023",
+      "ndt": "04/30/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley Active Assets (1)",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Sherwin-Williams Company (SHW)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "04/14/2023",
+      "ndt": "04/30/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley Active Assets (1)",
+      "desc": ""
+    }
+  ]
+}

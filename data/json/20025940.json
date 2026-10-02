@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "Seattle WA MN LT PW 3.4% PWR Util Due 05/01/45",
+      "code": "GS",
+      "typ": "P",
+      "dt": "09/18/2024",
+      "ndt": "09/18/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "CENTRE CNTY PA HOSP AUTH REV HOSP REV 5% 11/15/2046 BDS MT NITTANYMED",
+      "code": "GS",
+      "typ": "S",
+      "dt": "10/21/2025",
+      "ndt": "10/21/2025",
+      "amt": "$250,001 - $500,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Fidelity Trust",
+      "desc": ""
+    }
+  ]
+}

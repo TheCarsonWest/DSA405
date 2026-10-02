@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Arlington, TX Municipal Bond",
+      "code": "GS",
+      "typ": "P",
+      "dt": "08/18/2025",
+      "ndt": "08/26/2025",
+      "amt": "$50,001 - $100,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "JP Morgan Brokerage Account #4",
+      "desc": "Arlington, TX Municipal Bond\nCOMMENTS: All investment decisions related to my personal financial portfolio are delegated to professional financial advisors. I have no role in, nor am informed of, specific investment decisions prior to their execution. Accordingly, this transaction was planned and executed by a financial advisor."
+    }
+  ]
+}

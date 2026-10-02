@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "Apollo Debt Solutions BDC Class S",
+      "code": "OT",
+      "typ": "P",
+      "dt": "10/01/2025",
+      "ndt": "10/16/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "W.S.B Trust > UBS Financial Services 26",
+      "desc": "Dividend reinvestment in a professionally managed account – Business Development Company."
+    },
+    {
+      "own": "SP",
+      "ast": "Oaktree Strategic Credit Fund Class S",
+      "code": "OT",
+      "typ": "P",
+      "dt": "09/29/2025",
+      "ndt": "10/16/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "W.S.B Trust > UBS Financial Services 26",
+      "desc": "Dividend reinvestment in a professionally managed account – Business Development Company."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "Apollo Medical Holdings, Inc. (AMEH)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "01/10/2024",
+      "ndt": "01/10/2024",
+      "amt": "$100,001 - $250,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "Apollo Medical Holdings, Inc. (AMEH)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "01/10/2024",
+      "ndt": "01/10/2024",
+      "amt": "$100,001 - $250,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Series I Bond",
+      "code": "GS",
+      "typ": "P",
+      "dt": "01/04/2023",
+      "ndt": "05/08/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "US Savings Bond",
+      "code": "GS",
+      "typ": "P",
+      "dt": "04/26/2023",
+      "ndt": "05/08/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "US Savings Bond",
+      "code": "GS",
+      "typ": "P",
+      "dt": "03/19/2024",
+      "ndt": "05/08/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

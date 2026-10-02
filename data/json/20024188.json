@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "DAIMLER TRUCK HLDG S/ADR (DTRUY)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "12/11/2023",
+      "ndt": "12/11/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Stephens Advantage Account",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Kyndryl Holdings, Inc. (KD)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "12/11/2023",
+      "ndt": "12/11/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Stephens Advantage Account",
+      "desc": ""
+    }
+  ]
+}

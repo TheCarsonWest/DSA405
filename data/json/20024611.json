@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Procter & Gamble Company (PG)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "02/15/2024",
+      "ndt": "03/04/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Reinvest Shares"
+    }
+  ]
+}

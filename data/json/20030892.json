@@ -1,0 +1,43 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "Connecticut St Ser A Go 5% due 1/15/28",
+      "code": "GS",
+      "typ": "S",
+      "dt": "07/17/2025",
+      "ndt": "08/12/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Victoria Kelly Trust ICA",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "Florida St Hsg Fin Corp Rev due 7/1/52",
+      "code": "GS",
+      "typ": "S (partial)",
+      "dt": "07/01/2025",
+      "ndt": "08/12/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Victoria Kelly Trust ICA",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "Volusia Cnty FL Eductnl Fac Au Embry Riddle 5% due 10/15/31",
+      "code": "GS",
+      "typ": "P",
+      "dt": "07/31/2025",
+      "ndt": "08/12/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Victoria Kelly Trust ICA",
+      "desc": ""
+    }
+  ]
+}

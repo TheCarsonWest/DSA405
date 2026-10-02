@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "Stepstone Tactical Growth Fund III, LP",
+      "code": "OT",
+      "typ": "P",
+      "dt": "11/18/2024",
+      "ndt": "11/30/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Location: US\nDESCRIPTION: Pooled Investment Fund"
+    },
+    {
+      "own": "SP",
+      "ast": "Visalia CA Uni IMPT SCH",
+      "code": "GS",
+      "typ": "P",
+      "dt": "11/07/2024",
+      "ndt": "11/30/2024",
+      "amt": "$500,001 - $1,000,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

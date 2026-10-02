@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "FT UNIT 10479 PFD INCOME PORTFOLIO SER 114 [OT]",
+      "code": "OT",
+      "typ": "P",
+      "dt": "02/06/2023",
+      "ndt": "02/13/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Stephens Advantage Account",
+      "desc": "FT UNIT 10479 PFD"
+    }
+  ]
+}

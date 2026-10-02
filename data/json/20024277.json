@@ -1,0 +1,56 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "Albemarle Corporation (ALB)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "12/21/2023",
+      "ndt": "01/08/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "R.W. Allen & Associates, Inc.",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "Albemarle Corporation (ALB)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "12/21/2023",
+      "ndt": "01/08/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "LIVTR",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "Charles Schwab Corporation (SCHW)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "12/14/2023",
+      "ndt": "01/08/2024",
+      "amt": "$50,001 - $100,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "R.W. Allen & Associates, Inc.",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "NextEra Energy, Inc. (NEE)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "12/21/2023",
+      "ndt": "01/08/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "R.W. Allen & Associates, Inc.",
+      "desc": ""
+    }
+  ]
+}

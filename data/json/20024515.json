@@ -1,0 +1,43 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Simon Property Group, Inc. Common Stock (SPG)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "02/02/2024",
+      "ndt": "02/09/2024",
+      "amt": "$50,001 - $100,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Charles Schwab Roth IRA",
+      "desc": "This transaction was made by Jason Spartz's Roth IRA."
+    },
+    {
+      "own": "DC",
+      "ast": "Simon Property Group, Inc. Common Stock (SPG)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "02/02/2024",
+      "ndt": "02/09/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Charles Schwab Minor Roth IRA",
+      "desc": "This transaction was made by Lilianna Spartz's minor Roth IRA."
+    },
+    {
+      "own": "DC",
+      "ast": "Simon Property Group, Inc. Common Stock (SPG)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "02/02/2024",
+      "ndt": "02/09/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Charles Schwab Minor Roth IRA",
+      "desc": "This transaction was made by Ingrid Spartz's minor Roth IRA."
+    }
+  ]
+}

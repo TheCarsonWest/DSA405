@@ -1,0 +1,56 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "AIX Ventures Fund II, LP (GLAS Funds, LP) [HN]",
+      "code": "HN",
+      "typ": "P",
+      "dt": "06/16/2025",
+      "ndt": "06/30/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "2012 Trust",
+      "desc": "Capital Call for AIX Ventures Fund II, LP (GLAS Funds LP) for $7,459.87"
+    },
+    {
+      "own": "",
+      "ast": "Mercato Partners Traverse IV QP, LP (GLAS Funds, LP) [HN]",
+      "code": "HN",
+      "typ": "P",
+      "dt": "06/30/2025",
+      "ndt": "06/30/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "2012 Trust",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Trimer Capital Partners I LP (GLAS) - Core [HN]",
+      "code": "HN",
+      "typ": "P",
+      "dt": "06/12/2025",
+      "ndt": "06/30/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "2012 Trust",
+      "desc": "Capital call for $2,388.63 for Trimer Capital Partners I - Core"
+    },
+    {
+      "own": "",
+      "ast": "Trimer Capital Partners I LP (GLAS) - Select [HN]",
+      "code": "HN",
+      "typ": "P",
+      "dt": "06/30/2025",
+      "ndt": "06/30/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "2012 Trust",
+      "desc": "Capital call ($1,231.34) for Trimer Capital Partners I LP (GLAS) - Select"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "America First Natural Resources LLC",
+      "code": "OL",
+      "typ": "P",
+      "dt": "04/23/2024",
+      "ndt": "04/23/2024",
+      "amt": "$50,001 - $100,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Location: San Antonio, TX, US\nDescription: America First Natural Resources LLC is engaged in energy production."
+    },
+    {
+      "own": "",
+      "ast": "America First Natural Resources LLC",
+      "code": "OL",
+      "typ": "P",
+      "dt": "05/20/2024",
+      "ndt": "05/20/2024",
+      "amt": "$100,001 - $250,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Location: San Antonio, TX, US\nDescription: America First Natural Resources LLC is engaged in energy production."
+    },
+    {
+      "own": "",
+      "ast": "America First Natural Resources LLC",
+      "code": "OL",
+      "typ": "P",
+      "dt": "05/20/2024",
+      "ndt": "05/20/2024",
+      "amt": "$50,001 - $100,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Location: San Antonio, TX, US\nDescription: America First Natural Resources LLC is engaged in energy production."
+    }
+  ]
+}

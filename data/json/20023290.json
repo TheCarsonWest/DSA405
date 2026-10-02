@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "DC Ser A DEC13 5.0% JUN01 2030",
+      "code": "GS",
+      "typ": "S",
+      "dt": "06/01/2023",
+      "ndt": "07/10/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "MERRILL LYNCH #806",
+      "desc": "Bond Redemption"
+    }
+  ]
+}

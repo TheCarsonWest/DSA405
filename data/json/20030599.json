@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "Eli Lilly and Company Common Stock (LLY)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "06/03/2025",
+      "ndt": "07/02/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley Trust Account",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "International Business Machines Corporation Common Stock (IBM)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "06/03/2025",
+      "ndt": "07/02/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley Trust Account",
+      "desc": ""
+    }
+  ]
+}

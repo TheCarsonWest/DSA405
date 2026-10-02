@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "UBS Group AG Registered Ordinary Shares (UBS)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "03/03/2023",
+      "ndt": "03/03/2023",
+      "amt": "$250,001 - $500,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "EquatePlus",
+      "desc": ""
+    }
+  ]
+}

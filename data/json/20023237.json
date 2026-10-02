@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "DUKE ENERGY C 5.75% PFD SER A",
+      "code": "CS",
+      "typ": "P",
+      "dt": "06/20/2023",
+      "ndt": "06/20/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Bond dividend reinvestment"
+    },
+    {
+      "own": "JT",
+      "ast": "Vector Group Ltd. (VGR)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "06/30/2023",
+      "ndt": "06/30/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

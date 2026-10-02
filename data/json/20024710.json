@@ -1,0 +1,56 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "NVIDIA Corporation - Common Stock (NVDA)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "02/20/2024",
+      "ndt": "03/01/2024",
+      "amt": "$250,001 - $500,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Schwab Brokerage Account",
+      "desc": ""
+    },
+    {
+      "own": "DC",
+      "ast": "NVIDIA Corporation - Common Stock (NVDA)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "02/20/2024",
+      "ndt": "03/01/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Schwab JM Brokerage Account",
+      "desc": ""
+    },
+    {
+      "own": "DC",
+      "ast": "NVIDIA Corporation - Common Stock (NVDA)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "02/20/2024",
+      "ndt": "03/01/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Schwab DM Brokerage Account",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "US Treasury Bill",
+      "code": "GS",
+      "typ": "P",
+      "dt": "02/23/2024",
+      "ndt": "03/01/2024",
+      "amt": "$250,001 - $500,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

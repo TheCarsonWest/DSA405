@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Regal Bancorp Inc. (RGBM)",
+      "code": "OT",
+      "typ": "S",
+      "dt": "09/19/2023",
+      "ndt": "04/19/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Former publicly traded company; filer took no action to initiate this trade; result of a corporate action."
+    }
+  ]
+}

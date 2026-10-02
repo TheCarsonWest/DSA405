@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "Garden of Eden LLC, 40% Interest",
+      "code": "OI",
+      "typ": "S",
+      "dt": "08/30/2024",
+      "ndt": "09/02/2024",
+      "amt": "$5,000,001 - $25,000,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Real estate investments",
+      "desc": "sale of land and buildings, Frederick County Virginia"
+    }
+  ]
+}

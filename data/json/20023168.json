@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Peloton Interactive, Inc. (PTON)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "06/09/2023",
+      "ndt": "06/09/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Schwab IRA",
+      "desc": ""
+    }
+  ]
+}

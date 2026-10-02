@@ -1,0 +1,56 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Ameris Bancorp - Common Stock (ABCB)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "07/18/2024",
+      "ndt": "07/23/2024",
+      "amt": "$100,001 - $250,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Stifel",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Ameris Bancorp - Common Stock (ABCB)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "07/19/2024",
+      "ndt": "07/23/2024",
+      "amt": "$100,001 - $250,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Stifel",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Ameris Bancorp - Common Stock (ABCB)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "07/23/2024",
+      "ndt": "07/23/2024",
+      "amt": "$100,001 - $250,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Stifel",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Ameris Bancorp - Common Stock (ABCB)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "07/19/2024",
+      "ndt": "07/23/2024",
+      "amt": "$100,001 - $250,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Stifel",
+      "desc": ""
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Bitcoin",
+      "code": "CT",
+      "typ": "P",
+      "dt": "01/29/2025",
+      "ndt": "01/29/2025",
+      "amt": "$100,001 - $250,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Bitcoin",
+      "code": "CT",
+      "typ": "P",
+      "dt": "02/27/2025",
+      "ndt": "02/27/2025",
+      "amt": "$100,001 - $250,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Bitcoin",
+      "code": "CT",
+      "typ": "P",
+      "dt": "05/13/2025",
+      "ndt": "05/13/2025",
+      "amt": "$100,001 - $250,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Bitcoin",
+      "code": "CT",
+      "typ": "P",
+      "dt": "05/18/2025",
+      "ndt": "05/18/2025",
+      "amt": "$50,001 - $100,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Invesco S&P 500 Equal Weight ETF (RSP)",
+      "code": "OT",
+      "typ": "P",
+      "dt": "03/28/2025",
+      "ndt": "05/30/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Location: US\nDESCRIPTION: S&P 500 ETF"
+    },
+    {
+      "own": "",
+      "ast": "TOIXX",
+      "code": "GS",
+      "typ": "P",
+      "dt": "04/16/2025",
+      "ndt": "05/30/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "TOIXX",
+      "code": "GS",
+      "typ": "P",
+      "dt": "05/12/2025",
+      "ndt": "05/12/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

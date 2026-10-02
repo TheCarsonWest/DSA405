@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "US Treasu NT 3.125% Due 8/31/27",
+      "code": "GS",
+      "typ": "P",
+      "dt": "01/03/2023",
+      "ndt": "01/12/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Part of my spouse's retirement portfolio."
+    },
+    {
+      "own": "SP",
+      "ast": "US Treasury 5.375%02/31UST Bond",
+      "code": "GS",
+      "typ": "P",
+      "dt": "01/03/2023",
+      "ndt": "01/12/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Part of my spouse's retirement portfolio."
+    }
+  ]
+}

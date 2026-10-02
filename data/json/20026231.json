@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "AIX Ventures Fund II, LP (GLAS Funds, LP)",
+      "code": "HN",
+      "typ": "P",
+      "dt": "11/01/2024",
+      "ndt": "11/15/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "2012 Trust",
+      "desc": "Capital call for $4,271"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "New Gold Inc. (NGD)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "02/28/2024",
+      "ndt": "06/27/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

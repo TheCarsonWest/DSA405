@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Coinbase Global, Inc. - Class A Common Stock (COIN)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "01/19/2024",
+      "ndt": "01/20/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Sale of entire stock holding of this security totaling less than $5k."
+    }
+  ]
+}

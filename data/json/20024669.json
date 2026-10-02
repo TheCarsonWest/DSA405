@@ -1,0 +1,95 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "Accenture plc Class A Ordinary Shares (ACN)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "02/20/2024",
+      "ndt": "02/21/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Hern Family Revocable Trust > Brokerage Investment Account",
+      "desc": "Dividend Reinvestment"
+    },
+    {
+      "own": "JT",
+      "ast": "CITIGROUP GLOBAL MKTS HLDGS IN SER N 0.00000% 08/20/2027 MTN ZERO CPN",
+      "code": "CS",
+      "typ": "S",
+      "dt": "02/23/2024",
+      "ndt": "02/26/2024",
+      "amt": "$250,001 - $500,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Hern Family Foundation",
+      "desc": "Note called by issuer."
+    },
+    {
+      "own": "JT",
+      "ast": "Marsh & McLennan Companies, Inc. Common Stock (MMC)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "02/15/2024",
+      "ndt": "02/16/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Hern Family Revocable Trust > Brokerage Investment Account",
+      "desc": "Dividend Reinvestment"
+    },
+    {
+      "own": "JT",
+      "ast": "ONEOK, Inc. Common Stock (OKE)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "02/14/2024",
+      "ndt": "02/15/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Hern Family Foundation",
+      "desc": "Dividend Reinvestment"
+    },
+    {
+      "own": "JT",
+      "ast": "ONEOK, Inc. Common Stock (OKE)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "02/14/2024",
+      "ndt": "02/15/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Hern Family Revocable Trust > Brokerage Investment Account",
+      "desc": "Dividend Reinvestment"
+    },
+    {
+      "own": "JT",
+      "ast": "Texas Instruments Incorporated - Common Stock (TXN)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "02/13/2024",
+      "ndt": "02/14/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Hern Family Revocable Trust > Brokerage Investment Account",
+      "desc": "Dividend Reinvestment"
+    },
+    {
+      "own": "JT",
+      "ast": "Texas Instruments Incorporated - Common Stock (TXN)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "02/13/2024",
+      "ndt": "02/14/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Hern Family Foundation",
+      "desc": "Dividend Reinvestment"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "MicroStrategy Incorporated - Class A Common Stock (MSTR)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "12/24/2024",
+      "ndt": "03/05/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "IRA #1",
+      "desc": "Held at Merrill Lynch"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "Western Union Company (WU)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "06/13/2024",
+      "ndt": "07/01/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "MV Capital - RRK Roth IRA #3",
+      "desc": ""
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Johnson & Johnson (JNJ)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "02/24/2023",
+      "ndt": "03/06/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "State Street Bank & Trust Co.",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Stryker Corporation (SYK)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "02/24/2023",
+      "ndt": "03/06/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "State Street Bank & Trust Co.",
+      "desc": ""
+    }
+  ]
+}

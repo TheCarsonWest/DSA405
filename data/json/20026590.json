@@ -1,0 +1,121 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "Alphabet Inc. - Class A Common Stock (GOOGL)",
+      "code": "OP",
+      "typ": "P",
+      "dt": "01/14/2025",
+      "ndt": "01/14/2025",
+      "amt": "$250,001 - $500,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Purchased 50 call options with a strike price of $150 and an expiration date of 1/16/26."
+    },
+    {
+      "own": "SP",
+      "ast": "Amazon.com, Inc. - Common Stock (AMZN)",
+      "code": "OP",
+      "typ": "P",
+      "dt": "01/14/2025",
+      "ndt": "01/14/2025",
+      "amt": "$250,001 - $500,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Purchased 50 call options with a strike price of $150 and an expiration date of 1/16/26."
+    },
+    {
+      "own": "SP",
+      "ast": "Apple Inc. - Common Stock (AAPL)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "12/31/2024",
+      "ndt": "12/31/2024",
+      "amt": "$5,000,001 - $25,000,000",
+      "cg": true,
+      "stat": "New",
+      "sub": "",
+      "desc": "Sold 31,600 shares."
+    },
+    {
+      "own": "SP",
+      "ast": "NVIDIA Corporation - Common Stock (NVDA)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "12/31/2024",
+      "ndt": "12/31/2024",
+      "amt": "$1,000,001 - $5,000,000",
+      "cg": true,
+      "stat": "New",
+      "sub": "",
+      "desc": "Sold 10,000 shares."
+    },
+    {
+      "own": "SP",
+      "ast": "NVIDIA Corporation - Common Stock (NVDA)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "12/20/2024",
+      "ndt": "12/20/2024",
+      "amt": "$500,001 - $1,000,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Exercised 500 call options purchased 11/22/23 (50,000 shares) at a strike price of $12 with an expiration date of 12/20/24."
+    },
+    {
+      "own": "SP",
+      "ast": "NVIDIA Corporation - Common Stock (NVDA)",
+      "code": "OP",
+      "typ": "P",
+      "dt": "01/14/2025",
+      "ndt": "01/14/2025",
+      "amt": "$250,001 - $500,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Purchased 50 call options with a strike price of $80 and an expiration date of 1/16/26."
+    },
+    {
+      "own": "SP",
+      "ast": "Palo Alto Networks, Inc. (PANW)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "12/20/2024",
+      "ndt": "12/20/2024",
+      "amt": "$1,000,001 - $5,000,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Exercised 140 call options purchased 2/12/24 & 2/21/24 (14,000 shares) at a strike price of $100 with an expiration date of 12/20/24."
+    },
+    {
+      "own": "SP",
+      "ast": "Tempus AI, Inc. - Class A Common Stock (TEM)",
+      "code": "OP",
+      "typ": "P",
+      "dt": "01/14/2025",
+      "ndt": "01/14/2025",
+      "amt": "$50,001 - $100,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Purchased 50 call options with a strike price of $20 and an expiration date of 1/16/26."
+    },
+    {
+      "own": "SP",
+      "ast": "Vistra Corp. Common Stock (VST)",
+      "code": "OP",
+      "typ": "P",
+      "dt": "01/14/2025",
+      "ndt": "01/14/2025",
+      "amt": "$500,001 - $1,000,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Purchased 50 call options with a strike price of $50 and an expiration date of 1/16/26."
+    }
+  ]
+}

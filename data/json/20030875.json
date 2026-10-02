@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "Alibaba Group Holding Limited American Depositary Shares each representing eight Ordinary share (BABA)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "12/29/2023",
+      "ndt": "01/03/2024",
+      "amt": "$100,001 - $250,000",
+      "cg": false,
+      "stat": "Amended",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "Warner Bros. Discovery, Inc. - Series A Common Stock (WBD)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "11/29/2024",
+      "ndt": "01/05/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "Amended",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

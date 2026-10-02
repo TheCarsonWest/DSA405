@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Treasury Bill (3-month, matures 3/26/26)",
+      "code": "GS",
+      "typ": "P",
+      "dt": "12/23/2025",
+      "ndt": "12/23/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Schwab (formerly TD Ameritrade)",
+      "desc": ""
+    }
+  ]
+}

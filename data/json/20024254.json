@@ -1,0 +1,56 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "Alaska Air Group, Inc. (ALK)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "12/13/2023",
+      "ndt": "01/04/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Part of my spouse's retirement portfolio."
+    },
+    {
+      "own": "SP",
+      "ast": "Diageo plc (DEO)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "12/07/2023",
+      "ndt": "01/04/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Part of my spouse's retirement portfolio."
+    },
+    {
+      "own": "SP",
+      "ast": "US Treas NT 4.5% 11/33",
+      "code": "GS",
+      "typ": "P",
+      "dt": "12/15/2023",
+      "ndt": "01/04/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Part of my spouse's retirement portfolio."
+    },
+    {
+      "own": "SP",
+      "ast": "US Treas NT 4.5% 11/33",
+      "code": "GS",
+      "typ": "P",
+      "dt": "12/20/2023",
+      "ndt": "01/04/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Part of my spouse's retirement portfolio."
+    }
+  ]
+}

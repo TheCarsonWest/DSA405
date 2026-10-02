@@ -1,0 +1,95 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "CA UNIV REV",
+      "code": "GS",
+      "typ": "S",
+      "dt": "11/01/2023",
+      "ndt": "11/30/2023",
+      "amt": "$500,001 - $1,000,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "Los Angeles CA GO UTX",
+      "code": "GS",
+      "typ": "P",
+      "dt": "11/08/2023",
+      "ndt": "11/30/2023",
+      "amt": "$500,001 - $1,000,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "Lynett Capital Partners V, LP",
+      "code": "OT",
+      "typ": "P",
+      "dt": "11/08/2023",
+      "ndt": "11/30/2023",
+      "amt": "$100,001 - $250,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Location: US\nDescription: Pooled Investment Fund/Venture Capital"
+    },
+    {
+      "own": "SP",
+      "ast": "U.S Treasury Bills",
+      "code": "GS",
+      "typ": "S (partial)",
+      "dt": "11/02/2023",
+      "ndt": "11/30/2023",
+      "amt": "$500,001 - $1,000,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "U.S Treasury Bills",
+      "code": "GS",
+      "typ": "P",
+      "dt": "11/08/2023",
+      "ndt": "11/30/2023",
+      "amt": "$500,001 - $1,000,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "U.S Treasury Bills",
+      "code": "GS",
+      "typ": "P",
+      "dt": "11/17/2023",
+      "ndt": "11/30/2023",
+      "amt": "$500,001 - $1,000,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "U.S Treasury Bills",
+      "code": "GS",
+      "typ": "P",
+      "dt": "11/20/2023",
+      "ndt": "11/30/2023",
+      "amt": "$250,001 - $500,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

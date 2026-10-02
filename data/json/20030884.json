@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "NVIDIA Corporation - Common Stock (NVDA)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "08/07/2024",
+      "ndt": "08/07/2024",
+      "amt": "$250,001 - $500,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Schwab Brokerage Account",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "NVIDIA Corporation - Common Stock (NVDA)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "10/01/2024",
+      "ndt": "10/01/2024",
+      "amt": "$500,001 - $1,000,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Schwab Brokerage Account",
+      "desc": ""
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Amazon.com, Inc. - Common Stock (AMZN)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "10/29/2024",
+      "ndt": "04/02/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "PERSHING LLC",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Tesla, Inc. - Common Stock (TSLA)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "10/29/2024",
+      "ndt": "04/02/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "PERSHING LLC",
+      "desc": ""
+    }
+  ]
+}

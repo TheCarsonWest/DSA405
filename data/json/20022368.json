@@ -1,0 +1,69 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "CHARLES SCHWAB BK SSB WESTLAKE TEX CTF DEP ACT",
+      "code": "CS",
+      "typ": "P",
+      "dt": "01/31/2023",
+      "ndt": "02/04/2023",
+      "amt": "$250,001 - $500,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Stephens Advantage Account",
+      "desc": "CHARLES SCHWAB BK SSB WESTLAKE TEX CTF DEP ACT/365 INT RATE 4.750% MATURITY 2/2/24"
+    },
+    {
+      "own": "",
+      "ast": "FEDERATED HERMES GOVERNMENT OBLIGATIONS FUND CLASS SS",
+      "code": "GS",
+      "typ": "P",
+      "dt": "01/31/2023",
+      "ndt": "02/04/2023",
+      "amt": "$100,001 - $250,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Stephens Advantage Account",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "FIRST NATL BK & TR WEATHERFORD TEX CTF DEP ACT",
+      "code": "CS",
+      "typ": "P",
+      "dt": "01/31/2023",
+      "ndt": "02/04/2023",
+      "amt": "$250,001 - $500,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Stephens Advantage Account",
+      "desc": "FIRST NATL BK & TR WEATHERFORD TEX CTF DEP ACT/365 INT RATE 4.650 MATURITY 2/14/25"
+    },
+    {
+      "own": "",
+      "ast": "PUTNAM ULTRA SHORT DURATION INCOME FUND CLASS A",
+      "code": "OT",
+      "typ": "S",
+      "dt": "01/31/2023",
+      "ndt": "02/04/2023",
+      "amt": "$100,001 - $250,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Stephens Advantage Account",
+      "desc": "Asset PSDTX"
+    },
+    {
+      "own": "",
+      "ast": "Western Asset Inflation-Linked Opportunities & Income Fund (WIW)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "01/31/2023",
+      "ndt": "02/04/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Stephens Advantage Account",
+      "desc": ""
+    }
+  ]
+}

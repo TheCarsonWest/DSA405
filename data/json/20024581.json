@@ -1,0 +1,43 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "Austin Tex Indpt SCH Dist Unltd Tax Ref 5.00% Due Aug 1, 2028",
+      "code": "GS",
+      "typ": "P",
+      "dt": "02/21/2024",
+      "ndt": "02/21/2024",
+      "amt": "$500,001 - $1,000,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "Microsoft Corporation - Common Stock (MSFT)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "02/29/2024",
+      "ndt": "02/29/2024",
+      "amt": "$100,001 - $250,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Vested shares sold to separate trust not for the benefit of filer or spouse pursuant to forward contract dated 2/9/2022."
+    },
+    {
+      "own": "JT",
+      "ast": "Seattle WA MN LT PW 3.55% PWR Util Due 05/01/45",
+      "code": "GS",
+      "typ": "P",
+      "dt": "02/21/2024",
+      "ndt": "02/21/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

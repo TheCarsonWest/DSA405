@@ -1,0 +1,69 @@
+{
+  "transactions": [
+    {
+      "own": "DC",
+      "ast": "Brown & Brown, Inc. Common Stock (BRO)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "11/20/2025",
+      "ndt": "12/01/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "DC",
+      "ast": "EMCOR Group, Inc. Common Stock (EME)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "11/17/2025",
+      "ndt": "12/01/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": true,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "DC",
+      "ast": "Labcorp Holdings Inc. Common Stock (LH)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "11/17/2025",
+      "ndt": "12/01/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "DC",
+      "ast": "Markel Group Inc. Common Stock (MKL)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "11/03/2025",
+      "ndt": "12/01/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "DC",
+      "ast": "Quanta Services, Inc. Common Stock (PWR)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "11/17/2025",
+      "ndt": "12/01/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": true,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

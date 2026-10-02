@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "US Treas Bill Maturity 2/19/2026",
+      "code": "GS",
+      "typ": "P",
+      "dt": "08/21/2025",
+      "ndt": "08/21/2025",
+      "amt": "$1,000,001 - $5,000,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Stephens Advantage Account",
+      "desc": ""
+    }
+  ]
+}

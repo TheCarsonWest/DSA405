@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "REOF XXVI, LLC",
+      "code": "AB",
+      "typ": "P",
+      "dt": "08/13/2024",
+      "ndt": "08/13/2024",
+      "amt": "$250,001 - $500,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Investment in LLC which is acquiring and managing a commercial office property at 631 Howard Street in San Francisco, CA."
+    }
+  ]
+}

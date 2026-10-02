@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "DC",
+      "ast": "RHEINMETALL AG UNSP/ADR (RNMBY)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "05/10/2024",
+      "ndt": "05/16/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "ARW Subtrust > Fidelity Investments ARW Subtrust Brokerage Account",
+      "desc": ""
+    }
+  ]
+}

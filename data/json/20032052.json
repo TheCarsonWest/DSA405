@@ -1,0 +1,43 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "Accenture plc Class A Ordinary Shares (ACN)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "08/19/2025",
+      "ndt": "09/08/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "LIVTR",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "Atmos Energy Corporation Common Stock (ATO)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "08/19/2025",
+      "ndt": "09/08/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "R.W. Allen & Associates, Inc. > RWA&A - Securities",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "US Treasury Bill 91282CHB0 DUE 5/15/26 3.625%",
+      "code": "GS",
+      "typ": "P",
+      "dt": "08/19/2025",
+      "ndt": "09/08/2025",
+      "amt": "$100,001 - $250,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "SCH1",
+      "desc": ""
+    }
+  ]
+}

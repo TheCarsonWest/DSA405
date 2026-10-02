@@ -1,0 +1,69 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "Capital One Financial Corporation Common Stock (COF)",
+      "code": "ST",
+      "typ": "E",
+      "dt": "05/19/2025",
+      "ndt": "06/06/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Merrill Lynch Tax Efficient Core",
+      "desc": "Discover Financial Services stock exchanged for Capital One Financial Services stock following merger"
+    },
+    {
+      "own": "JT",
+      "ast": "Fidelity National Information Services, Inc. Common Stock (FIS)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "05/15/2025",
+      "ndt": "06/03/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Chase Brokerage Account (3935)",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "General Dynamics Corporation Common Stock (GD)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "05/02/2025",
+      "ndt": "06/03/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Chase Brokerage Account (3935)",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "Morgan Stanley Common Stock (MS)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "05/15/2025",
+      "ndt": "06/03/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": true,
+      "stat": "New",
+      "sub": "Chase Brokerage Account (3935)",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "The Bank of New York Mellon Corporation Common Stock (BK)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "05/15/2025",
+      "ndt": "06/03/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Chase Brokerage Account (3935)",
+      "desc": ""
+    }
+  ]
+}

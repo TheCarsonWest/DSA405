@@ -1,0 +1,95 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "American Tower Corporation (AMT)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "06/15/2023",
+      "ndt": "06/26/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": true,
+      "stat": "New",
+      "sub": "Trust One",
+      "desc": "UBS Trust 50"
+    },
+    {
+      "own": "SP",
+      "ast": "Discover Financial Services (DFS)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "06/15/2023",
+      "ndt": "06/26/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": true,
+      "stat": "New",
+      "sub": "Trust One",
+      "desc": "UBS Trust 350"
+    },
+    {
+      "own": "SP",
+      "ast": "lululemon athletica inc. (LULU)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "06/15/2023",
+      "ndt": "06/26/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": true,
+      "stat": "New",
+      "sub": "Trust One",
+      "desc": "UBS Trust 50"
+    },
+    {
+      "own": "SP",
+      "ast": "Medtronic plc. Ordinary Shares (MDT)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "06/15/2023",
+      "ndt": "06/26/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Trust One",
+      "desc": "UBS Trust 300"
+    },
+    {
+      "own": "SP",
+      "ast": "NVIDIA Corporation (NVDA)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "06/23/2023",
+      "ndt": "06/26/2023",
+      "amt": "$424.53",
+      "cg": false,
+      "stat": "New",
+      "sub": "IRA One",
+      "desc": "CS ROTH 1 share"
+    },
+    {
+      "own": "SP",
+      "ast": "US Treasury BILL 12/21/2023 912797FV4",
+      "code": "GS",
+      "typ": "P",
+      "dt": "06/23/2023",
+      "ndt": "06/26/2023",
+      "amt": "$50,001 - $100,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "SEP 2",
+      "desc": "CS SEP 912797FV4"
+    },
+    {
+      "own": "",
+      "ast": "US Treasury Bill 912797HA8",
+      "code": "GS",
+      "typ": "P",
+      "dt": "06/23/2023",
+      "ndt": "06/26/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "ET IRA",
+      "desc": "US Treasury Bill 912797HA8 @ $98.5096"
+    }
+  ]
+}

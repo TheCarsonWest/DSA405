@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "WESCO International, Inc. (WCC)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "03/16/2023",
+      "ndt": "03/31/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Kean Family Partnership",
+      "desc": ""
+    }
+  ]
+}

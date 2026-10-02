@@ -1,0 +1,95 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "Allied Gaming & Entertainment Inc. (AGAE)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "08/29/2023",
+      "ndt": "08/31/2023",
+      "amt": "$1,000.00",
+      "cg": false,
+      "stat": "New",
+      "sub": "Trust One",
+      "desc": "1000 shares/loss"
+    },
+    {
+      "own": "SP",
+      "ast": "C3.ai, Inc. Class A (AI)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "09/05/2023",
+      "ndt": "09/05/2023",
+      "amt": "$314.30",
+      "cg": false,
+      "stat": "New",
+      "sub": "Trust One",
+      "desc": "10 shares/loss"
+    },
+    {
+      "own": "SP",
+      "ast": "Coca-Cola Company (KO)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "08/18/2023",
+      "ndt": "08/18/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Trust One",
+      "desc": "60.8 shares"
+    },
+    {
+      "own": "SP",
+      "ast": "DigitalBridge Group, Inc. (DBRG)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "08/18/2023",
+      "ndt": "08/22/2023",
+      "amt": "$189.48",
+      "cg": false,
+      "stat": "New",
+      "sub": "Trust One",
+      "desc": "12 shares /loss"
+    },
+    {
+      "own": "SP",
+      "ast": "International Business Machines Corporation (IBM)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "08/18/2023",
+      "ndt": "08/22/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Trust One",
+      "desc": "35 shares / sold"
+    },
+    {
+      "own": "SP",
+      "ast": "Mastercard Incorporated (MA)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "08/21/2023",
+      "ndt": "08/23/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Trust One",
+      "desc": "10.8288 shares sold"
+    },
+    {
+      "own": "SP",
+      "ast": "Warner Bros. Discovery, Inc. - Series A (WBD)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "08/18/2023",
+      "ndt": "08/18/2023",
+      "amt": "$469.21",
+      "cg": false,
+      "stat": "New",
+      "sub": "Trust One",
+      "desc": "35 shares loss 55%"
+    }
+  ]
+}

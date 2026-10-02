@@ -1,0 +1,43 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "Apple Inc. - Common Stock (AAPL)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "02/29/2024",
+      "ndt": "02/29/2024",
+      "amt": "$360.00",
+      "cg": false,
+      "stat": "New",
+      "sub": "IRA One",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "Costco Wholesale Corporation (COST)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "01/31/2024",
+      "ndt": "02/02/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Trust One",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "Microsoft Corporation - Common Stock (MSFT)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "02/07/2024",
+      "ndt": "02/09/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Trust One",
+      "desc": "10 shares"
+    }
+  ]
+}

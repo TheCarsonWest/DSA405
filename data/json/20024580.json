@@ -1,0 +1,82 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "Alphabet Inc. - Class A Common Stock (GOOGL)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "02/01/2024",
+      "ndt": "03/01/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Part of my spouse's retirement portfolio."
+    },
+    {
+      "own": "SP",
+      "ast": "Amazon.com, Inc. - Common Stock (AMZN)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "02/12/2024",
+      "ndt": "03/01/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Part of my spouse's retirement portfolio."
+    },
+    {
+      "own": "SP",
+      "ast": "Koninklijke Philips N.V. NY Registry Shares (PHG)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "02/12/2024",
+      "ndt": "03/01/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Part of my spouse's retirement portfolio."
+    },
+    {
+      "own": "SP",
+      "ast": "Pfizer, Inc. Common Stock (PFE)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "02/12/2024",
+      "ndt": "03/01/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Part of my spouse's retirement portfolio."
+    },
+    {
+      "own": "SP",
+      "ast": "QUALCOMM Incorporated - Common Stock (QCOM)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "02/12/2024",
+      "ndt": "03/01/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Part of my spouse's retirement portfolio."
+    },
+    {
+      "own": "SP",
+      "ast": "Unilever PLC Common Stock (UL)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "02/12/2024",
+      "ndt": "03/01/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Part of my spouse's retirement portfolio."
+    }
+  ]
+}

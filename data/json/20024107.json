@@ -1,0 +1,69 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "Dynatrace, Inc. (DT)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "11/13/2023",
+      "ndt": "12/07/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "CP - INV",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "EVOLUTION AB UNSP/ADR (EVVTY)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "11/13/2023",
+      "ndt": "12/07/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "CP - INV",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "Medpace Holdings, Inc. (MEDP)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "11/13/2023",
+      "ndt": "12/07/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "CP - INV",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "Uber Technologies, Inc. (UBER)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "11/13/2023",
+      "ndt": "12/07/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "CP - INV",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "Ulta Beauty, Inc. (ULTA)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "11/13/2023",
+      "ndt": "12/07/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "CP - INV",
+      "desc": ""
+    }
+  ]
+}

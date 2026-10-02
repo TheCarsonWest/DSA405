@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "Illinois St Fin Auth Revenue IL St Clea Ref due 7/1/25",
+      "code": "GS",
+      "typ": "S (partial)",
+      "dt": "07/31/2024",
+      "ndt": "08/06/2024",
+      "amt": "$100,001 - $250,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Revision of ownership - previous filing"
+    },
+    {
+      "own": "SP",
+      "ast": "San Antonio TX Elec & Gas due 2/1/25",
+      "code": "GS",
+      "typ": "S",
+      "dt": "07/31/2024",
+      "ndt": "08/06/2024",
+      "amt": "$100,001 - $250,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Revision of ownership - previous filing"
+    }
+  ]
+}

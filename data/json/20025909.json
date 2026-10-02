@@ -1,0 +1,95 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Treasury Bill CUSIP 912796YN3 due 4/6/23",
+      "code": "GS",
+      "typ": "S (partial)",
+      "dt": "02/09/2023",
+      "ndt": "02/09/2023",
+      "amt": "$5,000,001 - $25,000,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Account 2 Investment account-838",
+      "desc": "Sale of Treasury Bill prior to maturity"
+    },
+    {
+      "own": "",
+      "ast": "Treasury Bill CUSIP 912796YN3 due 4/6/23",
+      "code": "GS",
+      "typ": "S (partial)",
+      "dt": "02/23/2023",
+      "ndt": "02/23/2023",
+      "amt": "$5,000,001 - $25,000,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Account 2 Investment account-838",
+      "desc": "Sale of Treasury Bill prior to maturity"
+    },
+    {
+      "own": "",
+      "ast": "Treasury Bill CUSIP 912796YN3 Due 4/6/23",
+      "code": "GS",
+      "typ": "S (partial)",
+      "dt": "03/10/2023",
+      "ndt": "03/10/2023",
+      "amt": "$5,000,001 - $25,000,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Account 2 Investment account-838",
+      "desc": "Sale of Treasury Bill prior to maturity"
+    },
+    {
+      "own": "",
+      "ast": "Treasury Bill CUSIP 912796YN3 due 4/6/23",
+      "code": "GS",
+      "typ": "S (partial)",
+      "dt": "03/15/2023",
+      "ndt": "03/15/2023",
+      "amt": "$5,000,001 - $25,000,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Account 2 Investment account-838",
+      "desc": "Sale of Treasury Bill prior to maturity"
+    },
+    {
+      "own": "",
+      "ast": "Treasury Bill CUSIP 912796YN3 due 4/6/23",
+      "code": "GS",
+      "typ": "S (partial)",
+      "dt": "03/24/2023",
+      "ndt": "03/24/2023",
+      "amt": "$5,000,001 - $25,000,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Account 2 Investment account-838",
+      "desc": "Sale of Treasury Bill prior to maturity"
+    },
+    {
+      "own": "",
+      "ast": "Treasury Bill CUSIP 91279FN2 due 6/13/23",
+      "code": "GS",
+      "typ": "S",
+      "dt": "05/02/2023",
+      "ndt": "05/02/2023",
+      "amt": "$5,000,001 - $25,000,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Account 1-Investment account-496",
+      "desc": "Sale of Treasury Bill 6 weeks prior to maturity"
+    },
+    {
+      "own": "",
+      "ast": "US Treasury Bill CUSIP 912796ZG7 due 6/1/23",
+      "code": "GS",
+      "typ": "S",
+      "dt": "05/02/2023",
+      "ndt": "05/02/2023",
+      "amt": "$5,000,001 - $25,000,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Account 1-Investment account-496",
+      "desc": "Sale of Treasury Bill 1 month prior to maturity"
+    }
+  ]
+}

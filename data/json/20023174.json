@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "US Treasury Bills, 6-month (Matures 12/14/2023)",
+      "code": "GS",
+      "typ": "P",
+      "dt": "06/15/2023",
+      "ndt": "06/15/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "TD Ameritrade",
+      "desc": ""
+    }
+  ]
+}

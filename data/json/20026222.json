@@ -1,0 +1,43 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "McDonald's Corporation Common Stock (MCD)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "10/29/2024",
+      "ndt": "10/30/2024",
+      "amt": "$100,001 - $250,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Hern Family Revocable Trust > Brokerage Investment Account",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "UNITED STATES TREAS BILLS ZERO CPN 0.00000% 10/03/2024",
+      "code": "GS",
+      "typ": "S",
+      "dt": "10/03/2024",
+      "ndt": "10/04/2024",
+      "amt": "$100,001 - $250,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Hern Family Foundation",
+      "desc": "full redemption - matured 10/3/24"
+    },
+    {
+      "own": "JT",
+      "ast": "UNITED STATES TREAS BILLS ZERO CPN 0.00000% 10/03/2024",
+      "code": "GS",
+      "typ": "S",
+      "dt": "10/03/2024",
+      "ndt": "10/07/2024",
+      "amt": "$1,000,001 - $5,000,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Hern Family Revocable Trust > Brokerage Investment Account",
+      "desc": "full redemption - matured 10/3/24"
+    }
+  ]
+}

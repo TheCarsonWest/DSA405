@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "Divergent Technologies, Inc. Series D Preferred Stock",
+      "code": "PS",
+      "typ": "P",
+      "dt": "08/02/2023",
+      "ndt": "08/02/2023",
+      "amt": "$50,001 - $100,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Location: Torrance, CA, US; Description: 2,367 shares"
+    },
+    {
+      "own": "JT",
+      "ast": "Suckerz, Inc. SAFE Preferred Stock",
+      "code": "PS",
+      "typ": "P",
+      "dt": "07/30/2023",
+      "ndt": "07/30/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Location: Marina Del Ray, CA, US; Description: Purchase of SAFE Note"
+    }
+  ]
+}

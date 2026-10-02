@@ -1,0 +1,121 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "Alliance Resource Partners, L.P. - Common Units Representing Limited Partnership Interests (ARLP)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "12/09/2022",
+      "ndt": "12/09/2022",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "Altria Group, Inc. (MO)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "12/06/2022",
+      "ndt": "12/06/2022",
+      "amt": "$50,001 - $100,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "Duke Energy Corporation Depositary Shares, each representing a 1/1,000th interest in a share of 5.75% Series A Cumulative Redeemable Perpetual Preferred Stock (DUK$A)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "12/29/2022",
+      "ndt": "12/29/2022",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "Hess Corporation (HES)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "12/30/2022",
+      "ndt": "12/30/2022",
+      "amt": "$50,001 - $100,000",
+      "cg": true,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "iShares Preferred and Income Securities ETF (PFF)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "12/08/2022",
+      "ndt": "12/08/2022",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "iShares Preferred and Income Securities ETF (PFF)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "12/09/2022",
+      "ndt": "12/09/2022",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "Marathon Oil Corporation (MRO)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "12/05/2022",
+      "ndt": "12/05/2022",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "Vector Group Ltd. (VGR)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "12/30/2022",
+      "ndt": "12/30/2022",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "Via Renewables, Inc. - 8.75% Series A Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Stock (VIASP)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "12/09/2022",
+      "ndt": "12/09/2022",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

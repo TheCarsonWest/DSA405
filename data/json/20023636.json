@@ -1,0 +1,56 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "EMCOR Group, Inc. (EME)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "08/29/2023",
+      "ndt": "09/06/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley Trust Account",
+      "desc": "083057"
+    },
+    {
+      "own": "JT",
+      "ast": "NextEra Energy, Inc. (NEE)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "08/29/2023",
+      "ndt": "09/06/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": true,
+      "stat": "New",
+      "sub": "Morgan Stanley Trust Account",
+      "desc": "083057"
+    },
+    {
+      "own": "JT",
+      "ast": "TIM S.A. American Depositary Shares (TIMB)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "08/31/2023",
+      "ndt": "09/06/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley Trust Account",
+      "desc": "083057"
+    },
+    {
+      "own": "JT",
+      "ast": "Waste Connections, Inc. Common Shares (WCN)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "08/31/2023",
+      "ndt": "09/06/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": true,
+      "stat": "New",
+      "sub": "Morgan Stanley Trust Account",
+      "desc": "083057"
+    }
+  ]
+}

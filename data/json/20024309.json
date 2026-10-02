@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Oracle Corporation (ORCL)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "12/14/2023",
+      "ndt": "01/04/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Kean Family Partnership",
+      "desc": ""
+    }
+  ]
+}

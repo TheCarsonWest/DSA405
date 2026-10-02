@@ -1,0 +1,43 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "097023DC6",
+      "code": "CS",
+      "typ": "P",
+      "dt": "09/15/2023",
+      "ndt": "09/25/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Bill's IRA",
+      "desc": "BOEING CO NOTE CALL MAKE WHOLE 3.62500% 02/01/2031"
+    },
+    {
+      "own": "",
+      "ast": "828807DF1",
+      "code": "CS",
+      "typ": "S",
+      "dt": "09/13/2023",
+      "ndt": "09/25/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Bill's IRA",
+      "desc": "SIMON PPTY GROUP LP NOTE CALL MAKE WHOLE 2.45000% 09/13/2029"
+    },
+    {
+      "own": "",
+      "ast": "Caterpillar, Inc. (CAT)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "09/21/2023",
+      "ndt": "09/25/2023",
+      "amt": "$848.75",
+      "cg": false,
+      "stat": "New",
+      "sub": "Bill's IRA",
+      "desc": ""
+    }
+  ]
+}

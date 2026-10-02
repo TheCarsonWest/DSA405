@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "SIG GROUP AG UNSP/ADR (SIGCY)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "08/03/2023",
+      "ndt": "09/12/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Daniel Goldman Grandchildren 1986 Trust > MP",
+      "desc": "Transferred from Daniel Goldman Grandchildren 1986 Trust TLH ADR"
+    },
+    {
+      "own": "",
+      "ast": "Wolters Kluwer N V Ord American Depositary Shares (WTKWY)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "08/03/2023",
+      "ndt": "09/12/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Daniel Goldman Grandchildren 1986 Trust > MP",
+      "desc": "Transferred from Daniel Goldman Grandchildren 1986 Trust TLH ADR"
+    }
+  ]
+}

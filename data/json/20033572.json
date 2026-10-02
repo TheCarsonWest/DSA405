@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "US Treas Bill Mat 5/14/2026",
+      "code": "GS",
+      "typ": "P",
+      "dt": "11/18/2025",
+      "ndt": "11/18/2025",
+      "amt": "$250,001 - $500,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Stephens Advantage Account",
+      "desc": ""
+    }
+  ]
+}

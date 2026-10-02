@@ -1,0 +1,95 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Applied Materials, Inc. - Common Stock (AMAT)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "07/23/2024",
+      "ndt": "07/23/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Corning Incorporated Common Stock (GLW)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "07/23/2024",
+      "ndt": "07/23/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Dell Technologies Inc. Class C Common Stock (DELL)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "07/23/2024",
+      "ndt": "07/23/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Duke Energy Corporation (DUK)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "07/23/2024",
+      "ndt": "07/23/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "JP Morgan Chase & Co. Common Stock (JPM)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "07/23/2024",
+      "ndt": "07/23/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "United Parcel Service, Inc. Common Stock (UPS)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "07/23/2024",
+      "ndt": "07/23/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "US Treasury Bill",
+      "code": "GS",
+      "typ": "P",
+      "dt": "07/24/2024",
+      "ndt": "07/24/2024",
+      "amt": "$250,001 - $500,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

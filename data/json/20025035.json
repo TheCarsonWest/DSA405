@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Johnson Controls International plc Ordinary Share (JCI)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "05/24/2023",
+      "ndt": "06/22/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "Amended",
+      "sub": "Morgan Stanley IRA - X141",
+      "desc": "Managed by MFS Investment MGMT"
+    }
+  ]
+}

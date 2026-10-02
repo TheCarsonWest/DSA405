@@ -1,0 +1,95 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "American Electric Power Company, Inc. (AEP)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "09/22/2025",
+      "ndt": "10/03/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Kroger Company (KR)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "09/22/2025",
+      "ndt": "10/03/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "David Taylor Trust > Schwab Joint Brokerage #1 (Home Grown)",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Kroger Company (KR)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "09/22/2025",
+      "ndt": "10/03/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Lam Research Corporation - Common Stock (LRCX)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "09/22/2025",
+      "ndt": "10/03/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": true,
+      "stat": "New",
+      "sub": "David Taylor Trust > Schwab Joint Brokerage #1 (Home Grown)",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Lam Research Corporation - Common Stock (LRCX)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "09/22/2025",
+      "ndt": "10/03/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": true,
+      "stat": "New",
+      "sub": "David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Procter & Gamble Company (PG)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "09/22/2025",
+      "ndt": "10/03/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "David Taylor Trust > Schwab Joint Brokerage #1 (Home Grown)",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Procter & Gamble Company (PG)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "09/22/2025",
+      "ndt": "10/03/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
+      "desc": ""
+    }
+  ]
+}

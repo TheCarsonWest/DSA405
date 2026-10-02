@@ -1,0 +1,56 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Ardmore Shipping Corporation Common Stock (ASC)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "07/08/2024",
+      "ndt": "08/05/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Ardmore Shipping Corporation Common Stock (ASC)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "07/09/2024",
+      "ndt": "08/05/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Ardmore Shipping Corporation Common Stock (ASC)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "07/11/2024",
+      "ndt": "08/05/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Ellington Financial Inc. 7.00% Series D Cumulative Perpetual Redeemable Preferred Stock (EFC$D)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "07/01/2024",
+      "ndt": "08/05/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

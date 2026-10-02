@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "Activision Blizzard, Inc (ATVI)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "06/13/2023",
+      "ndt": "06/13/2023",
+      "amt": "$100,001 - $250,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "ETRADE Investment Account",
+      "desc": ""
+    }
+  ]
+}

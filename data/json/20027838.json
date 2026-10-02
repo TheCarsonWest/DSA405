@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "GLAS Funds, LP",
+      "code": "HN",
+      "typ": "P",
+      "dt": "02/05/2025",
+      "ndt": "02/24/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "2012 Trust",
+      "desc": "Pre-fund future capital calls of $17,965"
+    },
+    {
+      "own": "",
+      "ast": "Mercato Partners Travers IV QP, LP (GLAS Funds, LP)",
+      "code": "HN",
+      "typ": "P",
+      "dt": "02/05/2025",
+      "ndt": "02/24/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "2012 Trust",
+      "desc": "Capital call for $7,035"
+    }
+  ]
+}

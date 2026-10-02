@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "US Treasury Bill 91282CJR3",
+      "code": "GS",
+      "typ": "P",
+      "dt": "10/09/2024",
+      "ndt": "11/06/2024",
+      "amt": "$100,001 - $250,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "R.W. Allen & Associates, Inc.",
+      "desc": ""
+    }
+  ]
+}

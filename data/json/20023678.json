@@ -1,0 +1,43 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "NVIDIA Corporation (NVDA)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "08/14/2023",
+      "ndt": "08/14/2023",
+      "amt": "$100,001 - $250,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Schwab Brokerage Account",
+      "desc": ""
+    },
+    {
+      "own": "DC",
+      "ast": "NVIDIA Corporation (NVDA)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "08/14/2023",
+      "ndt": "08/14/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Schwab JM Brokerage Account",
+      "desc": ""
+    },
+    {
+      "own": "DC",
+      "ast": "NVIDIA Corporation (NVDA)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "08/14/2023",
+      "ndt": "08/14/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Schwab DM Brokerage Account",
+      "desc": ""
+    }
+  ]
+}

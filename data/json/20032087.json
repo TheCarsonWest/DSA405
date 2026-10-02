@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "DC",
+      "ast": "Berry Corporation (BRY)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "09/15/2025",
+      "ndt": "09/16/2025",
+      "amt": "$2,761.57",
+      "cg": true,
+      "stat": "New",
+      "sub": "",
+      "desc": "Dependent Child C"
+    },
+    {
+      "own": "DC",
+      "ast": "Controladora Vuela Compania de Aviacion, S.A.B. de C.V. American Depositary Shares, each representing ten (VLRS)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "09/29/2025",
+      "ndt": "09/30/2025",
+      "amt": "$1,118.07",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Dependent Child C"
+    }
+  ]
+}

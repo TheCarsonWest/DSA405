@@ -1,0 +1,56 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "American Funds Income Fund of America Mutual Fund",
+      "code": "OT",
+      "typ": "P",
+      "dt": "12/30/2021",
+      "ndt": "01/11/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "South Boston Community Health Center 403(b)",
+      "desc": "American Funds Mutual Fund was purchased on 12/30/22. The 403(B) Retirement Fund is managed by an Account Manager who is authorized to enact sell and purchase transactions. The 2022 4th Quarter Statement that reported this purchase transaction was misplaced and just recently located."
+    },
+    {
+      "own": "",
+      "ast": "Fidelity Emerging Markets Mutual Fund",
+      "code": "OT",
+      "typ": "P",
+      "dt": "12/30/2022",
+      "ndt": "01/11/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "South Boston Community Health Center 403(b)",
+      "desc": "Fidelity Emerging Markets Mutual Fund was purchased on 12/30/22. The 403(B) Retirement Fund is managed by an Account Manager who is authorized to enact sell and purchase transactions. The 2022 4th Quarter Statement that reported this purchase transaction was misplaced and just recently located."
+    },
+    {
+      "own": "",
+      "ast": "Invesco Development Markets Mutual Fund",
+      "code": "OT",
+      "typ": "S",
+      "dt": "12/30/2022",
+      "ndt": "01/11/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "South Boston Community Health Center 403(b)",
+      "desc": "Invesco Development Mutual Fund was sold on 12/30/22. The 403(B) Retirement Fund is managed by an Account Manager who is authorized to enact sell and purchase transactions. The 2022 4th Quarter Statement that reported this sale transaction was misplaced and just recently located."
+    },
+    {
+      "own": "",
+      "ast": "Nationwide Investor Destination Moderate Aggressive Mutual Fund",
+      "code": "OT",
+      "typ": "S",
+      "dt": "12/30/2022",
+      "ndt": "01/11/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "South Boston Community Health Center 403(b)",
+      "desc": "Nationwide Investor Mutual Fund was sold on 12/30/22. The 403(B) Retirement Fund is managed by an Account Manager who is authorized to enact sell and purchase transactions. The 2022 4th Quarter Statement that reported this sale transaction was misplaced and just recently located."
+    }
+  ]
+}

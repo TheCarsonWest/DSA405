@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "MICROSOFT CORP NOTE CALL MAKE WHOLE 3.12500% 11/03/2025",
+      "code": "CS",
+      "typ": "S",
+      "dt": "05/15/2025",
+      "ndt": "06/09/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Bill's IRA",
+      "desc": "594918BJ2"
+    },
+    {
+      "own": "",
+      "ast": "PEPSICO INC NOTE CALL MAKE WHOLE 3.90000% 07/18/2032",
+      "code": "CS",
+      "typ": "S",
+      "dt": "06/09/2025",
+      "ndt": "06/23/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Bill's IRA",
+      "desc": "713448FM5"
+    }
+  ]
+}

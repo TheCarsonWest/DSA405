@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "S&P Global Inc. Common Stock (SPGI)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "02/11/2025",
+      "ndt": "03/06/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Daniel Goldman 1997 Trust > DSG Investment Holdings LLC > Brokerage",
+      "desc": ""
+    }
+  ]
+}

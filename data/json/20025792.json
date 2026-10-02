@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "Lam Research Corporation - Common Stock (LRCX)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "08/26/2024",
+      "ndt": "09/05/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley Trust Account",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "Simon Property Group, Inc. Common Stock (SPG)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "08/26/2024",
+      "ndt": "09/05/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley Trust Account",
+      "desc": ""
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Trimer Capital Partners I LP (GLAS)",
+      "code": "HN",
+      "typ": "P",
+      "dt": "11/26/2024",
+      "ndt": "12/05/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "2012 Trust",
+      "desc": "Capital Call for Trimer Capital Partners I LP for $2,743.58"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "VLG FL CDD #14 SPL ASSMNT REV DUE 05/01/2053 05.500%",
+      "code": "CS",
+      "typ": "P",
+      "dt": "10/24/2025",
+      "ndt": "10/24/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "FMS",
+      "desc": "VLG FL CDD #14 SPL ASSMNT REV DUE 05/01/2053 05.500%"
+    }
+  ]
+}

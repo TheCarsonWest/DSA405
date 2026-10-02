@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "BTC (Bitcoin)",
+      "code": "CT",
+      "typ": "S",
+      "dt": "04/24/2025",
+      "ndt": "04/24/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "XRP (Ripple)",
+      "code": "CT",
+      "typ": "S",
+      "dt": "04/24/2025",
+      "ndt": "04/24/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

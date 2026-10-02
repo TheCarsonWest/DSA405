@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "Apple Inc. (AAPL)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "03/17/2023",
+      "ndt": "03/17/2023",
+      "amt": "$500,001 - $1,000,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Exercised 100 call options purchased 5/13/22 (10,000 shares) at a strike price of $80 with an expiration date of 3/17/23."
+    },
+    {
+      "own": "SP",
+      "ast": "REOF XXV, LLC",
+      "code": "AB",
+      "typ": "P",
+      "dt": "03/09/2023",
+      "ndt": "03/09/2023",
+      "amt": "$500,001 - $1,000,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Investment in LLC which is acquiring and restoring a luxury hotel property in San Francisco, CA."
+    }
+  ]
+}

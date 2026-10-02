@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "FEDERAL FARM CREDIT BANKS FUNDING CORP 0.87500% 11/18/2024 BOND",
+      "code": "GS",
+      "typ": "S",
+      "dt": "11/18/2024",
+      "ndt": "11/19/2024",
+      "amt": "$100,001 - $250,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Kevin Hern Insurance Trust",
+      "desc": "Bond Matured, Redeemed by issuer"
+    }
+  ]
+}

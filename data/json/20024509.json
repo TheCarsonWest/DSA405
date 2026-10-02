@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Becton, Dickinson and Company Common Stock (BDX)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "01/11/2024",
+      "ndt": "02/02/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Kean Family Partnership",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "PERNOD RICARD S A SP/ADR (PRNDY)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "01/30/2024",
+      "ndt": "02/02/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Kean Family Partnership",
+      "desc": ""
+    }
+  ]
+}

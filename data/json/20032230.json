@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Berry Corporation (BRY)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "09/15/2025",
+      "ndt": "09/16/2025",
+      "amt": "$1,972.55",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Asset held in an IRA"
+    }
+  ]
+}

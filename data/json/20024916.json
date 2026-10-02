@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "BRP Group, Inc. - Class A Common Stock (BRP)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "03/21/2024",
+      "ndt": "03/25/2024",
+      "amt": "$1,000,001 - $5,000,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Fidelity Joint TBE",
+      "desc": "54,445 shares of BRP sold on 3/21/24 at average price of $30.04 for $1,635,630.16."
+    },
+    {
+      "own": "JT",
+      "ast": "BRP Group, Inc. - Class A Common Stock (BRP)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "04/09/2024",
+      "ndt": "04/11/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Fidelity Joint TBE",
+      "desc": "50 shares of BRP sold at $29.00 for $1,449.98"
+    }
+  ]
+}

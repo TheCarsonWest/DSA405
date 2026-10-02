@@ -1,0 +1,82 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "General Mills, Inc. Common Stock (GIS)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "03/20/2024",
+      "ndt": "03/07/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "ET IRA",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "US Treasury 912797GQ4",
+      "code": "GS",
+      "typ": "S",
+      "dt": "03/07/2024",
+      "ndt": "03/07/2024",
+      "amt": "$100,001 - $250,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Trust One",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "US Treasury 912797HR1",
+      "code": "GS",
+      "typ": "P",
+      "dt": "03/07/2024",
+      "ndt": "03/07/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Trust One",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "US Treasury 91282CFG1",
+      "code": "GS",
+      "typ": "P",
+      "dt": "03/07/2024",
+      "ndt": "03/07/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Trust One",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "US Treasury 91282CFX4",
+      "code": "GS",
+      "typ": "P",
+      "dt": "03/07/2024",
+      "ndt": "03/07/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Trust One",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "Visa Inc. (V)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "02/29/2024",
+      "ndt": "03/07/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Trust One",
+      "desc": ""
+    }
+  ]
+}

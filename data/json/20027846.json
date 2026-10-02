@@ -1,0 +1,43 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "CompoSecure, Inc. - Class A Common Stock (CMPO)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "01/10/2025",
+      "ndt": "01/10/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Charles Schwab Brokerage Account 1",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "CompoSecure, Inc. - Class A Common Stock (CMPO)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "01/14/2025",
+      "ndt": "01/14/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Charles Schwab Brokerage Account 1",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Oramed Pharmaceuticals Inc. - Common Stock (ORMP)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "01/10/2025",
+      "ndt": "01/10/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Charles Schwab Brokerage Account 1",
+      "desc": ""
+    }
+  ]
+}

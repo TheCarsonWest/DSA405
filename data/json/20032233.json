@@ -1,0 +1,108 @@
+{
+  "transactions": [
+    {
+      "own": "DC",
+      "ast": "Brown & Brown, Inc. Common Stock (BRO)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "09/18/2025",
+      "ndt": "10/01/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "DC",
+      "ast": "Dayforce, Inc. Common Stock (DAY)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "09/11/2025",
+      "ndt": "10/01/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": true,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "DC",
+      "ast": "Jones Lang LaSalle Incorporated Common Stock (JLL)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "09/18/2025",
+      "ndt": "10/01/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "DC",
+      "ast": "Nasdaq, Inc. - Common Stock (NDAQ)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "09/19/2025",
+      "ndt": "10/01/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "DC",
+      "ast": "Somnigroup International Inc. Common Stock (SGI)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "09/19/2025",
+      "ndt": "10/01/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": true,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "DC",
+      "ast": "STERIS plc (STE)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "09/18/2025",
+      "ndt": "10/01/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "DC",
+      "ast": "STERIS plc (STE)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "09/11/2025",
+      "ndt": "10/01/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "DC",
+      "ast": "The Middleby Corporation - Common Stock (MIDD)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "09/18/2025",
+      "ndt": "10/01/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

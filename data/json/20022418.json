@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "Virginia College Bldg 4.375% 02/01/32",
+      "code": "GS",
+      "typ": "S",
+      "dt": "02/01/2023",
+      "ndt": "02/12/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Stocks, Bonds, & Mutual Funds",
+      "desc": "The municipal bond was \"Called\" -- just a redemption of the face value of the bond"
+    }
+  ]
+}

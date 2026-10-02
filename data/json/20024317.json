@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "Arizona Indl Dev Auth Rev BDS Lincoln 5.00% Due Nov 1, 2029",
+      "code": "GS",
+      "typ": "P",
+      "dt": "01/04/2024",
+      "ndt": "01/04/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "Seattle WA MN LT PW 0% PWR Util Due 05/01/45",
+      "code": "CS",
+      "typ": "S (partial)",
+      "dt": "01/03/2024",
+      "ndt": "01/03/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "partial sale"
+    }
+  ]
+}

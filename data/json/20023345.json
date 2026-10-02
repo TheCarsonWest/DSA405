@@ -1,0 +1,108 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Allstate Corporation (ALL)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "07/05/2023",
+      "ndt": "07/13/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Richard R Larsen IRA > Ameriprise SPS Managed Account",
+      "desc": "sale of asset for IRA as part of periodic rebalancing. Transaction taken by advisor without my input per contract"
+    },
+    {
+      "own": "",
+      "ast": "Analog Devices, Inc. (ADI)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "07/05/2023",
+      "ndt": "07/13/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Richard R Larsen IRA > Ameriprise SPS Managed Account",
+      "desc": "sale of asset for IRA as part of periodic rebalancing. Transaction taken by advisor without my input per contract"
+    },
+    {
+      "own": "",
+      "ast": "Elevance Health, Inc. (ELV)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "07/05/2023",
+      "ndt": "07/13/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Richard R Larsen IRA > Ameriprise SPS Managed Account",
+      "desc": "sale of asset for IRA as part of periodic rebalancing. Transaction taken by advisor without my input per contract"
+    },
+    {
+      "own": "",
+      "ast": "Mastercard Incorporated (MA)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "07/05/2023",
+      "ndt": "07/13/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Richard R Larsen IRA > Ameriprise SPS Managed Account",
+      "desc": "purchase of asset for IRA as part of periodic rebalancing. Transaction taken by advisor without my input per contract"
+    },
+    {
+      "own": "",
+      "ast": "Motorola Solutions, Inc. (MSI)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "07/05/2023",
+      "ndt": "07/13/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Richard R Larsen IRA > Ameriprise SPS Managed Account",
+      "desc": "purchase of asset for IRA as part of periodic rebalancing. Transaction taken by advisor without my input per contract"
+    },
+    {
+      "own": "",
+      "ast": "Paychex, Inc. (PAYX)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "07/05/2023",
+      "ndt": "07/13/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Richard R Larsen IRA > Ameriprise SPS Managed Account",
+      "desc": "purchase of asset for IRA as part of periodic rebalancing. Transaction taken by advisor without my input per contract"
+    },
+    {
+      "own": "",
+      "ast": "PNC Financial Services Group, Inc. (PNC)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "07/05/2023",
+      "ndt": "07/13/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Richard R Larsen IRA > Ameriprise SPS Managed Account",
+      "desc": "sale of asset for IRA as part of periodic rebalancing. Transaction taken by advisor without my input per contract"
+    },
+    {
+      "own": "",
+      "ast": "S&P Global Inc. (SPGI)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "07/05/2023",
+      "ndt": "07/13/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Richard R Larsen IRA > Ameriprise SPS Managed Account",
+      "desc": "purchase of asset for IRA as part of periodic rebalancing. Transaction taken by advisor without my input per contract"
+    }
+  ]
+}

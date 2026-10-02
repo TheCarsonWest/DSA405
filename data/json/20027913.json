@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "US TREASURY BILL",
+      "code": "GS",
+      "typ": "P",
+      "dt": "02/28/2025",
+      "ndt": "03/06/2025",
+      "amt": "$500,001 - $1,000,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Stifel",
+      "desc": "Due 04/15/25"
+    }
+  ]
+}

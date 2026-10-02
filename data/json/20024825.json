@@ -1,0 +1,43 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "Ardmore Shipping Corporation Common Stock (ASC)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "03/04/2024",
+      "ndt": "04/08/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "Ardmore Shipping Corporation Common Stock (ASC)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "03/06/2024",
+      "ndt": "04/08/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "Hercules Capital, Inc. Common Stock (HTGC)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "03/07/2024",
+      "ndt": "04/08/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

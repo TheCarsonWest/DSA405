@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "State Street Corporation Common Stock (STT)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "11/17/2025",
+      "ndt": "11/17/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "RSU distribution"
+    }
+  ]
+}

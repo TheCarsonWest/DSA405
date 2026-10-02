@@ -1,0 +1,108 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Alibaba Group Holding Limited American Depositary Shares each representing eight Ordinary share (BABA)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "02/21/2025",
+      "ndt": "02/21/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "JP Morgan Brokerage Account #2",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Astera Labs, Inc. - Common Stock (ALAB)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "02/18/2025",
+      "ndt": "02/18/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "JP Morgan Brokerage Account #2",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Intel Corporation - Common Stock (INTC)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "02/20/2025",
+      "ndt": "02/20/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "JP Morgan Brokerage Account #2",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Intel Corporation - Common Stock (INTC)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "02/14/2025",
+      "ndt": "02/14/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "JP Morgan Brokerage Account #2",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Meta Platforms, Inc. - Class A Common Stock (META)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "02/20/2025",
+      "ndt": "02/20/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "JP Morgan Brokerage Account #2",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Oracle Corporation Common Stock (ORCL)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "02/14/2025",
+      "ndt": "02/14/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "JP Morgan Brokerage Account #2",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Reddit, Inc. Class A Common Stock (RDDT)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "02/14/2025",
+      "ndt": "02/14/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "JP Morgan Brokerage Account #2",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Robinhood Markets, Inc. - Class A Common Stock (HOOD)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "02/20/2025",
+      "ndt": "02/20/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "JP Morgan Brokerage Account #2",
+      "desc": ""
+    }
+  ]
+}

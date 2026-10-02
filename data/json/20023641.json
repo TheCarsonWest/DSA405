@@ -1,0 +1,95 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "Accenture plc Class A Ordinary Shares (ACN)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "08/15/2023",
+      "ndt": "08/16/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Hern Family Revocable Trust > Brokerage Investment Account",
+      "desc": "Dividend Reinvestment"
+    },
+    {
+      "own": "JT",
+      "ast": "CITIGROUP GLOBAL MKTS HLDGS IN SER N 0.00000% 08/20/2027 MTN ZERO CPN",
+      "code": "CS",
+      "typ": "P",
+      "dt": "08/17/2023",
+      "ndt": "08/18/2023",
+      "amt": "$500,001 - $1,000,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Hern Family Foundation",
+      "desc": "Buy to open."
+    },
+    {
+      "own": "JT",
+      "ast": "Magellan Midstream Partners L.P. Limited Partnership (MMP)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "08/14/2023",
+      "ndt": "08/15/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Hern Family Revocable Trust > Brokerage Investment Account",
+      "desc": "Reinvestment of Dividend/ROC"
+    },
+    {
+      "own": "JT",
+      "ast": "Marsh & McLennan Companies, Inc. (MMC)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "08/15/2023",
+      "ndt": "08/16/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Hern Family Revocable Trust > Brokerage Investment Account",
+      "desc": "Dividend Reinvestment"
+    },
+    {
+      "own": "JT",
+      "ast": "ONEOK, Inc. (OKE)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "08/14/2023",
+      "ndt": "08/15/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Hern Family Revocable Trust > Brokerage Investment Account",
+      "desc": "Dividend Reinvestment"
+    },
+    {
+      "own": "JT",
+      "ast": "Texas Instruments Incorporated (TXN)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "08/15/2023",
+      "ndt": "08/16/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Hern Family Revocable Trust > Brokerage Investment Account",
+      "desc": "Dividend Reinvestment"
+    },
+    {
+      "own": "JT",
+      "ast": "US TREAS BILLS 08/31/2023",
+      "code": "GS",
+      "typ": "S",
+      "dt": "08/31/2023",
+      "ndt": "09/01/2023",
+      "amt": "$500,001 - $1,000,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Hern Family Revocable Trust > Brokerage Investment Account",
+      "desc": "Matured/Redeemed"
+    }
+  ]
+}

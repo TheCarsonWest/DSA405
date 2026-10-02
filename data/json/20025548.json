@@ -1,0 +1,43 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "Royal Bank Of Canada Common Stock (RY)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "07/16/2024",
+      "ndt": "07/18/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Royal Bank Of Canada Common Stock (RY)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "07/16/2024",
+      "ndt": "07/18/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "United Parcel Service, Inc. Common Stock (UPS)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "07/22/2024",
+      "ndt": "07/25/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

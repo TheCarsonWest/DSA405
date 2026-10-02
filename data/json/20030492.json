@@ -1,0 +1,95 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "United States Treasury Notes; 3.875%; Due 1-15-26",
+      "code": "GS",
+      "typ": "P",
+      "dt": "02/05/2025",
+      "ndt": "06/11/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "United States Treasury Notes; 4.125%; Due 6-15-26",
+      "code": "GS",
+      "typ": "P",
+      "dt": "02/05/2025",
+      "ndt": "06/11/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "United States Treasury Notes; 4.25%; Due 10-15-25",
+      "code": "GS",
+      "typ": "P",
+      "dt": "02/05/2025",
+      "ndt": "06/09/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "United States Treasury Notes; 4.25%; Due 10-15-25",
+      "code": "GS",
+      "typ": "S",
+      "dt": "05/09/2025",
+      "ndt": "06/09/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "United States Treasury Notes; 4.25%; Due 3-15-27",
+      "code": "GS",
+      "typ": "P",
+      "dt": "02/05/2025",
+      "ndt": "06/11/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "United States Treasury Notes; 4.375%; Due 12-15-26",
+      "code": "GS",
+      "typ": "P",
+      "dt": "02/05/2025",
+      "ndt": "06/11/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "United States Treasury Notes; 4.625%; Due 9-15-26",
+      "code": "GS",
+      "typ": "P",
+      "dt": "02/05/2025",
+      "ndt": "06/11/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

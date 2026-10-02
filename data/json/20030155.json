@@ -1,0 +1,43 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Illumina, Inc. - Common Stock (ILMN)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "04/01/2025",
+      "ndt": "04/04/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Kean Family Partnership",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "nVent Electric plc Ordinary Shares (NVT)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "03/07/2025",
+      "ndt": "04/04/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Kean Family Partnership",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "nVent Electric plc Ordinary Shares (NVT)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "04/01/2025",
+      "ndt": "04/04/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Kean Family Partnership",
+      "desc": ""
+    }
+  ]
+}

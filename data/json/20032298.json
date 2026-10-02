@@ -1,0 +1,82 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Abbott Laboratories Common Stock (ABT)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "10/06/2025",
+      "ndt": "10/07/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Richard R Larsen IRA",
+      "desc": "part of quarterly portfolio rebalancing"
+    },
+    {
+      "own": "",
+      "ast": "American Electric Power Company, Inc. (AEP)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "10/06/2025",
+      "ndt": "10/07/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Richard R Larsen IRA",
+      "desc": "part of quarterly portfolio rebalancing"
+    },
+    {
+      "own": "",
+      "ast": "Colgate-Palmolive Company Common Stock (CL)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "10/06/2025",
+      "ndt": "10/07/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Richard R Larsen IRA",
+      "desc": "part of quarterly portfolio rebalancing"
+    },
+    {
+      "own": "",
+      "ast": "Old Dominion Freight Line, Inc. - Common Stock (ODFL)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "10/06/2025",
+      "ndt": "10/07/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Richard R Larsen IRA",
+      "desc": "part of quarterly portfolio rebalancing"
+    },
+    {
+      "own": "",
+      "ast": "Walmart Inc. Common Stock (WMT)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "10/06/2025",
+      "ndt": "10/07/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Richard R Larsen IRA",
+      "desc": "part of quarterly portfolio rebalancing"
+    },
+    {
+      "own": "",
+      "ast": "Zoetis Inc. Class A Common Stock (ZTS)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "10/06/2025",
+      "ndt": "10/07/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Richard R Larsen IRA",
+      "desc": "part of quarterly portfolio rebalancing"
+    }
+  ]
+}

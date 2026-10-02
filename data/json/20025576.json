@@ -1,0 +1,108 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "Cambrian CA SD",
+      "code": "GS",
+      "typ": "S",
+      "dt": "07/17/2024",
+      "ndt": "07/31/2024",
+      "amt": "$500,001 - $1,000,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "Los Angeles CA IMPT Sch",
+      "code": "GS",
+      "typ": "P",
+      "dt": "07/23/2024",
+      "ndt": "07/31/2024",
+      "amt": "$500,001 - $1,000,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "Marin CA MIN WTR UTIL",
+      "code": "GS",
+      "typ": "S",
+      "dt": "07/01/2024",
+      "ndt": "07/31/2024",
+      "amt": "$50,001 - $100,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "Sacramento CA UTIL",
+      "code": "GS",
+      "typ": "P",
+      "dt": "07/10/2024",
+      "ndt": "07/31/2024",
+      "amt": "$100,001 - $250,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "San Diego CA WTR UTIL",
+      "code": "GS",
+      "typ": "P",
+      "dt": "07/12/2024",
+      "ndt": "07/31/2024",
+      "amt": "$50,001 - $100,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "Santa Clara CN CA HLTH",
+      "code": "GS",
+      "typ": "P",
+      "dt": "07/10/2024",
+      "ndt": "07/31/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "U.S Treasury Bills",
+      "code": "GS",
+      "typ": "S (partial)",
+      "dt": "07/25/2024",
+      "ndt": "07/31/2024",
+      "amt": "$250,001 - $500,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "U.S Treasury Bills",
+      "code": "GS",
+      "typ": "P",
+      "dt": "07/01/2024",
+      "ndt": "07/31/2024",
+      "amt": "$500,001 - $1,000,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

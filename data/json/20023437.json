@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "US TREASURY BILL DUE 6/8/23 4.57% (912796ZP7)",
+      "code": "GS",
+      "typ": "P",
+      "dt": "12/12/2022",
+      "ndt": "08/03/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Trust - CM",
+      "desc": ""
+    }
+  ]
+}

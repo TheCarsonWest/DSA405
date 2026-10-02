@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "US TREASUR NOTE 3.75% DUE 08/15/27 (91282CLG4)",
+      "code": "GS",
+      "typ": "P",
+      "dt": "11/14/2025",
+      "ndt": "12/05/2025",
+      "amt": "$50,001 - $100,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "SCH1",
+      "desc": ""
+    }
+  ]
+}

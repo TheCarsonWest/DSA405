@@ -1,0 +1,43 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Bristol-Myers Squibb Company Common Stock (BMY)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "06/24/2025",
+      "ndt": "07/01/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Ellington Financial Inc. Common Stock (EFC)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "06/30/2025",
+      "ndt": "07/01/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Energy Transfer LP Common Units (ET)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "06/24/2025",
+      "ndt": "07/01/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

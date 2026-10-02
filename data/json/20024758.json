@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "US Treasury I Bond",
+      "code": "GS",
+      "typ": "P",
+      "dt": "03/30/2022",
+      "ndt": "03/30/2022",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "US Treasury I Bond",
+      "code": "GS",
+      "typ": "P",
+      "dt": "01/21/2023",
+      "ndt": "01/21/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

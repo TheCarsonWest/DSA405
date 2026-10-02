@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "US Treasury Bill 04/25/24",
+      "code": "GS",
+      "typ": "P",
+      "dt": "03/27/2024",
+      "ndt": "04/01/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "US Treasury Bill 05/02/24",
+      "code": "GS",
+      "typ": "P",
+      "dt": "03/27/2024",
+      "ndt": "04/01/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

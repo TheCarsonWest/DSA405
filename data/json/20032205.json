@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Procter & Gamble Company (PG)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "09/17/2025",
+      "ndt": "10/02/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Katherine M. Clark Exempt Trust",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Procter & Gamble Company (PG)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "09/17/2025",
+      "ndt": "10/02/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Katherine M. Clark Separate Share Trust",
+      "desc": ""
+    }
+  ]
+}

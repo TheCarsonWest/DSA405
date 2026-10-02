@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Berry Global Group, Inc. Common Stock (BERY)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "02/12/2024",
+      "ndt": "03/01/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Kean Family Partnership",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Nike, Inc. Common Stock (NKE)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "02/22/2024",
+      "ndt": "03/01/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Kean Family Partnership",
+      "desc": ""
+    }
+  ]
+}

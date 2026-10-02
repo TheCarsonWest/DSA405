@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "New York N Y City Transitional Fin 5.00 % Due Nov 1, 2027",
+      "code": "GS",
+      "typ": "S",
+      "dt": "08/08/2025",
+      "ndt": "08/08/2025",
+      "amt": "$250,001 - $500,000",
+      "cg": true,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "Tennessee Energy Ac 5%35 Edr Idr Due 12/01/35",
+      "code": "GS",
+      "typ": "P",
+      "dt": "08/08/2025",
+      "ndt": "08/08/2025",
+      "amt": "$250,001 - $500,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

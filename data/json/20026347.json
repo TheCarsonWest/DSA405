@@ -1,0 +1,108 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "Bank of America C Var 27",
+      "code": "CS",
+      "typ": "P",
+      "dt": "11/08/2024",
+      "ndt": "12/06/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Part of my spouse's retirement portfolio."
+    },
+    {
+      "own": "SP",
+      "ast": "Comcast Corp 1.95%31",
+      "code": "CS",
+      "typ": "P",
+      "dt": "11/21/2024",
+      "ndt": "12/06/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Part of my spouse's retirement portfolio."
+    },
+    {
+      "own": "SP",
+      "ast": "Comcast Corp 4.65%33",
+      "code": "CS",
+      "typ": "S",
+      "dt": "11/21/2024",
+      "ndt": "12/06/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Part of my spouse's retirement portfolio."
+    },
+    {
+      "own": "SP",
+      "ast": "Northwest Natural Holding Company Common Stock (NWN)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "11/15/2024",
+      "ndt": "11/25/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Dividend reinvestment. Part of my spouse's retirement portfolio."
+    },
+    {
+      "own": "SP",
+      "ast": "The Kroger Co. 4.5% 29",
+      "code": "CS",
+      "typ": "P",
+      "dt": "11/08/2024",
+      "ndt": "12/06/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Part of my spouse's retirement portfolio."
+    },
+    {
+      "own": "SP",
+      "ast": "Toyota Motor Credit 3%/25",
+      "code": "CS",
+      "typ": "S",
+      "dt": "11/08/2024",
+      "ndt": "12/06/2024",
+      "amt": "$50,001 - $100,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Part of my spouse's retirement portfolio."
+    },
+    {
+      "own": "SP",
+      "ast": "US Treasu NT 4.625%02/26",
+      "code": "GS",
+      "typ": "P",
+      "dt": "11/19/2024",
+      "ndt": "12/06/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Part of my spouse's retirement portfolio."
+    },
+    {
+      "own": "SP",
+      "ast": "US Treasur NT 4%01/27",
+      "code": "GS",
+      "typ": "P",
+      "dt": "11/19/2024",
+      "ndt": "12/06/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Part of my spouse's retirement portfolio."
+    }
+  ]
+}

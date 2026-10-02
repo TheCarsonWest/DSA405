@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "US Treasury Note 1.25% - Jan 15, 2024",
+      "code": "GS",
+      "typ": "S",
+      "dt": "01/16/2024",
+      "ndt": "02/06/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Charles Schwab IRA",
+      "desc": "Matured"
+    }
+  ]
+}

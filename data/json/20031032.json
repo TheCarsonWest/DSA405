@@ -1,0 +1,69 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "International Business Machines Corporation Common Stock (IBM)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "08/12/2025",
+      "ndt": "09/04/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley - Select UMA Account # 1",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "Natera, Inc. - Common Stock (NTRA)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "08/22/2025",
+      "ndt": "09/04/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley - Select UMA Account # 1",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "SYSMEX CORP UNSP/ASDR (SSMXY)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "08/21/2025",
+      "ndt": "09/04/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley - Select UMA Account # 1",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "Visa Inc. (V)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "08/12/2025",
+      "ndt": "09/04/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley - Select UMA Account # 1",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "Visa Inc. (V)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "08/01/2025",
+      "ndt": "09/04/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley - Select UMA Account # 1",
+      "desc": ""
+    }
+  ]
+}

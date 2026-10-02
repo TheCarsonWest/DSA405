@@ -1,0 +1,108 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Danaher Corporation Common Stock (DHR)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "09/03/2025",
+      "ndt": "10/04/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Kean Family Partnership",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Franco-Nevada Corporation (FNV)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "09/03/2025",
+      "ndt": "10/04/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Kean Family Partnership",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Franklin Resources, Inc. Common Stock (BEN)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "09/03/2025",
+      "ndt": "10/04/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Kean Family Partnership",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Intercontinental Exchange Inc. Common Stock (ICE)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "09/25/2025",
+      "ndt": "10/04/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Kean Family Partnership",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Markel Group Inc. Common Stock (MKL)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "09/12/2025",
+      "ndt": "09/19/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": true,
+      "stat": "New",
+      "sub": "State Street Bank & Trust Co.",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Oracle Corporation Common Stock (ORCL)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "09/15/2025",
+      "ndt": "10/04/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": true,
+      "stat": "New",
+      "sub": "Kean Family Partnership",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Oracle Corporation Common Stock (ORCL)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "09/12/2025",
+      "ndt": "09/19/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": true,
+      "stat": "New",
+      "sub": "State Street Bank & Trust Co.",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Stryker Corporation Common Stock (SYK)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "09/12/2025",
+      "ndt": "09/19/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": true,
+      "stat": "New",
+      "sub": "State Street Bank & Trust Co.",
+      "desc": ""
+    }
+  ]
+}

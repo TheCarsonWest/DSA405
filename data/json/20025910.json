@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Treasury Bill 6-Month (Matures 3/27/25)",
+      "code": "GS",
+      "typ": "P",
+      "dt": "09/26/2024",
+      "ndt": "09/26/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Treasury Direct",
+      "desc": ""
+    }
+  ]
+}

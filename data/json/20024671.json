@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "Northwest Natural Holding Company Common Stock (NWN)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "02/15/2024",
+      "ndt": "03/08/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Dividend reinvestment. Part of my spouse’s retirement portfolio."
+    }
+  ]
+}

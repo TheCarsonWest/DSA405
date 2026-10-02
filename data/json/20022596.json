@@ -1,0 +1,43 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Cano Health, Inc. Class A (CANO)",
+      "code": "ST",
+      "typ": "E",
+      "dt": "02/20/2023",
+      "ndt": "02/21/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Merrill Lynch Non-Retirement Investment Account",
+      "desc": "The Member held stock in Cano Health, through Primary Care (ITC) Holdings, Inc. (a private equity holding company of the Cano Health entities prior to this date), which is reported on previous filings. The transaction resulted in an exchange of non-publicly traded shares for Class A shares on February 21, 2023. COMMENTS: The SPAC transaction initiated by the public acquisition company to purchase the Cano Health equity from Primary Care (ITC) Holdings included a Lock-Up Agreement pursuant to which shareholders can only exchange a portion of their non-publicly traded shares for publicly traded shares each year. Although the SPAC transaction occurred in 2021, the first exchange occurred in February of 2022, and this being the second exchange of Filer's shares."
+    },
+    {
+      "own": "",
+      "ast": "U.S. TREASURY BILL ZERO%",
+      "code": "GS",
+      "typ": "P",
+      "dt": "02/27/2023",
+      "ndt": "02/27/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Merrill IRA 1",
+      "desc": "U.S. TREASURY BILL ZERO% MAR 23 2023 YLD TO MATURITY 4.36% MATURITY DATE 3/23/23."
+    },
+    {
+      "own": "",
+      "ast": "U.S. TREASURY BILL ZERO%",
+      "code": "GS",
+      "typ": "P",
+      "dt": "02/16/2023",
+      "ndt": "02/16/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Merrill IRA 1",
+      "desc": "U.S. TREASURY BILL ZERO% YLD TO MATURITY 4.55% . THE MATURITY DATE 2/23/23."
+    }
+  ]
+}

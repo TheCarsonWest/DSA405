@@ -1,0 +1,108 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Alphabet Inc. - Class A Common Stock (GOOGL)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "10/10/2025",
+      "ndt": "10/10/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley - E*TRADE #2",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Alphabet Inc. - Class C Capital Stock (GOOG)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "10/10/2025",
+      "ndt": "10/10/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley - E*TRADE #2",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "CoreWeave, Inc. - Class A Common Stock (CRWV)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "10/10/2025",
+      "ndt": "10/10/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley - E*TRADE #2",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "CoreWeave, Inc. - Class A Common Stock (CRWV)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "10/09/2025",
+      "ndt": "10/09/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley - E*TRADE #2",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Figma Inc Class A (FIG)",
+      "code": "OT",
+      "typ": "P",
+      "dt": "10/10/2025",
+      "ndt": "10/10/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley - E*TRADE #2",
+      "desc": "Location: US\nDescription: Stock"
+    },
+    {
+      "own": "",
+      "ast": "IREN Limited - Ordinary Shares (IREN)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "10/10/2025",
+      "ndt": "10/10/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley - E*TRADE #2",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "IREN Limited - Ordinary Shares (IREN)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "10/10/2025",
+      "ndt": "10/10/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley - E*TRADE #2",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Palantir Technologies Inc. - Class A Common Stock (PLTR)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "10/10/2025",
+      "ndt": "10/10/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley - E*TRADE #2",
+      "desc": ""
+    }
+  ]
+}

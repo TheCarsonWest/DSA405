@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Warner Bros. Discovery, Inc. - Series A Common Stock (WBD)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "08/12/2024",
+      "ndt": "09/13/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

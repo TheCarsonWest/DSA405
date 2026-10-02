@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "J P Morgan Chase & Co Depositary Shares, each representing a 1/400th interest in a share of JPMorgan Chase & Co. 4.75% Non-Cumulative Preferred Stock, Series GG (JPM$J)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "04/24/2024",
+      "ndt": "05/06/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "IRA #2",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Wells Fargo & Company Depositary Shares, each representing a 1/1,000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series DD (WFC$D)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "04/24/2024",
+      "ndt": "05/06/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": true,
+      "stat": "New",
+      "sub": "IRA #2",
+      "desc": ""
+    }
+  ]
+}

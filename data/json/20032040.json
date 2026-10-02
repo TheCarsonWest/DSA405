@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Alliance Resource Partners, L.P. - Common Units Representing Limited Partnership Interests (ARLP)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "08/14/2025",
+      "ndt": "09/02/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Hercules Capital, Inc. Common Stock (HTGC)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "08/19/2025",
+      "ndt": "09/02/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "IWM Option",
+      "code": "OT",
+      "typ": "P",
+      "dt": "09/15/2025",
+      "ndt": "09/22/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "LPL Account I",
+      "desc": "CALL ISHARES RUSSELL 2000 $175 EXP 09/19/25"
+    },
+    {
+      "own": "JT",
+      "ast": "IWM Option",
+      "code": "OT",
+      "typ": "P",
+      "dt": "09/15/2025",
+      "ndt": "09/22/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Joint Ownership LPL Account",
+      "desc": "CALL ISHARES RUSSELL 2000 $175 EXP 09/19/25"
+    },
+    {
+      "own": "JT",
+      "ast": "QQQ Option",
+      "code": "OT",
+      "typ": "P",
+      "dt": "09/15/2025",
+      "ndt": "09/22/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Joint Ownership LPL Account",
+      "desc": "CALL INVESCO QQQ $450 EXP 09/19/25"
+    },
+    {
+      "own": "",
+      "ast": "QQQ Option",
+      "code": "OT",
+      "typ": "P",
+      "dt": "09/16/2025",
+      "ndt": "09/22/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Kuharchik 401k",
+      "desc": "CALL INVESCO QQQ SER 1 $450 EXP 09/19/25"
+    },
+    {
+      "own": "",
+      "ast": "SPY Option",
+      "code": "OT",
+      "typ": "S",
+      "dt": "09/16/2025",
+      "ndt": "09/22/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "KCI Holdings LLC > LPL Brokerage Account",
+      "desc": "CALL SPDR S&P 500 ETF TR $550 EXP 09/18/26"
+    },
+    {
+      "own": "",
+      "ast": "SPY Option",
+      "code": "OT",
+      "typ": "P",
+      "dt": "09/16/2025",
+      "ndt": "09/16/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "KCI Holdings LLC > LPL Brokerage Account",
+      "desc": "CALL SPDR S&P 500 ETF TR $470 EXP 09/19/25"
+    },
+    {
+      "own": "",
+      "ast": "SPY Option",
+      "code": "OT",
+      "typ": "P",
+      "dt": "09/16/2025",
+      "ndt": "09/22/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Kuharchik 401k",
+      "desc": "CALL SPDR S&P 500 ETF TR $470 EXP 09/19/25"
+    }
+  ]
+}

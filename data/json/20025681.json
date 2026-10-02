@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Abbott Laboratories Common Stock (ABT)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "07/23/2024",
+      "ndt": "08/05/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Kean Family Partnership",
+      "desc": ""
+    }
+  ]
+}

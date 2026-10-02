@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "DC",
+      "ast": "Innovex International, Inc. Common Stock (INVX)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "11/25/2025",
+      "ndt": "11/26/2025",
+      "amt": "$1,140.00",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Dependent Child C"
+    }
+  ]
+}

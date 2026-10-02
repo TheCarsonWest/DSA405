@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "Intuit Inc. - Common Stock (INTU)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "06/20/2025",
+      "ndt": "07/03/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "R.W. Allen & Associates, Inc.",
+      "desc": ""
+    }
+  ]
+}

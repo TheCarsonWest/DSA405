@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "Seven Bridges Multi-Strategy Fund LP",
+      "code": "HN",
+      "typ": "P",
+      "dt": "08/31/2023",
+      "ndt": "09/06/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "The 2011 Randall R. Kaplan Living Trust",
+      "desc": "Hedge Fund. Fund manager letter on file with the Committee on Ethics."
+    }
+  ]
+}

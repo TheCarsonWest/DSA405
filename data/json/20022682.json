@@ -1,0 +1,69 @@
+{
+  "transactions": [
+    {
+      "own": "DC",
+      "ast": "Analog Devices, Inc. (ADI)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "03/27/2023",
+      "ndt": "03/31/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley Active Assets (6)",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Analog Devices, Inc. (ADI)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "03/27/2023",
+      "ndt": "03/31/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley Active Assets (1)",
+      "desc": ""
+    },
+    {
+      "own": "DC",
+      "ast": "Analog Devices, Inc. (ADI)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "03/27/2023",
+      "ndt": "03/31/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley Active Assets (5)",
+      "desc": ""
+    },
+    {
+      "own": "DC",
+      "ast": "Seacoast Banking Corporation of Florida (SBCF)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "03/10/2023",
+      "ndt": "03/31/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley Active Assets (4)",
+      "desc": ""
+    },
+    {
+      "own": "DC",
+      "ast": "Seacoast Banking Corporation of Florida (SBCF)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "03/10/2023",
+      "ndt": "03/31/2023",
+      "amt": "$50,001 - $100,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley Active Assets (3)",
+      "desc": ""
+    }
+  ]
+}

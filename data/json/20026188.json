@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "Orange CTY CA REV UTX",
+      "code": "GS",
+      "typ": "S",
+      "dt": "10/15/2024",
+      "ndt": "10/31/2024",
+      "amt": "$50,001 - $100,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "San Francisco CA Sewer Util",
+      "code": "GS",
+      "typ": "S (partial)",
+      "dt": "10/01/2024",
+      "ndt": "10/31/2024",
+      "amt": "$500,001 - $1,000,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

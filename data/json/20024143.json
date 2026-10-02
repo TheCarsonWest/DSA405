@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Medtronic plc. Ordinary Shares (MDT)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "12/05/2023",
+      "ndt": "12/11/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley Smith Barney LLC IRA",
+      "desc": ""
+    }
+  ]
+}

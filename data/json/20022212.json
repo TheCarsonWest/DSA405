@@ -1,0 +1,43 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Generac Holdlings Inc. (GNRC)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "12/05/2022",
+      "ndt": "01/03/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Brokerage Account",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Generac Holdlings Inc. (GNRC)",
+      "code": "OP",
+      "typ": "S",
+      "dt": "12/12/2022",
+      "ndt": "01/03/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Brokerage Account",
+      "desc": "Call options; Strike price $102; Expires 12/16/2022"
+    },
+    {
+      "own": "",
+      "ast": "Generac Holdlings Inc. (GNRC)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "12/20/2022",
+      "ndt": "01/03/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Brokerage Account",
+      "desc": ""
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "Folsom Cordova CA Impt Sch",
+      "code": "GS",
+      "typ": "S",
+      "dt": "10/02/2023",
+      "ndt": "10/31/2023",
+      "amt": "$250,001 - $500,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "Riverside CA Sewer Util",
+      "code": "GS",
+      "typ": "P",
+      "dt": "10/31/2023",
+      "ndt": "10/31/2023",
+      "amt": "$100,001 - $250,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "Stockton CA PFA Wtr Util",
+      "code": "GS",
+      "typ": "S",
+      "dt": "10/02/2023",
+      "ndt": "10/31/2023",
+      "amt": "Over $1,000,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

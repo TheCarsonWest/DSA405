@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "3 Month Bond",
+      "code": "GS",
+      "typ": "P",
+      "dt": "03/08/2024",
+      "ndt": "03/08/2024",
+      "amt": "$250,001 - $500,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Funds used to purchase were from 3 month bond that matured on 3/7/24 (proceeds rolled over)"
+    }
+  ]
+}

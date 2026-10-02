@@ -1,0 +1,43 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "U.S. Treasury Note due 3/31/2024",
+      "code": "GS",
+      "typ": "P",
+      "dt": "03/30/2023",
+      "ndt": "04/20/2023",
+      "amt": "Over $1,000,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Spouse/DC",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "U.S. Treasury Note due 4/15/2023",
+      "code": "GS",
+      "typ": "P",
+      "dt": "03/13/2023",
+      "ndt": "04/20/2023",
+      "amt": "$100,001 - $250,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "U.S. Treasury Note due 4/15/2024",
+      "code": "GS",
+      "typ": "P",
+      "dt": "04/18/2023",
+      "ndt": "04/20/2023",
+      "amt": "$250,001 - $500,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

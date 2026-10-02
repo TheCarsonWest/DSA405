@@ -1,0 +1,43 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "Chandler Ariz Excise Tax Rev Oblig BDS 5.00% Due Jul 1, 2034",
+      "code": "GS",
+      "typ": "S",
+      "dt": "10/18/2024",
+      "ndt": "10/18/2024",
+      "amt": "$500,001 - $1,000,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "Florida Dev Fin Corp Healthcare Facs Rev 4.00% Due Nov 15, 2035",
+      "code": "GS",
+      "typ": "P",
+      "dt": "10/28/2024",
+      "ndt": "10/28/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "New Jersey ST Transn TR FD Auth SYS BDS 5.00% Due Jun 15, 2035",
+      "code": "GS",
+      "typ": "P",
+      "dt": "10/18/2024",
+      "ndt": "10/18/2024",
+      "amt": "$500,001 - $1,000,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

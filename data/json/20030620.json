@@ -1,0 +1,43 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "Meta Platforms, Inc. - Class A Common Stock (META)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "06/30/2025",
+      "ndt": "07/07/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Merrill Lynch SEP IRA",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "Netflix, Inc. - Common Stock (NFLX)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "06/16/2025",
+      "ndt": "07/07/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Merrill Lynch SEP IRA",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "ServiceNow, Inc. Common Stock (NOW)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "06/27/2025",
+      "ndt": "07/07/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Merrill Lynch SEP IRA",
+      "desc": ""
+    }
+  ]
+}

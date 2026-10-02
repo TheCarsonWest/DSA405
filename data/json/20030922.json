@@ -1,0 +1,121 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "Alphabet Inc. - Class A Common Stock (GOOGL)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "02/11/2025",
+      "ndt": "02/11/2025",
+      "amt": "$50,001 - $100,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Schwab Brokerage Account",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "Amgen Inc. - Common Stock (AMGN)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "02/11/2025",
+      "ndt": "02/11/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Schwab Brokerage Account",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "Apple Inc. - Common Stock (AAPL)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "02/11/2025",
+      "ndt": "02/11/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Schwab Brokerage Account",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "Aptiv PLC Ordinary Shares (APTV)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "02/11/2025",
+      "ndt": "02/11/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Schwab Brokerage Account",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "Microsoft Corporation - Common Stock (MSFT)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "02/11/2025",
+      "ndt": "02/11/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Schwab Brokerage Account",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "Mondelez International, Inc. - Class A Common Stock (MDLZ)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "02/11/2025",
+      "ndt": "02/11/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Schwab Brokerage Account",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "NVIDIA Corporation - Common Stock (NVDA)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "02/11/2025",
+      "ndt": "02/11/2025",
+      "amt": "$250,001 - $500,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Schwab Brokerage Account",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "QUALCOMM Incorporated - Common Stock (QCOM)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "02/11/2025",
+      "ndt": "02/11/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Schwab Brokerage Account",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "Visa Inc. (V)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "02/11/2025",
+      "ndt": "02/11/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Schwab Brokerage Account",
+      "desc": ""
+    }
+  ]
+}

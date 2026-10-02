@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "The Baldwin Insurance Group, Inc. - Class A Common Stock (BRP)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "05/08/2024",
+      "ndt": "05/10/2024",
+      "amt": "$500,001 - $1,000,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Fidelity Joint TBE",
+      "desc": ""
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "transactions": [
+    {
+      "own": "DC",
+      "ast": "Amazon.com, Inc. - Common Stock (AMZN)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "03/04/2024",
+      "ndt": "03/04/2024",
+      "amt": "$350.78",
+      "cg": false,
+      "stat": "New",
+      "sub": "Maverick Mast Charles Schwab Brokerage Account",
+      "desc": ""
+    },
+    {
+      "own": "DC",
+      "ast": "AT&T Inc. (T)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "03/04/2024",
+      "ndt": "03/04/2024",
+      "amt": "$172.00",
+      "cg": false,
+      "stat": "New",
+      "sub": "Charles Schwab Magnum Mast Brokerage Acct",
+      "desc": ""
+    },
+    {
+      "own": "DC",
+      "ast": "AT&T Inc. (T)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "03/04/2024",
+      "ndt": "03/04/2024",
+      "amt": "$223.60",
+      "cg": false,
+      "stat": "New",
+      "sub": "Maverick Mast Charles Schwab Brokerage Account",
+      "desc": ""
+    }
+  ]
+}

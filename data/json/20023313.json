@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "Blackstone Inc. (BX) [ST]",
+      "code": "ST",
+      "typ": "P",
+      "dt": "06/10/2022",
+      "ndt": "07/13/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Charles Schwab - Edgewood Management LLC",
+      "desc": "BX was purchased by Edgewood Management for $29,122 on June 10, 2022 and sold for a loss 5 days later on June 15, 2022 for $25,755. The sale was properly reported on the June 2022 PTR filed on July 7, 2022, but the purchase was inadvertently omitted due to an administrative error. The error was discovered during preparation of the 2022 Annual Report for timely filing on August 2, 2023."
+    }
+  ]
+}

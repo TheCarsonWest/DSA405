@@ -1,0 +1,43 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "Ares Capital Corporation - Closed End Fund (ARCC)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "08/15/2023",
+      "ndt": "08/17/2023",
+      "amt": "$155.92",
+      "cg": false,
+      "stat": "New",
+      "sub": "IRA One",
+      "desc": "8 shares"
+    },
+    {
+      "own": "SP",
+      "ast": "Kyndryl Holdings, Inc. (KD)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "07/28/2023",
+      "ndt": "08/02/2023",
+      "amt": "$163.20",
+      "cg": false,
+      "stat": "New",
+      "sub": "Trust One",
+      "desc": "7 shares"
+    },
+    {
+      "own": "SP",
+      "ast": "US Treasury BILL 01/11/2024 5.472%",
+      "code": "GS",
+      "typ": "P",
+      "dt": "07/28/2023",
+      "ndt": "07/28/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Trust One",
+      "desc": "US Treasury BILL 01/11/2024 5.472% $25k"
+    }
+  ]
+}

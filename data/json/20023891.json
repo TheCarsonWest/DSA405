@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "Note Receivable from Intrinsic Exchange Group, Inc.",
+      "code": "CS",
+      "typ": "P",
+      "dt": "10/17/2023",
+      "ndt": "10/17/2023",
+      "amt": "Spouse/DC Over $1,000,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Promissory Note between spouse and Intrinsic Exchange Group, Inc."
+    },
+    {
+      "own": "SP",
+      "ast": "U.S. Treasury Note due 05/31/2024",
+      "code": "GS",
+      "typ": "S",
+      "dt": "10/25/2023",
+      "ndt": "11/01/2023",
+      "amt": "Spouse/DC Over $1,000,000",
+      "cg": true,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "BMC Capital",
+      "code": "PS",
+      "typ": "P",
+      "dt": "08/14/2023",
+      "ndt": "08/14/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Precious Metals, Rare Coin Dealership"
+    },
+    {
+      "own": "SP",
+      "ast": "Carbon Rivers Inc",
+      "code": "PS",
+      "typ": "P",
+      "dt": "08/06/2023",
+      "ndt": "08/14/2023",
+      "amt": "$250,001 - $500,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Spousal purchase of non traded stock"
+    }
+  ]
+}

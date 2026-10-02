@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "TuHURA Biosciences, Inc. - Common Stock (HURA)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "07/13/2025",
+      "ndt": "08/03/2025",
+      "amt": "$50,001 - $100,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

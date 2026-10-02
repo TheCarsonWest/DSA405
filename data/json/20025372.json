@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "Galileo, Inc.",
+      "code": "PS",
+      "typ": "P",
+      "dt": "05/31/2024",
+      "ndt": "06/05/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Exercised stock option"
+    }
+  ]
+}

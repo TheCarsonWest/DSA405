@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Illumina, Inc. - Common Stock (ILMN)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "03/11/2024",
+      "ndt": "03/12/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Walgreens Boots Alliance, Inc. - Common Stock (WBA)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "03/01/2024",
+      "ndt": "03/04/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

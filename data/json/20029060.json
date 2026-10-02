@@ -1,0 +1,82 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Amazon.com, Inc. - Common Stock (AMZN)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "03/27/2025",
+      "ndt": "03/31/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "David Taylor Trust > Schwab Joint Brokerage #1 (Home Grown)",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "American Electric Power Company, Inc. (AEP)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "03/10/2025",
+      "ndt": "03/31/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": true,
+      "stat": "New",
+      "sub": "David Taylor Trust > Schwab Joint Brokerage #1 (Home Grown)",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "AT&T Inc. (T)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "03/10/2025",
+      "ndt": "03/31/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": true,
+      "stat": "New",
+      "sub": "David Taylor Trust > Schwab Joint Brokerage #1 (Home Grown)",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Eaton Corporation, PLC Ordinary Shares (ETN)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "03/10/2025",
+      "ndt": "03/31/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "David Taylor Trust > Schwab Joint Brokerage #1 (Home Grown)",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "JP Morgan Chase & Co. Common Stock (JPM)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "03/10/2025",
+      "ndt": "03/31/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "David Taylor Trust > Schwab Joint Brokerage #1 (Home Grown)",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Parker-Hannifin Corporation Common Stock (PH)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "03/10/2025",
+      "ndt": "03/31/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "David Taylor Trust > Schwab Joint Brokerage #1 (Home Grown)",
+      "desc": ""
+    }
+  ]
+}

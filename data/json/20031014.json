@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "SIMON PPTY GROUP LP NOTE CALL MAKE WHOLE 5.12500% 10/01/2035",
+      "code": "CS",
+      "typ": "P",
+      "dt": "08/18/2025",
+      "ndt": "09/02/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Bill's IRA",
+      "desc": "828807EA1"
+    }
+  ]
+}

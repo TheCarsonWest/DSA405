@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "AIX Ventures Fund II, LP (GLAS Funds, LP)",
+      "code": "HN",
+      "typ": "P",
+      "dt": "07/15/2025",
+      "ndt": "07/27/2025",
+      "amt": "$647.63",
+      "cg": false,
+      "stat": "New",
+      "sub": "2012 Trust",
+      "desc": "Capital Call for AIX Ventures Fund II, LP (GLAS Funds, LP)"
+    },
+    {
+      "own": "",
+      "ast": "GLAS Funds, LP",
+      "code": "HN",
+      "typ": "P",
+      "dt": "07/15/2025",
+      "ndt": "07/27/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "2012 Trust",
+      "desc": "Transfer of $25,000 to GLAS Funds, LP to fund capital calls for future investments."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "Florida HSG Fin Corp Homeowner MTG Rev 2.15% Due Jul 1, 2029",
+      "code": "GS",
+      "typ": "P",
+      "dt": "07/14/2023",
+      "ndt": "07/14/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

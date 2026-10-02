@@ -1,0 +1,43 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "First Eagle SOGEN Global Fund (SGENX)",
+      "code": "OT",
+      "typ": "P",
+      "dt": "12/02/2022",
+      "ndt": "01/04/2022",
+      "amt": "$109.03",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "12/2/22 Purchased 1.837 shares of First Eagle Sogen Global fund at $59.35, this was a dividend reinvestment"
+    },
+    {
+      "own": "",
+      "ast": "iShares 1-3 Year Treasury Bond ETF (SHY)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "12/22/2022",
+      "ndt": "01/04/2022",
+      "amt": "$100,001 - $250,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Schwab U.S. TIPs ETF (SCHP)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "12/02/2022",
+      "ndt": "01/04/2022",
+      "amt": "$100,001 - $250,000",
+      "cg": true,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

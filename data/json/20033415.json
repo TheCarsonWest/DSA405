@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "Church & Dwight Company, Inc. Common Stock (CHD)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "10/10/2025",
+      "ndt": "11/05/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "LIVTR",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "US Treasury Bill 91282CLP4 3.5% Due 9/30/26",
+      "code": "GS",
+      "typ": "P",
+      "dt": "10/10/2025",
+      "ndt": "11/05/2025",
+      "amt": "$50,001 - $100,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "SCH1",
+      "desc": ""
+    }
+  ]
+}

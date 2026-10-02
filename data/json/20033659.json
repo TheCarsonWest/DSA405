@@ -1,0 +1,43 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Johnson & Johnson Common Stock (JNJ)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "11/20/2025",
+      "ndt": "12/05/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "State Street Bank & Trust Co.",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Stryker Corporation Common Stock (SYK)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "11/20/2025",
+      "ndt": "12/05/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "State Street Bank & Trust Co.",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Texas Instruments Incorporated - Common Stock (TXN)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "11/26/2025",
+      "ndt": "12/03/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Kean Family Partnership",
+      "desc": ""
+    }
+  ]
+}

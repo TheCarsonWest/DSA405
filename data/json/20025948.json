@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "NGL ENERGY PARTNERS LP Common Units representing Limited Partner Interests",
+      "code": "ST",
+      "typ": "S",
+      "dt": "09/17/2024",
+      "ndt": "10/02/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Equitable Advisors Investment Account",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "NGL ENERGY PARTNERS LP Common Units representing Limited Partner Interests",
+      "code": "ST",
+      "typ": "S",
+      "dt": "09/30/2024",
+      "ndt": "10/02/2024",
+      "amt": "$100,001 - $250,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Equitable Advisors Investment Account",
+      "desc": ""
+    }
+  ]
+}

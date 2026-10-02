@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "Oklahoma Cnt OK Independent 3:00% 07/01/25",
+      "code": "GS",
+      "typ": "E",
+      "dt": "07/01/2025",
+      "ndt": "07/27/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Stocks, Bonds, & Mutual Funds",
+      "desc": "Bond Reached Maturity"
+    }
+  ]
+}

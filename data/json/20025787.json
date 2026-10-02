@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "Northwest Natural Holding Company Common Stock (NWN)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "08/15/2024",
+      "ndt": "08/21/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Dividend reinvestment. Part of my spouse's retirement portfolio."
+    },
+    {
+      "own": "SP",
+      "ast": "US Treasur Nt 2.75%08/32",
+      "code": "GS",
+      "typ": "P",
+      "dt": "08/29/2024",
+      "ndt": "09/04/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Part of my spouse's retirement portfolio."
+    }
+  ]
+}

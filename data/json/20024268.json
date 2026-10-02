@@ -1,0 +1,69 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Coca-Cola Company (KO)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "12/15/2023",
+      "ndt": "01/06/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Reinvest Shares"
+    },
+    {
+      "own": "",
+      "ast": "Home Depot, Inc. (HD)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "12/14/2023",
+      "ndt": "01/06/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Reinvest Shares"
+    },
+    {
+      "own": "",
+      "ast": "International Business Machines Corporation (IBM)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "12/11/2023",
+      "ndt": "01/06/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Reinvest Shares"
+    },
+    {
+      "own": "",
+      "ast": "Johnson & Johnson (JNJ)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "12/05/2023",
+      "ndt": "01/06/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Reinvest Shares"
+    },
+    {
+      "own": "",
+      "ast": "PPG Industries, Inc. (PPG)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "12/12/2023",
+      "ndt": "01/06/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Reinvest Shares"
+    }
+  ]
+}

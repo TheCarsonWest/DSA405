@@ -1,0 +1,82 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "Constellation BR 2.25%31 Due 08/01/31",
+      "code": "CS",
+      "typ": "P",
+      "dt": "10/11/2024",
+      "ndt": "11/04/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Part of my spouse's retirement portfolio."
+    },
+    {
+      "own": "SP",
+      "ast": "UnitedHealth Gro 3.75%25",
+      "code": "CS",
+      "typ": "S",
+      "dt": "10/11/2024",
+      "ndt": "11/04/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Part of my spouse's retirement portfolio."
+    },
+    {
+      "own": "SP",
+      "ast": "US Treasu Nt 4.125% UST Due 03/31/29",
+      "code": "GS",
+      "typ": "P",
+      "dt": "10/21/2024",
+      "ndt": "11/04/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Part of my spouse's retirement portfolio."
+    },
+    {
+      "own": "SP",
+      "ast": "US Treasu NT 4.625% Due 04/30/31",
+      "code": "GS",
+      "typ": "P",
+      "dt": "10/21/2024",
+      "ndt": "11/04/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Part of my spouse's retirement portfolio."
+    },
+    {
+      "own": "",
+      "ast": "US Treasury Bill Due 02/04/25",
+      "code": "GS",
+      "typ": "P",
+      "dt": "10/15/2024",
+      "ndt": "11/04/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "US Treasury Bill Due 04/10/25",
+      "code": "GS",
+      "typ": "P",
+      "dt": "10/15/2024",
+      "ndt": "11/04/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

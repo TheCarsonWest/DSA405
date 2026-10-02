@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Vmware, Inc. Common stock, Class A (VMW)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "11/27/2023",
+      "ndt": "05/01/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "IRA",
+      "desc": "On November 27 2023 Broadcom Inc. (NASDAQ: AVGO), a global technology leader that designs, develops, and supplies semiconductor and infrastructure software solutions, acquired VMware, Inc. Broadcom Inc. re-purchased all VMware Class A stock holdings from portfolios that had less than a 100 shares. The total proceeds for the VMware stock re-purchase were deposited in the IRA Morgan Stanley Money Market Fund as reported on Schedule A"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "Accenture plc Class A Ordinary Shares (ACN)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "09/26/2025",
+      "ndt": "09/29/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Hern Family Foundation",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "Home Depot, Inc. (HD)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "09/26/2025",
+      "ndt": "09/29/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": true,
+      "stat": "New",
+      "sub": "Hern Family Foundation",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "Masimo Corporation - Common Stock (MASI)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "09/26/2025",
+      "ndt": "09/29/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Hern Family Foundation",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "Microsoft Corporation - Common Stock (MSFT)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "09/26/2025",
+      "ndt": "09/29/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": true,
+      "stat": "New",
+      "sub": "Hern Family Foundation",
+      "desc": ""
+    }
+  ]
+}

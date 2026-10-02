@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "MAI Managed Income Fund",
+      "code": "HN",
+      "typ": "S (partial)",
+      "dt": "11/19/2024",
+      "ndt": "12/18/2024",
+      "amt": "$50,001 - $100,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "David P. Joyce Trust",
+      "desc": ""
+    }
+  ]
+}

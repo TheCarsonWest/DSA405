@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "Synovus Financial Corp. Common Stock (SNV)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "02/16/2024",
+      "ndt": "03/05/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "STOCK PLAN",
+      "desc": "Employee stock plan distribution."
+    }
+  ]
+}

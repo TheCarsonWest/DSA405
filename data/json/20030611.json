@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "FIMM MONEY MARKET PORT FUND INSTL CL M/M (FNSXX)",
+      "code": "OT",
+      "typ": "S",
+      "dt": "06/23/2025",
+      "ndt": "06/24/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Raymond James Brokerage Account",
+      "desc": "FIMM MONEY MARKET PORT FUND INSTL CL M/M (FNSXX)"
+    },
+    {
+      "own": "",
+      "ast": "JPMORGAN U.S. GOVERNMENT MONEY MARKET FD CAPITAL CL M/M (Symbol: OGVXX) TDL: 006682076|4|N|4812C",
+      "code": "OT",
+      "typ": "S",
+      "dt": "06/23/2025",
+      "ndt": "06/24/2025",
+      "amt": "$1,000,001 - $5,000,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Raymond James Brokerage Account",
+      "desc": "JPMORGAN U.S. GOVERNMENT MONEY MARKET FD CAPITAL CL M/M (Symbol: OGVXX)"
+    }
+  ]
+}

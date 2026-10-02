@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Myno Carbon Corp promissory note",
+      "code": "CS",
+      "typ": "P",
+      "dt": "07/30/2024",
+      "ndt": "08/17/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Casten Shared Investments",
+      "desc": "Promissory note with option to convert to convertible notes."
+    }
+  ]
+}

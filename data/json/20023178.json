@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "Banner Fund V",
+      "code": "OL",
+      "typ": "P",
+      "dt": "06/27/2023",
+      "ndt": "06/13/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "26 - CD Family Investment Partnership",
+      "desc": "Location: Chicago, IL, US\nDescription: Real Estate Investment Fund"
+    }
+  ]
+}

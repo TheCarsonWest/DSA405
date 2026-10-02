@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "United States Treasury Notes",
+      "code": "GS",
+      "typ": "S (partial)",
+      "dt": "10/10/2023",
+      "ndt": "11/08/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "SiriusXM Holdings Inc. - Common Stock (SIRI)",
+      "code": "ST",
+      "typ": "E",
+      "dt": "09/10/2024",
+      "ndt": "07/25/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "RBC Roth IRA",
+      "desc": "Originally Liberty Media LSXMK. Split off of companies."
+    },
+    {
+      "own": "",
+      "ast": "SiriusXM Holdings Inc. - Common Stock (SIRI)",
+      "code": "ST",
+      "typ": "E",
+      "dt": "09/10/2024",
+      "ndt": "07/25/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Roth IRA",
+      "desc": "Originally Liberty Media LSXMK. Split off of companies."
+    }
+  ]
+}

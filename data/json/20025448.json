@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Tresury Bill (3-Month, Matures 10/10/2024)",
+      "code": "GS",
+      "typ": "P",
+      "dt": "07/11/2024",
+      "ndt": "07/11/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "TD Ameritrade",
+      "desc": ""
+    }
+  ]
+}

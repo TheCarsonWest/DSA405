@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "US TREASURY BILL (MATURITY 08/24/2023)",
+      "code": "GS",
+      "typ": "P",
+      "dt": "02/23/2023",
+      "ndt": "02/23/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "JAY F HILL CHARITABLE TRUST",
+      "desc": "REP HILL BECAME SUCCESSOR TRUSTEE OF THE JAY F HILL CHARITABLE TRUST ON 11/04/2022 SUBSEQUENT TO THE DEATH OF HIS FATHER."
+    }
+  ]
+}

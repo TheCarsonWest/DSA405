@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "SB DPC Fund LP",
+      "code": "HN",
+      "typ": "P",
+      "dt": "02/21/2024",
+      "ndt": "02/26/2024",
+      "amt": "$100,001 - $250,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "2021 Kathy E. Manning Irrevocable GST Trust FBO Randall R Kaplan & Descendants > Randall Robert Kaplan Alaska LLC",
+      "desc": "Private equity fund. Fund manager letter on file with the Committee on Ethics."
+    }
+  ]
+}

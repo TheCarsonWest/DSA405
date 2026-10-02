@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "New York NY Go BDS Ser. Fiscal 2015F 5.00% Due Jun 1, 2044",
+      "code": "GS",
+      "typ": "S",
+      "dt": "07/24/2024",
+      "ndt": "07/24/2024",
+      "amt": "$500,001 - $1,000,000",
+      "cg": true,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "TX Trans Commn TPK 5% TPK Tran Due 08/15/42",
+      "code": "GS",
+      "typ": "P",
+      "dt": "07/24/2024",
+      "ndt": "07/24/2024",
+      "amt": "$500,001 - $1,000,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

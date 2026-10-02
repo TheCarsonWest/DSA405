@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "ADFA UA JONESBORO 041186242",
+      "code": "GS",
+      "typ": "S",
+      "dt": "12/01/2022",
+      "ndt": "12/29/2022",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "JAY F HILL CHARITABLE TRUST",
+      "desc": "BOND MATURITY. REDEEMED BY ISSUER. CUSIP 041186242. REP HILL BECAME SUCCESSOR TRUSTEE OF THE JAY F HILL CRT ON 11/04/2022 SUBSEQUENT TO THE DEATH OF HIS FATHER."
+    }
+  ]
+}

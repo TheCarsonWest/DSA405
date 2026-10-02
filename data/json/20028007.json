@@ -1,0 +1,56 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "BANK AMERICA CORP SER N MTN 6.20400% 11/10/2028 CALL MAKE WHOLE",
+      "code": "CS",
+      "typ": "P",
+      "dt": "03/06/2025",
+      "ndt": "03/21/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Bill's IRA",
+      "desc": "06051GLC1"
+    },
+    {
+      "own": "",
+      "ast": "BJ's Wholesale Club Holdings, Inc. Common Stock (BJ)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "03/03/2025",
+      "ndt": "03/21/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Bill's IRA",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "GOLDMAN SACHS GROUP INC NOTE 5.79800% 08/10/2026 CALL MAKE WHOLE",
+      "code": "CS",
+      "typ": "P",
+      "dt": "02/28/2025",
+      "ndt": "03/21/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Bill's IRA",
+      "desc": "38145GAM2"
+    },
+    {
+      "own": "",
+      "ast": "JPMORGAN CHASE &CO NOTE CALL MAKE WHOLE 5.29900% 07/24/2029",
+      "code": "CS",
+      "typ": "P",
+      "dt": "03/06/2025",
+      "ndt": "03/21/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Bill's IRA",
+      "desc": "46647PDU7"
+    }
+  ]
+}

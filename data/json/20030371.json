@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "SOL (Solana)",
+      "code": "CT",
+      "typ": "S",
+      "dt": "05/12/2025",
+      "ndt": "05/12/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

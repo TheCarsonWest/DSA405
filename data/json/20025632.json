@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "3 Month USG Bond",
+      "code": "GS",
+      "typ": "P",
+      "dt": "07/30/2024",
+      "ndt": "07/30/2024",
+      "amt": "$250,001 - $500,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Roll over from previous USG Bonds"
+    }
+  ]
+}

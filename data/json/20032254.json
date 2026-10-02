@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "Illinois St Toll Highway Auth Senior-Ser Rev 5% due 1/1/27",
+      "code": "GS",
+      "typ": "S (partial)",
+      "dt": "09/30/2025",
+      "ndt": "10/08/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Victoria Kelly Trust ICA",
+      "desc": ""
+    }
+  ]
+}

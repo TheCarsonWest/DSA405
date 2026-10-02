@@ -1,0 +1,56 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "Apple Inc. - Common Stock (AAPL)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "10/07/2024",
+      "ndt": "10/22/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "$215 Puts exp. 1/17/25"
+    },
+    {
+      "own": "SP",
+      "ast": "GE Vernova Inc. Common Stock (GEV)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "11/08/2024",
+      "ndt": "11/12/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": true,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "Pfizer, Inc. Common Stock (PFE)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "10/21/2024",
+      "ndt": "10/23/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "TuHURA Biosciences, Inc. - Common Stock (HURA)",
+      "code": "ST",
+      "typ": "E",
+      "dt": "10/18/2024",
+      "ndt": "11/12/2024",
+      "amt": "$100,001 - $250,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "The Note SP holds in TuHURA Biosciences was converted as the result of a merger of the company with Kintara Therapeutics (KTRA). The note converted into 31,571 common shares of the combined companies following a concurrent reverse stock split. The combined companies are trading under the name TuHURA Biosciences, trading symbol HURA. Any additional information can be obtained on the company's investor relations website."
+    }
+  ]
+}

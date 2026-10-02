@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "FT VEST TOTAL RETURN INCOME FUND SERIES A4 CLASS I",
+      "code": "PS",
+      "typ": "P",
+      "dt": "01/29/2025",
+      "ndt": "01/30/2025",
+      "amt": "$100,001 - $250,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Hern Family Foundation",
+      "desc": "Buy Open"
+    }
+  ]
+}

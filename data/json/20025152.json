@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "Intrinsic Exchange Group, Inc.",
+      "code": "OI",
+      "typ": "P",
+      "dt": "05/29/2024",
+      "ndt": "05/29/2024",
+      "amt": "Over $1,000,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "The investment was made through a Simple Agreement for Future Equity (SAFE)."
+    }
+  ]
+}

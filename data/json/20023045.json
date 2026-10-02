@@ -1,0 +1,69 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Invesco S&P 500 Equal Weight ETF (RSP)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "04/13/2023",
+      "ndt": "04/13/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Merrill IRA 1",
+      "desc": "INVESCO S&P 500 EQUAL WEIGHT ETF"
+    },
+    {
+      "own": "",
+      "ast": "iShares Dow Jones U.S. ETF (IYY)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "04/13/2023",
+      "ndt": "04/13/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Merrill IRA 1",
+      "desc": "ISHARES DOWJONES US FINL SVCS COMPOSITE INDEX FD VSP 05/27/2020"
+    },
+    {
+      "own": "",
+      "ast": "iShares Russell 1000 Value ETF (IWD)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "04/13/2023",
+      "ndt": "04/13/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Merrill IRA 1",
+      "desc": "ISHARES RUSSELL 1000 VALUE VSP 05/11/2021"
+    },
+    {
+      "own": "",
+      "ast": "iShares Russell 1000 Value ETF (IWD)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "04/13/2023",
+      "ndt": "04/13/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Merrill IRA 1",
+      "desc": "ISHARES RUSSELL 1000 VALUE VSP 08/17/2021"
+    },
+    {
+      "own": "SP",
+      "ast": "NextEra Energy Partners, LP Common Units representing limited partner interests (NEP)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "04/13/2023",
+      "ndt": "04/13/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Neuberger",
+      "desc": "NEXTERA ENERGY PARTNERS LPCOM UNIT LTD PARTNERSHIP INT"
+    }
+  ]
+}

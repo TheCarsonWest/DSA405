@@ -1,0 +1,82 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "Arizona Indl Dev Auth Rev BDS Lincoln 5.00% Due May 1, 2026",
+      "code": "GS",
+      "typ": "S",
+      "dt": "12/08/2023",
+      "ndt": "12/08/2023",
+      "amt": "$250,001 - $500,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "Arizona Indl Dev Auth Rev BDS Lincoln 5.00% Due Nov 1, 2029",
+      "code": "GS",
+      "typ": "P",
+      "dt": "12/15/2023",
+      "ndt": "12/15/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "Chandler Ariz Excise Tax Rev Oblig BDS 5.00% Due Jul 1, 2034",
+      "code": "GS",
+      "typ": "P",
+      "dt": "12/07/2023",
+      "ndt": "12/07/2023",
+      "amt": "$500,001 - $1,000,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "Maryland ST Go BDS Ser. 2017 B 5.00% Due Aug 1, 2026",
+      "code": "GS",
+      "typ": "S (partial)",
+      "dt": "12/15/2023",
+      "ndt": "12/15/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "Prince Georges CNTY MD Go Consolidated 5.00% Due Jul 15, 2031",
+      "code": "GS",
+      "typ": "S (partial)",
+      "dt": "12/08/2023",
+      "ndt": "12/08/2023",
+      "amt": "$100,001 - $250,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "Triborough Bridge & Tunl Auth NY 4% SPL Tax Due 11/15/31",
+      "code": "GS",
+      "typ": "P",
+      "dt": "12/05/2023",
+      "ndt": "12/05/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

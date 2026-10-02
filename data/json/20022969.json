@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Treasury Bills (4-week, Matures 6/6/2023)",
+      "code": "GS",
+      "typ": "P",
+      "dt": "05/09/2023",
+      "ndt": "05/09/2023",
+      "amt": "$100,001 - $250,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Treasury Direct",
+      "desc": ""
+    }
+  ]
+}

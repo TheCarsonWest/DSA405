@@ -1,0 +1,56 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "Cross Timbers Royalty Trust (CRT)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "12/08/2023",
+      "ndt": "01/02/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "Duke Energy Corporation Depositary Shares, each representing a 1/1,000th interest in a share of 5.75% Series A Cumulative Redeemable Perpetual Preferred Stock (DUK$A)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "12/19/2023",
+      "ndt": "01/02/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "Ellington Financial Inc. 7.00% Series D Cumulative Perpetual Redeemable Preferred Stock (EFC$D)",
+      "code": "ST",
+      "typ": "E",
+      "dt": "12/14/2023",
+      "ndt": "01/02/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Arlington Asset Management 7% Preferred Stock exchanged for Ellington Financial 7% Preferred Stock following merger."
+    },
+    {
+      "own": "JT",
+      "ast": "FLEX LNG Ltd. Ordinary Shares (FLNG)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "12/04/2023",
+      "ndt": "01/02/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

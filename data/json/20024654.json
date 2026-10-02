@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "New Jersey St 19 GO Emer GO 5% due 6/1/2028",
+      "code": "GS",
+      "typ": "P",
+      "dt": "02/21/2024",
+      "ndt": "03/05/2024",
+      "amt": "$50,001 - $100,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

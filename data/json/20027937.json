@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "UBS Group AG Registered Ordinary Shares (UBS)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "03/07/2025",
+      "ndt": "03/10/2025",
+      "amt": "$250,001 - $500,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Brokerage 90126",
+      "desc": ""
+    }
+  ]
+}

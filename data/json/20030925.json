@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "FIG (NYSE)",
+      "code": "OT",
+      "typ": "P",
+      "dt": "08/06/2025",
+      "ndt": "08/07/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "NYSE Listed Stock purchased post IPO"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "Dominion Energy, Inc. Common Stock (D)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "07/02/2024",
+      "ndt": "07/02/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "TIAA Joint",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "Leidos Holdings, Inc. Common Stock (LDOS)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "07/02/2024",
+      "ndt": "07/02/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "TIAA Joint",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "Science Applications International Corporation - Common Stock (SAIC)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "07/02/2024",
+      "ndt": "07/02/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "TIAA Joint",
+      "desc": ""
+    }
+  ]
+}

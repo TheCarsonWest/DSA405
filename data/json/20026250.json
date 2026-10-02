@@ -1,0 +1,69 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Cadence Bank 5.50% Series A (CADE$A)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "11/06/2024",
+      "ndt": "11/19/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "IRA #3",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Capital One Financial Corporation Depositary shares each representing a 1/40th interest in a share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series I of the Issuer (COF$I)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "11/06/2024",
+      "ndt": "11/19/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "IRA #3",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "JP Morgan Chase & Co Depositary Shares Preferred Series GG",
+      "code": "OT",
+      "typ": "P",
+      "dt": "11/06/2024",
+      "ndt": "11/07/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "IRA #3",
+      "desc": "Publicly traded preferred shares"
+    },
+    {
+      "own": "",
+      "ast": "Regions Financial Corporation Depositary Shares, Each Representing a 1/40th Interest in a Share of 4.45% Non-Cumulative Perpetual Preferred Stock, Series E (RF$E)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "11/06/2024",
+      "ndt": "11/19/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "IRA #3",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "U.S. Bancorp Depositary Shares each representing a 1/1,000th interest in a share of Series K Non-Cumulative Perpetual Preferred Stock (USB$P)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "11/06/2024",
+      "ndt": "11/19/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "IRA #3",
+      "desc": ""
+    }
+  ]
+}

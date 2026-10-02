@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "Envista Holdings Corporation Common Stock (NVST)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "06/06/2024",
+      "ndt": "06/06/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Trust One",
+      "desc": ""
+    }
+  ]
+}

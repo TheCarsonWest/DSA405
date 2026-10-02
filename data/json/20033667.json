@@ -1,0 +1,82 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "ALIBABA GROUP HOLDING LTD (BABAF)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "11/21/2025",
+      "ndt": "12/05/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "PERSHING LLC",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "American Water Works Company, Inc. Common Stock (AWK)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "11/21/2025",
+      "ndt": "12/05/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "PERSHING LLC",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Apollo Global Management, Inc. (APO)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "11/21/2025",
+      "ndt": "12/05/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "PERSHING LLC",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "CVS Health Corporation Common Stock (CVS)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "11/21/2025",
+      "ndt": "12/05/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "PERSHING LLC",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Microsoft Corporation - Common Stock (MSFT)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "11/21/2025",
+      "ndt": "12/05/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "PERSHING LLC",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "NVIDIA Corporation - Common Stock (NVDA)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "11/21/2025",
+      "ndt": "12/05/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "PERSHING LLC",
+      "desc": ""
+    }
+  ]
+}

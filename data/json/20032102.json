@@ -1,0 +1,43 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "Oklahoma City Okla Go BDS Ser. 2023 4.00 % Due Mar 1, 2035",
+      "code": "GS",
+      "typ": "S",
+      "dt": "09/12/2025",
+      "ndt": "09/12/2025",
+      "amt": "$250,001 - $500,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "Southeast Energy Auth Coop Dist Ala 5.00% Due Sep 1, 2035",
+      "code": "GS",
+      "typ": "P",
+      "dt": "09/12/2025",
+      "ndt": "09/12/2025",
+      "amt": "$250,001 - $500,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "Tennessee Energy Ac 5%35 Edr Idr Due Dec 1, 2035",
+      "code": "GS",
+      "typ": "P",
+      "dt": "09/10/2025",
+      "ndt": "09/10/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

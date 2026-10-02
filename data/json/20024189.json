@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Elliot Associates, LP (GLAS Funds, LP)",
+      "code": "HN",
+      "typ": "P",
+      "dt": "12/20/2023",
+      "ndt": "12/21/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "2012 Trust",
+      "desc": "Capital Call for Elliot Associates, LP"
+    }
+  ]
+}

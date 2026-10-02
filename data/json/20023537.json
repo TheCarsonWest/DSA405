@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "PEPSICO INC NOTE CALL MAKE WHOLE 3.90000% 07/18/2032",
+      "code": "CS",
+      "typ": "P",
+      "dt": "08/10/2023",
+      "ndt": "08/15/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Bill's IRA",
+      "desc": "713448FM5"
+    }
+  ]
+}

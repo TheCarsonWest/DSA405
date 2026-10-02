@@ -1,0 +1,43 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "Indiana St Fin Auth Revenue Ser B Rev 5% due 2/1/26",
+      "code": "GS",
+      "typ": "S",
+      "dt": "10/17/2025",
+      "ndt": "11/11/2025",
+      "amt": "$50,001 - $100,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Victoria Kelly Trust ICA",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "Maryland St Dept of Transport Ser B Rev 5% due 10/1/32",
+      "code": "GS",
+      "typ": "P",
+      "dt": "10/21/2025",
+      "ndt": "11/11/2025",
+      "amt": "$50,001 - $100,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Victoria Kelly Trust ICA",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "Seattle WA Muni Light & Pw Ser C Rev 5% due 9/1/26",
+      "code": "GS",
+      "typ": "S (partial)",
+      "dt": "10/17/2025",
+      "ndt": "11/11/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Victoria Kelly Trust ICA",
+      "desc": ""
+    }
+  ]
+}

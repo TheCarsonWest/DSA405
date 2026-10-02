@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Warner Bros. Discovery, Inc. - Series A (WBD)",
+      "code": "ST",
+      "typ": "E",
+      "dt": "04/08/2022",
+      "ndt": "05/11/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Judith S. Clark Irrevocable Trust",
+      "desc": "Received shares of Warner Bros. Discovery, Inc. (WBD) in exchange for AT&T Inc. (T) as a result of spinoff."
+    },
+    {
+      "own": "",
+      "ast": "Warner Bros. Discovery, Inc. - Series A (WBD)",
+      "code": "ST",
+      "typ": "E",
+      "dt": "04/08/2022",
+      "ndt": "05/11/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Katherine M. Clark Separate Share Trust",
+      "desc": "Received shares of Warner Bros. Discovery, Inc. (WBD) in exchange for AT&T Inc. (T) as a result of spinoff."
+    }
+  ]
+}

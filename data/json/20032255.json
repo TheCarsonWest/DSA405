@@ -1,0 +1,56 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "BlackRock, Inc. Common Stock (BLK)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "09/18/2025",
+      "ndt": "10/08/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Growth Partners Roth IRA",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "L3Harris Technologies, Inc. Common Stock (LHX)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "09/18/2025",
+      "ndt": "10/08/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Growth Partners Roth IRA",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Microsoft Corporation - Common Stock (MSFT)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "09/18/2025",
+      "ndt": "10/09/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Growth Partners Roth IRA",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "UnitedHealth Group Incorporated Common Stock (UNH)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "09/18/2025",
+      "ndt": "10/08/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Growth Partners Roth IRA",
+      "desc": ""
+    }
+  ]
+}

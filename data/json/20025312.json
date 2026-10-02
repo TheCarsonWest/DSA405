@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "Illinois ST Sales Tax Rev JR Oblig 4.00% Due Jun 15, 2030",
+      "code": "GS",
+      "typ": "P",
+      "dt": "05/22/2024",
+      "ndt": "06/04/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

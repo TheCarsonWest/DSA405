@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "DC",
+      "ast": "AngioDynamics, Inc. - Common Stock (ANGO)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "10/20/2025",
+      "ndt": "10/21/2025",
+      "amt": "$2,000.00",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Dependent Child C"
+    }
+  ]
+}

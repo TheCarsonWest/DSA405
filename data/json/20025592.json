@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Coca-Cola Company (KO)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "07/01/2024",
+      "ndt": "08/03/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Reinvest shares"
+    }
+  ]
+}

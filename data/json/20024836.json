@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Bitcoin",
+      "code": "CT",
+      "typ": "P",
+      "dt": "03/30/2024",
+      "ndt": "04/09/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Brokerage > coinage account",
+      "desc": ""
+    }
+  ]
+}

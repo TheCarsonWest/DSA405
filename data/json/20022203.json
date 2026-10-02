@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "US Treasury Bill 6/22/23",
+      "code": "GS",
+      "typ": "P",
+      "dt": "12/22/2022",
+      "ndt": "01/03/2023",
+      "amt": "$100,001 - $250,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "SEP 1",
+      "desc": "US Treasury Bill 6/22/23"
+    }
+  ]
+}

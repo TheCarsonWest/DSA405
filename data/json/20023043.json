@@ -1,0 +1,56 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Allstate Corporation (ALL)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "07/01/2021",
+      "ndt": "05/18/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "Amended",
+      "sub": "Richard R Larsen IRA > Ameriprise SPS Managed Account",
+      "desc": "This managed account within the RRL IRA was set up late 2020. At the time I received guidance that due to the account being one where i did not control selections or trades, I did not need to file PTRs. That guidance has since changed and am reporting per new guidance"
+    },
+    {
+      "own": "",
+      "ast": "EOG Resources, Inc. (EOG)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "07/01/2021",
+      "ndt": "05/18/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "Amended",
+      "sub": "Richard R Larsen IRA > Ameriprise SPS Managed Account",
+      "desc": "This managed account within the RRL IRA was set up late 2020. At the time I received guidance that due to the account being one where i did not control selections or trades, I did not need to file PTRs. That guidance has since changed and am reporting per new guidance"
+    },
+    {
+      "own": "",
+      "ast": "Pioneer Natural Resources Company (PXD)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "07/01/2021",
+      "ndt": "05/18/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "Amended",
+      "sub": "Richard R Larsen IRA > Ameriprise SPS Managed Account",
+      "desc": "This managed account within the RRL IRA was set up late 2020. At the time I received guidance that due to the account being one where i did not control selections or trades, I did not need to file PTRs. That guidance has since changed and am reporting per new guidance"
+    },
+    {
+      "own": "",
+      "ast": "TJX Companies, Inc. (TJX)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "07/01/2021",
+      "ndt": "05/18/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "Amended",
+      "sub": "Richard R Larsen IRA > Ameriprise SPS Managed Account",
+      "desc": "This managed account within the RRL IRA was set up late 2020. At the time I received guidance that due to the account being one where i did not control selections or trades, I did not need to file PTRs. That guidance has since changed and am reporting per new guidance"
+    }
+  ]
+}

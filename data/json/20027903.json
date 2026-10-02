@@ -1,0 +1,108 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "DoorDash, Inc. - Common Stock (DASH)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "02/13/2025",
+      "ndt": "03/05/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Moran Wealth IRA",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "DoorDash, Inc. - Common Stock (DASH)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "02/13/2025",
+      "ndt": "03/05/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Moran Wealth IRA",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "FactSet Research Systems Inc. Common Stock (FDS)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "02/13/2025",
+      "ndt": "03/05/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Moran Wealth IRA",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "FactSet Research Systems Inc. Common Stock (FDS)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "02/13/2025",
+      "ndt": "03/05/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Moran Wealth IRA",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "Fortinet, Inc. - Common Stock (FTNT)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "02/13/2025",
+      "ndt": "03/05/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Moran Wealth IRA",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Fortinet, Inc. - Common Stock (FTNT)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "02/13/2025",
+      "ndt": "03/05/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Moran Wealth IRA",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Lockheed Martin Corporation Common Stock (LMT)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "02/13/2025",
+      "ndt": "03/05/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Moran Wealth IRA",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "Lockheed Martin Corporation Common Stock (LMT)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "02/13/2025",
+      "ndt": "03/05/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Moran Wealth IRA",
+      "desc": ""
+    }
+  ]
+}

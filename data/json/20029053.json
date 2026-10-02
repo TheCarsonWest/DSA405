@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "GOVERNMENT NATIONAL MORTGAGE ASSOCIATION POOL MB0260",
+      "code": "CS",
+      "typ": "P",
+      "dt": "03/28/2025",
+      "ndt": "03/31/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley Smith Barney LLC IRA",
+      "desc": "Corporate Bond; Maturity Date - 03/20/2055; Coupon Rate - 6% Fixed"
+    },
+    {
+      "own": "",
+      "ast": "Walmart Inc. Common Stock (WMT)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "03/27/2025",
+      "ndt": "03/31/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley Smith Barney LLC Brokerage Account",
+      "desc": ""
+    }
+  ]
+}

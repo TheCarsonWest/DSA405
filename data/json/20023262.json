@@ -1,0 +1,82 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "Alphabet Inc. - Class A (GOOGL)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "06/07/2023",
+      "ndt": "07/07/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley Trust Account",
+      "desc": "083057"
+    },
+    {
+      "own": "JT",
+      "ast": "Deere & Company (DE)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "06/23/2023",
+      "ndt": "07/07/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley Trust Account",
+      "desc": "083057"
+    },
+    {
+      "own": "JT",
+      "ast": "Estee Lauder Companies, Inc. (EL)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "06/07/2023",
+      "ndt": "07/07/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley Trust Account",
+      "desc": "083057"
+    },
+    {
+      "own": "JT",
+      "ast": "Marriott International - Class A (MAR)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "06/06/2023",
+      "ndt": "07/07/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley Trust Account",
+      "desc": "083057"
+    },
+    {
+      "own": "JT",
+      "ast": "Regeneron Pharmaceuticals, Inc. (REGN)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "06/23/2023",
+      "ndt": "07/07/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley Trust Account",
+      "desc": "083057"
+    },
+    {
+      "own": "JT",
+      "ast": "Salesforce, Inc. (CRM)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "06/09/2023",
+      "ndt": "07/07/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Morgan Stanley Trust Account",
+      "desc": "083057"
+    }
+  ]
+}

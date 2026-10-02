@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "New Water Capital Partners II, LP (GLAS Funds, LP)",
+      "code": "HN",
+      "typ": "S (partial)",
+      "dt": "12/19/2024",
+      "ndt": "12/29/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "2012 Trust",
+      "desc": "Cash distribution of $4,388.99"
+    }
+  ]
+}

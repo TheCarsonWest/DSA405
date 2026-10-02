@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Winslow Large Cap Growth",
+      "code": "HN",
+      "typ": "S (partial)",
+      "dt": "05/01/2023",
+      "ndt": "05/08/2023",
+      "amt": "$100,001 - $250,000",
+      "cg": false,
+      "stat": "Amended",
+      "sub": "Morgan Stanley Unified Management Account",
+      "desc": ""
+    }
+  ]
+}

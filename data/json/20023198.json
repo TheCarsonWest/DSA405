@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "JPMorgan Chase & Co. OH 5.55% CD 07/29/2024",
+      "code": "CS",
+      "typ": "P",
+      "dt": "06/23/2023",
+      "ndt": "06/23/2023",
+      "amt": "$50,001 - $100,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "SEP 1",
+      "desc": "JPMorgan Chase & Co. OH 5.55% CD 07/29/2024"
+    },
+    {
+      "own": "SP",
+      "ast": "US Treasury BILL 12/21/2023 @ 97.445",
+      "code": "CS",
+      "typ": "P",
+      "dt": "06/23/2023",
+      "ndt": "06/23/2023",
+      "amt": "$50,001 - $100,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "SEP 1",
+      "desc": "US Treasury BILL 12/21/2023 @ 97.445"
+    }
+  ]
+}

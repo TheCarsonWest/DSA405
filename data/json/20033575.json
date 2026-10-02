@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Bank of Montreal 13-Month Digital Buffer Note",
+      "code": "CS",
+      "typ": "P",
+      "dt": "11/13/2025",
+      "ndt": "11/13/2025",
+      "amt": "$5,000,001 - $25,000,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Advisory Account holding Structured Notes",
+      "desc": "Structured Note"
+    },
+    {
+      "own": "",
+      "ast": "JP Morgan 5 year Barrier Note INDU/NDX/RTY",
+      "code": "CS",
+      "typ": "P",
+      "dt": "11/13/2025",
+      "ndt": "11/13/2025",
+      "amt": "$5,000,001 - $25,000,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Advisory Account holding Structured Notes",
+      "desc": "Structured Note"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "JP Morgan Chase & Co. Common Stock (JPM)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "06/11/2025",
+      "ndt": "06/24/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "David Taylor Trust > Schwab Joint Brokerage #1 (Home Grown)",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Salesforce, Inc. Common Stock (CRM)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "06/11/2025",
+      "ndt": "06/24/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "David Taylor Trust > Schwab Joint Brokerage #1 (Home Grown)",
+      "desc": ""
+    }
+  ]
+}

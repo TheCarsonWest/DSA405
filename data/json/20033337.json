@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "Apple Inc. - Common Stock (AAPL)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "10/22/2025",
+      "ndt": "10/22/2025",
+      "amt": "$100,001 - $250,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": "Contribution of 382 shares held personally to Trinity University in Washington, DC."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Treasury Bill (4-Week, Matures 6/18/2024)",
+      "code": "GS",
+      "typ": "P",
+      "dt": "05/21/2024",
+      "ndt": "05/21/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Treasury Direct",
+      "desc": ""
+    }
+  ]
+}

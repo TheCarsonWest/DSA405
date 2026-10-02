@@ -1,0 +1,108 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "AppFolio, Inc. - Class A Common Stock (APPF)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "10/01/2024",
+      "ndt": "10/08/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Moran Wealth IRA",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "AppFolio, Inc. - Class A Common Stock (APPF)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "10/01/2024",
+      "ndt": "10/08/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Moran Wealth IRA",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "McKesson Corporation Common Stock (MCK)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "10/01/2024",
+      "ndt": "10/08/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Moran Wealth IRA",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "McKesson Corporation Common Stock (MCK)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "10/01/2024",
+      "ndt": "10/08/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Moran Wealth IRA",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Nu Holdings Ltd. Class A Ordinary Shares (NU)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "10/01/2024",
+      "ndt": "10/08/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Moran Wealth IRA",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "Nu Holdings Ltd. Class A Ordinary Shares (NU)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "10/01/2024",
+      "ndt": "10/08/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Moran Wealth IRA",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Synopsys, Inc. - Common Stock (SNPS)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "10/01/2024",
+      "ndt": "10/08/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Moran Wealth IRA",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "Synopsys, Inc. - Common Stock (SNPS)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "10/01/2024",
+      "ndt": "10/08/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Moran Wealth IRA",
+      "desc": ""
+    }
+  ]
+}

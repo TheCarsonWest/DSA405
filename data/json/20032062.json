@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "GSK plc American Depositary Shares (GSK)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "07/28/2025",
+      "ndt": "08/11/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

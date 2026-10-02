@@ -1,0 +1,56 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Apple Inc. - Common Stock (AAPL)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "10/30/2025",
+      "ndt": "10/31/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Apple Inc. - Common Stock (AAPL)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "10/30/2025",
+      "ndt": "10/31/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "David Taylor Trust > Schwab Joint Brokerage #1 (Home Grown)",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "AT&T Inc. (T)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "10/30/2025",
+      "ndt": "10/31/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "AT&T Inc. (T)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "10/30/2025",
+      "ndt": "10/31/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "David Taylor Trust > Schwab Joint Brokerage #1 (Home Grown)",
+      "desc": ""
+    }
+  ]
+}

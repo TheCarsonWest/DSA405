@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "Echo Street GoodCo Select, LP",
+      "code": "HN",
+      "typ": "S",
+      "dt": "01/05/2024",
+      "ndt": "02/02/2024",
+      "amt": "$500,001 - $1,000,000",
+      "cg": false,
+      "stat": "Deleted",
+      "sub": "The 2011 Randall R. Kaplan Living Trust",
+      "desc": "Hedge Fund. Fund manager letter on file with the Committee on Ethics."
+    },
+    {
+      "own": "SP",
+      "ast": "Echo Street GoodCo Select, LP",
+      "code": "HN",
+      "typ": "S",
+      "dt": "01/16/2024",
+      "ndt": "02/02/2024",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "Deleted",
+      "sub": "The 2011 Randall R. Kaplan Living Trust",
+      "desc": "Hedge Fund. Fund manager letter on file with the Committee on Ethics."
+    }
+  ]
+}

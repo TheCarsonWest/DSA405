@@ -1,0 +1,95 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "Evoqua Water Technologies Corp. (AQUA)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "05/09/2023",
+      "ndt": "05/19/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "DSL Living Trust > Bank of New York Brokerage Account 340",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "Gartner, Inc. (IT)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "05/09/2023",
+      "ndt": "05/19/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "DSL Living Trust > Bank of New York Brokerage Account 340",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "IQVIA Holdings, Inc. (IQV)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "05/09/2023",
+      "ndt": "05/19/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "DSL Living Trust > Bank of New York Brokerage Account 340",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "Keysight Technologies Inc. (KEYS)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "05/09/2023",
+      "ndt": "05/19/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "DSL Living Trust > Bank of New York Brokerage Account 340",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "Motorola Solutions, Inc. (MSI)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "05/09/2023",
+      "ndt": "05/19/2023",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "DSL Living Trust > Bank of New York Brokerage Account 340",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "Nasdaq, Inc. (NDAQ)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "05/09/2023",
+      "ndt": "05/19/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "DSL Living Trust > Bank of New York Brokerage Account 340",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "ON Semiconductor Corporation (ON)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "05/09/2023",
+      "ndt": "05/19/2023",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "DSL Living Trust > Bank of New York Brokerage Account 340",
+      "desc": ""
+    }
+  ]
+}

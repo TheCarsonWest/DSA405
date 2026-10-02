@@ -1,0 +1,108 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "AT&T Inc. Depositary Shares, each representing a 1/1,000th interest in a share of 5.000% Perpetual Preferred Stock, Series A (T$A)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "09/27/2024",
+      "ndt": "10/08/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "IRA #3",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Cadence Bank 5.50% Series A (CADE$A)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "09/27/2024",
+      "ndt": "10/08/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "IRA #3",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Capital One Financial Corporation Depositary shares each representing a 1/40th interest in a share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series I of the Issuer (COF$I)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "09/27/2024",
+      "ndt": "10/08/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "IRA #3",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "JP Morgan Chase & Co Depositary Shares Preferred Series GG",
+      "code": "OT",
+      "typ": "P",
+      "dt": "09/27/2024",
+      "ndt": "10/08/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "IRA #3",
+      "desc": "Publicly traded preferred shares"
+    },
+    {
+      "own": "",
+      "ast": "KeyCorp Depositary Shares each representing a 1/40th ownership interest in a share of Fixed Rate Perpetual Non-Cumulative Preferred Stock, Series F (KEY$J)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "09/27/2024",
+      "ndt": "10/08/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "IRA #3",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Regions Financial Corporation Depositary Shares, Each Representing a 1/40th Interest in a Share of 4.45% Non-Cumulative Perpetual Preferred Stock, Series E (RF$E)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "09/27/2024",
+      "ndt": "10/08/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "IRA #3",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Truist Financial Corporation Depositary Shares, each representing 1/1,000th interest in a share of Series R Non-Cumulative Perpetual Preferred Stock (TFC$R)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "09/27/2024",
+      "ndt": "10/08/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "IRA #3",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "US Bancorp Preferred Series K",
+      "code": "OT",
+      "typ": "P",
+      "dt": "09/27/2024",
+      "ndt": "10/08/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "IRA #3",
+      "desc": "Publicly traded preferred stock"
+    }
+  ]
+}

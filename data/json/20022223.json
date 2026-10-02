@@ -1,0 +1,108 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "Seven Bridges Long/Short Equity Fund LP",
+      "code": "HN",
+      "typ": "S",
+      "dt": "12/30/2022",
+      "ndt": "01/03/2023",
+      "amt": "Over $1,000,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "The 2011 Randall R. Kaplan Living Trust",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "Seven Bridges Long/Short Equity Fund Ltd.",
+      "code": "HN",
+      "typ": "S (partial)",
+      "dt": "12/30/2022",
+      "ndt": "01/03/2023",
+      "amt": "$100,001 - $250,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "RRK Charitable Trust U/A 11/28/00 #2",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Seven Bridges Long/Short Equity Fund Series",
+      "code": "HN",
+      "typ": "S (partial)",
+      "dt": "12/30/2022",
+      "ndt": "01/03/2023",
+      "amt": "$500,001 - $1,000,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Randall R. Kaplan Irrevocable GST FBO Kathy Manning & Descendants > Randall Robert Kaplan Alaska LLC",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "Seven Bridges Long/Short Equity Fund Series",
+      "code": "HN",
+      "typ": "S (partial)",
+      "dt": "12/30/2022",
+      "ndt": "01/03/2023",
+      "amt": "$100,001 - $250,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "2021 Kathy E. Manning Irrevocable GST Trust FBO Randall R Kaplan & Descendants > Randall Robert Kaplan Alaska LLC",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Seven Bridges Multi-Strategy Fund Series",
+      "code": "HN",
+      "typ": "P",
+      "dt": "12/30/2022",
+      "ndt": "01/03/2023",
+      "amt": "$250,001 - $500,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Randall R. Kaplan Irrevocable GST FBO Kathy Manning & Descendants > Randall Robert Kaplan Alaska LLC",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "Seven Bridges Multi-Strategy Fund Series",
+      "code": "HN",
+      "typ": "P",
+      "dt": "12/30/2022",
+      "ndt": "01/03/2023",
+      "amt": "$100,001 - $250,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "2021 Kathy E. Manning Irrevocable GST Trust FBO Randall R Kaplan & Descendants > Randall Robert Kaplan Alaska LLC",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Seven Bridges Strategic Equity Fund Series",
+      "code": "HN",
+      "typ": "P",
+      "dt": "12/30/2022",
+      "ndt": "01/03/2023",
+      "amt": "$250,001 - $500,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "Randall R. Kaplan Irrevocable GST FBO Kathy Manning & Descendants > Randall Robert Kaplan Alaska LLC",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "Seven Bridges Strategic Equity Fund Series",
+      "code": "HN",
+      "typ": "P",
+      "dt": "12/30/2022",
+      "ndt": "01/03/2023",
+      "amt": "$100,001 - $250,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "2021 Kathy E. Manning Irrevocable GST Trust FBO Randall R Kaplan & Descendants > Randall Robert Kaplan Alaska LLC",
+      "desc": ""
+    }
+  ]
+}

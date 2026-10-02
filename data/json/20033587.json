@@ -1,0 +1,56 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "New Jersey ST Transn TR FD Auth SYS BDS 5.00% Due Jun 15, 2035",
+      "code": "GS",
+      "typ": "S",
+      "dt": "11/18/2025",
+      "ndt": "11/18/2025",
+      "amt": "$250,001 - $500,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "Tarrant CNTY Tex Cultural Ed Facs Fin 5.00 % Due Nov 15, 2051",
+      "code": "GS",
+      "typ": "P",
+      "dt": "11/19/2025",
+      "ndt": "11/19/2025",
+      "amt": "$250,001 - $500,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "TX Trans Commn TPK 5%42 TPK Tran Due 08/15/42",
+      "code": "GS",
+      "typ": "P",
+      "dt": "11/18/2025",
+      "ndt": "11/18/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "Washington ST MTR Veh Fuel Tax Related 5.00 % Due Aug 1, 2028",
+      "code": "GS",
+      "typ": "P",
+      "dt": "11/21/2025",
+      "ndt": "11/21/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

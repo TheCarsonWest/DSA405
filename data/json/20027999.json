@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "Ohio ST Higher Ed Go BDS Ser. 2025 A 5.00% Due May 1, 2036",
+      "code": "GS",
+      "typ": "P",
+      "dt": "03/12/2025",
+      "ndt": "03/12/2025",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "New",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}
