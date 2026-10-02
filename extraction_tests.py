@@ -7,7 +7,7 @@ from google import genai
 
 
 ROOT = Path(__file__).resolve().parent
-SAMPLE_FILE = ROOT / "extraction_test_random_sample.txt"
+SAMPLE_FILE = ROOT / "./data/extraction_test_random_sample.txt"
 PDF_DIRECTORY = ROOT / "data" / "pdf" / "digital_ptr"
 OUTPUT_DIRECTORY = ROOT / "data" / "json"
 
@@ -110,18 +110,20 @@ def read_document_ids() -> list[str]:
         if line.strip()
     ]
 
-
-def process_document(client: genai.Client, document_id: str) -> None:
+def process_document(client: genai.Client, document_id: str) -> tuple[float, int] | None:
     pdf_path = PDF_DIRECTORY / f"{document_id}.pdf"
     output_path = OUTPUT_DIRECTORY / f"{document_id}.json"
 
     if not pdf_path.exists():
         print(f"[missing PDF] {pdf_path}")
-        return
+        return None
 
     if output_path.exists() and not OVERWRITE_EXISTING:
         print(f"[skipped existing] {output_path}")
-        return
+        return None
+
+    file_size_bytes = pdf_path.stat().st_size
+    start_time = time.perf_counter()
 
     uploaded_file = client.files.upload(
         file=pdf_path,
@@ -138,7 +140,9 @@ def process_document(client: genai.Client, document_id: str) -> None:
             },
             {
                 "type": "text",
-                "text": PROMPT + "\n\nAdditional instructions:\n" + ADDITIONAL_PROMPT,
+                "text": PROMPT
+                + "\n\nAdditional instructions:\n"
+                + ADDITIONAL_PROMPT,
             },
         ],
         response_format={
@@ -154,14 +158,13 @@ def process_document(client: genai.Client, document_id: str) -> None:
         json.dumps(parsed_output, indent=2, ensure_ascii=False) + "\n"
     )
 
-    print(f"[saved] {output_path}")
-
+    elapsed_seconds = time.perf_counter() - start_time
+    return elapsed_seconds, file_size_bytes
 
 def main() -> None:
     OUTPUT_DIRECTORY.mkdir(parents=True, exist_ok=True)
 
     api_key = os.getenv("GEMINI_API_KEY")
-    print(api_key)
     if not api_key:
         raise RuntimeError("Set GEMINI_API_KEY before running this script.")
 
@@ -170,11 +173,42 @@ def main() -> None:
 
     print(f"Processing {len(document_ids)} document IDs with {MODEL}")
 
+    processed_count = 0
+    total_elapsed_seconds = 0.0
+    total_size_bytes = 0
+
     for document_id in document_ids:
         for attempt in range(1, RETRY_COUNT + 1):
             try:
-                process_document(client, document_id)
+                result = process_document(client, document_id)
+
+                if result is not None:
+                    elapsed_seconds, file_size_bytes = result
+                    processed_count += 1
+                    total_elapsed_seconds += elapsed_seconds
+                    total_size_bytes += file_size_bytes
+
+                    file_size_kb = file_size_bytes / 1000
+                    time_per_100kb = elapsed_seconds / (file_size_kb / 100)
+                    gross_average_per_file = (
+                        total_elapsed_seconds / processed_count
+                    )
+                    gross_average_per_100kb = (
+                        total_elapsed_seconds
+                        / (total_size_bytes / 1000 / 100)
+                    )
+
+                    print(
+                        f"[saved] {document_id}.json | "
+                        f"size={file_size_kb:.2f} KB | "
+                        f"time={elapsed_seconds:.2f} s | "
+                        f"time_per_100KB={time_per_100kb:.2f} s | "
+                        f"gross_avg_per_file={gross_average_per_file:.2f} s | "
+                        f"gross_avg_per_100KB={gross_average_per_100kb:.2f} s"
+                    )
+
                 break
+
             except Exception as error:
                 print(
                     f"[error] {document_id}, attempt "
@@ -185,6 +219,15 @@ def main() -> None:
                     print(f"[failed permanently] {document_id}")
                 else:
                     time.sleep(RETRY_DELAY_SECONDS)
+
+    if processed_count:
+        print(
+            f"Completed {processed_count} files | "
+            f"gross average per file="
+            f"{total_elapsed_seconds / processed_count:.2f} s | "
+            f"gross average per 100KB="
+            f"{total_elapsed_seconds / (total_size_bytes / 1000 / 100):.2f} s"
+        )
 
 
 if __name__ == "__main__":

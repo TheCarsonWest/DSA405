@@ -68,3 +68,25 @@ Your task is to parse a raw OCR text dump or table from a Congressional Periodic
   ]
 }
 ```
+
+# Post PDF to JSON LLM transform:
+- It took more than 3 days to get through all the files(which was expected), but I finally did. Almost no erors, except for TWO errors parsing the PTR reports of Congresswoman Lisa McClain of Michigan's 9th District. These two documents happen to be the largest and third largest PTR reports in the entire dataset. Document 20030891 is **81 pages long** and Document 20033446 is 53 pages long.
+```
+[error] 20030891, attempt 1/3: Unterminated string starting at: line 6136 column 7 (char 153910)
+[error] 20030891, attempt 2/3: Unterminated string starting at: line 6136 column 7 (char 153910)
+[error] 20030891, attempt 3/3: Unterminated string starting at: line 6136 column 7 (char 153910)
+[failed permanently] 20030891
+[skipped existing] /Users/carson/Desktop/DSA405/data/json/20030932.json
+[skipped existing] /Users/carson/Desktop/DSA405/data/json/20032129.json
+[error] 20033446, attempt 1/3: Unterminated string starting at: line 6063 column 14 (char 149822)
+[error] 20033446, attempt 2/3: Expecting value: line 6063 column 13 (char 149821)
+[error] 20033446, attempt 3/3: Unterminated string starting at: line 6063 column 14 (char 149822)
+[failed permanently] 20033446
+```
+### Running the LLM and prompt manually with a bigger model
+Ok, an 81 page pdf input is in fact a lot for 3.5 Flash Lite, in fact its 45,000 tokens of input between the prompt and the PTR. I ran this one specifically on 3.8 Flash Preview with a higher thinking level, hopefully it parses better.
+
+---
+
+#### Results
+It thought for 5 minutes and used 65,000 tokens. It still couldnt get me a full answer. I am going to need to look back to see if the longer PTRs fully match.
