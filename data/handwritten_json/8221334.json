@@ -1,0 +1,108 @@
+{
+  "transactions": [
+    {
+      "own": "Spouse",
+      "ast": "Dynatrace, Inc. Common Stock (DT)",
+      "code": "",
+      "typ": "Sale",
+      "dt": "03/27/2024",
+      "ndt": "",
+      "amt": "$1,0001 - $15,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "Spouse",
+      "ast": "Humana Inc. Common Stock (HUM)",
+      "code": "",
+      "typ": "Sale",
+      "dt": "03/27/2024",
+      "ndt": "",
+      "amt": "$1,0001 - $15,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "Spouse",
+      "ast": "Sony Group Corporation American Depository Shares (SONY)",
+      "code": "",
+      "typ": "Sale",
+      "dt": "03/27/2024",
+      "ndt": "",
+      "amt": "$1,0001 - $15,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "Spouse",
+      "ast": "Synopsys, Inc. Common Stock (SNPS)",
+      "code": "",
+      "typ": "Purchase",
+      "dt": "03/27/2024",
+      "ndt": "",
+      "amt": "$1,0001 - $15,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "Self",
+      "ast": "Dynatrace, Inc. Common Stock (DT)",
+      "code": "",
+      "typ": "Sale",
+      "dt": "03/27/2024",
+      "ndt": "",
+      "amt": "$1,0001 - $15,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "Self",
+      "ast": "Humana Inc. Common Stock (HUM)",
+      "code": "",
+      "typ": "Sale",
+      "dt": "03/27/2024",
+      "ndt": "",
+      "amt": "$1,0001 - $15,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "Self",
+      "ast": "Sony Group Corporation American Depository Shares (SONY)",
+      "code": "",
+      "typ": "Sale",
+      "dt": "03/27/2024",
+      "ndt": "",
+      "amt": "$1,0001 - $15,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "Self",
+      "ast": "Synopsys, Inc. Common Stock (SNPS)",
+      "code": "",
+      "typ": "Purchase",
+      "dt": "03/27/2024",
+      "ndt": "",
+      "amt": "$1,0001 - $15,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

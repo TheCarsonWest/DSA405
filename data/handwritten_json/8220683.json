@@ -1,0 +1,121 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "BONDBLOXX ETF TR 1 YR XONE",
+      "code": "",
+      "typ": "S",
+      "dt": "10/22/24",
+      "ndt": "11/01/24",
+      "amt": "$1,000-$15,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "FRANKLIN TEMPLETON ETF TR FLJP",
+      "code": "",
+      "typ": "S",
+      "dt": "10/22/24",
+      "ndt": "11/01/24",
+      "amt": "$1,000-$15,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "ISHARES TR 1-3 YR TREASURY BD SHY",
+      "code": "",
+      "typ": "S",
+      "dt": "10/22/24",
+      "ndt": "11/01/24",
+      "amt": "$15,001-$50,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "ISHARES TR 1-5 YR INVT GRADE BD ISGB",
+      "code": "",
+      "typ": "S",
+      "dt": "10/22/24",
+      "ndt": "11/01/24",
+      "amt": "$1,000-$15,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "ISHARES TR 3-7 YR TREASURY BD IEI",
+      "code": "",
+      "typ": "S",
+      "dt": "10/22/24",
+      "ndt": "11/01/24",
+      "amt": "$1,000-$15,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "PIMCO ETF TR 25+ YR ZERO CPN ZROZ",
+      "code": "",
+      "typ": "S",
+      "dt": "10/22/24",
+      "ndt": "11/01/24",
+      "amt": "$1,000-$15,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "SPIDER INDEX SHS FDS PORT DEV SPDW",
+      "code": "",
+      "typ": "S",
+      "dt": "10/22/24",
+      "ndt": "11/01/24",
+      "amt": "$1,000-$15,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "SPIDER SER TR PORT MTG BKD SPMB",
+      "code": "",
+      "typ": "S",
+      "dt": "10/22/24",
+      "ndt": "11/01/24",
+      "amt": "$15,001-$50,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "WORLD GOLD TR SPDR GOLD GLDM",
+      "code": "",
+      "typ": "P",
+      "dt": "10/22/24",
+      "ndt": "11/01/24",
+      "amt": "$1,000-$15,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

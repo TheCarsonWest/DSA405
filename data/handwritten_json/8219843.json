@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "California St G-O Call 10/1/27",
+      "code": "ST",
+      "typ": "S",
+      "dt": "06/13/2015",
+      "ndt": "07/07/2015",
+      "amt": "$15,001- $50,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": "California St G-O Call 10/1/27"
+    }
+  ]
+}

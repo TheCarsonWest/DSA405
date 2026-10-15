@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "DC",
+      "ast": "GE Vernova LLC (GEV)",
+      "code": "",
+      "typ": "S",
+      "dt": "01/27/2025",
+      "ndt": "01/28/2025",
+      "amt": "$15,001-$50,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": "My dependent child sold shares of GE Vernova LLC (GEV)."
+    }
+  ]
+}

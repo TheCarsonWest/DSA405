@@ -1,0 +1,43 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "HSBC Holdings PLC (HSBC)",
+      "code": "",
+      "typ": "S",
+      "dt": "02/17/25",
+      "ndt": "02/17/25",
+      "amt": "$1,001-$15,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": "Example Mega Corp. Common Stock"
+    },
+    {
+      "own": "JT",
+      "ast": "Tesla Inc. (TSLA)",
+      "code": "",
+      "typ": "S",
+      "dt": "03/04/25",
+      "ndt": "03/04/25",
+      "amt": "$15,001-$50,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": "TESLA (Common Stock)"
+    },
+    {
+      "own": "JT",
+      "ast": "Tesla Inc. (TSLA)",
+      "code": "",
+      "typ": "P",
+      "dt": "03/12/25",
+      "ndt": "03/12/25",
+      "amt": "$50,001-$100,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": "TESLA (Common Stock)"
+    }
+  ]
+}

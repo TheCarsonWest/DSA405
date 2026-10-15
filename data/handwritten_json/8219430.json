@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "Walgreens Boots Alliance, Inc. (WBA)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "02/21/20",
+      "ndt": "03/21/20",
+      "amt": "$1,001-$15,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

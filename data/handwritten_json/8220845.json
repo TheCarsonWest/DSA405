@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "APPLE INC (COMMON STOCK) (AAPL)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "04/03/25",
+      "ndt": "04/03/25",
+      "amt": "$15,001-$50,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "APPLE INC (COMMON STOCK) (AAPL)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "04/07/25",
+      "ndt": "04/07/25",
+      "amt": "$50,001-$100,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

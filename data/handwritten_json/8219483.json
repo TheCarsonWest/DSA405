@@ -1,0 +1,69 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "Mega Corp. Common Stock",
+      "code": "",
+      "typ": "P",
+      "dt": "02/05/20",
+      "ndt": "03/07/20",
+      "amt": "$1,001-$15,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "Goldman Sachs Group Inc (GS)",
+      "code": "GS",
+      "typ": "S",
+      "dt": "4/10/23",
+      "ndt": "4/10/23",
+      "amt": "$1,001-$15,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "Microsoft Corp (MSFT)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "4/10/23",
+      "ndt": "4/10/23",
+      "amt": "$1,001-$15,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "Dolby Laboratories Inc (DLB)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "4/10/23",
+      "ndt": "4/10/23",
+      "amt": "$1,001-$15,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "Oberweis Micro-Cap Fund",
+      "code": "",
+      "typ": "S",
+      "dt": "4/10/23",
+      "ndt": "4/10/23",
+      "amt": "$1,001-$15,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

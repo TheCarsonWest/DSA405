@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "Tesla, Inc. (TSLA)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "03/17/25",
+      "ndt": "03/30/25",
+      "amt": "$100,001-$250,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}
