@@ -7,8 +7,8 @@ from google import genai
 
 
 ROOT = Path(__file__).resolve().parent
-SAMPLE_FILE = ROOT / "./data/extraction_test_random_sample.txt"
-PDF_DIRECTORY = ROOT / "data" / "pdf" / "digital_ptr"
+SAMPLE_FILE = ROOT / "./data/handwritten_ptr_ids.txt"
+PDF_DIRECTORY = ROOT / "data" / "pdf" / "ptr_form_a"
 OUTPUT_DIRECTORY = ROOT / "data" / "json"
 
 MODEL = os.getenv("GEMINI_MODEL", "gemini-3.5-flash-lite")
@@ -39,7 +39,7 @@ and convert every transaction row into strict JSON.
   "transactions": [
     {
       "own": "Owner code, such as SP or DC, or an empty string",
-      "ast": "Full asset or security name, including ticker when available",
+      "ast": "Full asset or security name, including ticker when available. If the company name is glaringly misspelled, use the correct spelling rather than the OCR text. If the company name is clearly that of a publicly traded company, include the ticker in parentheses after the name, e.g. 'Apple Inc. (AAPL)'. If the asset is a mutual fund, include the fund family and fund name, e.g. 'Vanguard 500 Index Fund'.",
       "code": "Asset type abbreviation from brackets, such as ST or GS",
       "typ": "Transaction type, such as P, S, or S (partial)",
       "dt": "Transaction date in MM/DD/YYYY format",
