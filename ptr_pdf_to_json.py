@@ -8,8 +8,8 @@ from google import genai
 
 ROOT = Path(__file__).resolve().parent
 SAMPLE_FILE = ROOT / "./data/handwritten_ptr_ids.txt"
-PDF_DIRECTORY = ROOT / "data" / "pdf" / "ptr_form_a"
-OUTPUT_DIRECTORY = ROOT / "data" / "json"
+PDF_DIRECTORY = ROOT / "data" / "pdf" / "handwritten_ptr"
+OUTPUT_DIRECTORY = ROOT / "data" / "handwritten_json"
 
 MODEL = os.getenv("GEMINI_MODEL", "gemini-3.5-flash-lite")
 OVERWRITE_EXISTING = False
