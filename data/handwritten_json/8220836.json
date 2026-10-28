@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "Washington Subn San Dist MD 4.00% 12/1/2032",
+      "code": "",
+      "typ": "P",
+      "dt": "03/18/25",
+      "ndt": "03/19/2025",
+      "amt": "$100,001 - $250,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

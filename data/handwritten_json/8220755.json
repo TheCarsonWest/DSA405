@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Example Mega Corp. Common Stock",
+      "code": "",
+      "typ": "S",
+      "dt": "08/14/2012",
+      "ndt": "08/14/2012",
+      "amt": "$15,001-$50,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": "Nothing to report for January 2025"
+    }
+  ]
+}

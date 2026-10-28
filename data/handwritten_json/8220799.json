@@ -1,0 +1,121 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "CANADIAN NATL RY CO (CNR)",
+      "code": "",
+      "typ": "S",
+      "dt": "02/05/20",
+      "ndt": "03/07/20",
+      "amt": "$15,001-$50,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "TRACTOR SUPPLY CO (TSCO)",
+      "code": "",
+      "typ": "P",
+      "dt": "02/24/2025",
+      "ndt": "03/13/2025",
+      "amt": "$50,001-$100,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "HIMS & HERS HEALTH INC CLASS A (HIMS)",
+      "code": "",
+      "typ": "S",
+      "dt": "02/24/2025",
+      "ndt": "03/13/2025",
+      "amt": "$100,001-$250,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "HIMS & HERS HEALTH INC CLASS A (HIMS)",
+      "code": "",
+      "typ": "P",
+      "dt": "02/25/2025",
+      "ndt": "03/13/2025",
+      "amt": "$1,001-$15,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "CHARLES SCHWAB CORP (SCHW)",
+      "code": "",
+      "typ": "P",
+      "dt": "02/28/2025",
+      "ndt": "03/13/2025",
+      "amt": "$50,001-$100,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "TRACTOR SUPPLY CO (TSCO)",
+      "code": "",
+      "typ": "P",
+      "dt": "02/28/2025",
+      "ndt": "03/13/2025",
+      "amt": "$100,001-$250,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "BLOCK INC CLASS A (SQ)",
+      "code": "",
+      "typ": "S",
+      "dt": "02/28/2025",
+      "ndt": "03/13/2025",
+      "amt": "$100,001-$250,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "MONSTER BEVERAGE CORP NE (MNST)",
+      "code": "",
+      "typ": "S",
+      "dt": "02/28/2025",
+      "ndt": "03/13/2025",
+      "amt": "$1,001-$15,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "MICROSOFT CORP (MSFT)",
+      "code": "",
+      "typ": "P",
+      "dt": "02/28/2025",
+      "ndt": "03/13/2025",
+      "amt": "$50,001-$100,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

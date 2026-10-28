@@ -1,0 +1,43 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "Example Mega Corp. Common Stock",
+      "code": "ST",
+      "typ": "P",
+      "dt": "02/05/20",
+      "ndt": "03/07/20",
+      "amt": "$1,001-$15,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "US TREASURY BONDS",
+      "code": "GS",
+      "typ": "P",
+      "dt": "06/10/22",
+      "ndt": "06/10/22",
+      "amt": "$1,5001-$50,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "US TREASURY BONDS",
+      "code": "GS",
+      "typ": "S",
+      "dt": "06/22/22",
+      "ndt": "06/29/22",
+      "amt": "$15,001-$50,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

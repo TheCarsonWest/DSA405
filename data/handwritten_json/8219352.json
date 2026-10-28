@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "U.S. Treasury Bill",
+      "code": "",
+      "typ": "P",
+      "dt": "02/06/23",
+      "ndt": "02/07/23",
+      "amt": "$100,001-$250,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "Verizon Stock",
+      "code": "",
+      "typ": "P",
+      "dt": "02/06/23",
+      "ndt": "02/07/23",
+      "amt": "$1,001-$15,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

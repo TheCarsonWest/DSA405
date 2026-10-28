@@ -1,0 +1,56 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "NotApp Inc. calls @ 128",
+      "code": "",
+      "typ": "P",
+      "dt": "11/21/24",
+      "ndt": "11/21/24",
+      "amt": "$1,001-$15,000",
+      "cg": false,
+      "stat": "",
+      "sub": "IRA",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "NotApp Inc. calls @ 128",
+      "code": "",
+      "typ": "S",
+      "dt": "11/21/24",
+      "ndt": "11/21/24",
+      "amt": "$1,001-$15,000",
+      "cg": false,
+      "stat": "",
+      "sub": "IRA",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "NotApp Inc. calls @ 128",
+      "code": "",
+      "typ": "P",
+      "dt": "12/4/24",
+      "ndt": "12/4/24",
+      "amt": "$1,001-$15,000",
+      "cg": false,
+      "stat": "",
+      "sub": "IRA",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "NotApp Inc. calls @ 128",
+      "code": "",
+      "typ": "S",
+      "dt": "12/4/24",
+      "ndt": "12/4/24",
+      "amt": "$1,001-$15,000",
+      "cg": false,
+      "stat": "",
+      "sub": "IRA",
+      "desc": ""
+    }
+  ]
+}

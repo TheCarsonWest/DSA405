@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "Amazon.com, Inc. (AMZN)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "06/17/2025",
+      "ndt": "07/09/2025",
+      "amt": "$15,001-$50,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": "Example Mega Corp. Common Stock"
+    }
+  ]
+}

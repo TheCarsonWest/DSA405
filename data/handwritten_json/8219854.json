@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Bridge Builder Large Growth",
+      "code": "",
+      "typ": "S",
+      "dt": "08/13/23",
+      "ndt": "07/01/23",
+      "amt": "$15,001-$50,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": "Sell Bridge Builder Large Growth @19.81"
+    },
+    {
+      "own": "",
+      "ast": "Bridge Builder INTL Equity",
+      "code": "",
+      "typ": "S",
+      "dt": "08/13/23",
+      "ndt": "07/01/23",
+      "amt": "$1,000-$15,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": "Sell Bridge Builder INTL Equity @ 11.92"
+    }
+  ]
+}

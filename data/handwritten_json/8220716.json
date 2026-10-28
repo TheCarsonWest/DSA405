@@ -1,0 +1,56 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Buy KY Assn of Cnrys Fin",
+      "code": "",
+      "typ": "P",
+      "dt": "12/06/24",
+      "ndt": "01/10/25",
+      "amt": "$15,001-$50,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": "Buy KY Assn of Cnrys Fin @ 99.73254"
+    },
+    {
+      "own": "",
+      "ast": "Sell Bridge Builder Lg Growth",
+      "code": "",
+      "typ": "S",
+      "dt": "12/16/24",
+      "ndt": "01/10/25",
+      "amt": "$1,000-$15,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": "Sell Bridge Builder Lg Growth @ 28.16"
+    },
+    {
+      "own": "",
+      "ast": "Sell Ish Rsl 1000",
+      "code": "",
+      "typ": "S",
+      "dt": "12/16/24",
+      "ndt": "01/10/25",
+      "amt": "$1,000-$15,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": "Sell Ish Rsl 1000 @ 334.37"
+    },
+    {
+      "own": "",
+      "ast": "Sell Vng Groth Index",
+      "code": "",
+      "typ": "S",
+      "dt": "12/16/24",
+      "ndt": "01/10/25",
+      "amt": "$1,000-$15,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": "Sell Vng Groth Index @ 426.178"
+    }
+  ]
+}

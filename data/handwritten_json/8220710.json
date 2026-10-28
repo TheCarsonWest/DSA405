@@ -1,0 +1,43 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Boeing",
+      "code": "",
+      "typ": "S",
+      "dt": "12/24/24",
+      "ndt": "1/6/25",
+      "amt": "$1,001-$15,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "U.S. Treasury Bill",
+      "code": "",
+      "typ": "S",
+      "dt": "12/24/24",
+      "ndt": "1/6/25",
+      "amt": "$15,001-$50,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Pfizer",
+      "code": "",
+      "typ": "S",
+      "dt": "12/24/24",
+      "ndt": "1/6/25",
+      "amt": "$100,001-$250,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

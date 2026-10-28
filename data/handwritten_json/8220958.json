@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Mega Corp. Common Stock",
+      "code": "",
+      "typ": "S",
+      "dt": "8/14/12",
+      "ndt": "8/14/12",
+      "amt": "$15,001-$50,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": "Nothing to report for April 2025"
+    }
+  ]
+}

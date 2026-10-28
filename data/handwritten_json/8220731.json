@@ -1,0 +1,69 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "ATT INC (T)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "01/10/25",
+      "ndt": "01/10/25",
+      "amt": "$15,001-$50,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "Genuine Parts Co (GPC)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "01/10/25",
+      "ndt": "01/10/25",
+      "amt": "$1,001-$15,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "Merck + Co, INC (MRK)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "01/10/25",
+      "ndt": "01/10/25",
+      "amt": "$1,001-$15,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "NVIDIA Corp (NVDA)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "01/10/25",
+      "ndt": "01/10/25",
+      "amt": "$1,001-$15,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "PepsiCo Inc (PEP)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "01/10/25",
+      "ndt": "01/10/25",
+      "amt": "$1,001-$15,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

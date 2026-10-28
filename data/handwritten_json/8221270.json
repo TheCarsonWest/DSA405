@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "AT&T Inc. (T)",
+      "code": "",
+      "typ": "S",
+      "dt": "11/24/2025",
+      "ndt": "12/11/2025",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": "Sell AT&T Inc @ 25.51"
+    }
+  ]
+}

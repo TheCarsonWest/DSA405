@@ -1,0 +1,56 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "American Express National Bank CD",
+      "code": "CD",
+      "typ": "S",
+      "dt": "05/18/23",
+      "ndt": "05/18/23",
+      "amt": "$15,001-$50,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": "5-7 business days after trade"
+    },
+    {
+      "own": "JT",
+      "ast": "BMO Harris Bank CD FDIC INS",
+      "code": "CD",
+      "typ": "S",
+      "dt": "05/18/23",
+      "ndt": "05/18/23",
+      "amt": "$100,001-$250,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "Bow River Capital Evergreen Fund - EIF",
+      "code": "",
+      "typ": "S",
+      "dt": "06/01/2023",
+      "ndt": "",
+      "amt": "$250,001-$500,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "Orlando FL Utils",
+      "code": "",
+      "typ": "S",
+      "dt": "06/20/23",
+      "ndt": "",
+      "amt": "$100,001-$250,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

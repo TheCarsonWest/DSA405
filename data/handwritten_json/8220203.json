@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "Mega Corp. Common Stock",
+      "code": "ST",
+      "typ": "P",
+      "dt": "08/14/12",
+      "ndt": "08/14/12",
+      "amt": "$1,000-$15,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": "Nothing to report for March 2024"
+    }
+  ]
+}

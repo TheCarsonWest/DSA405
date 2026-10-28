@@ -1,0 +1,43 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "Example Mega Corp. Common Stock",
+      "code": "",
+      "typ": "S",
+      "dt": "02/05/20",
+      "ndt": "03/07/20",
+      "amt": "$1,001-$15,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "US TREASURY BILL(260) T BILL DUE 03/20/2025",
+      "code": "",
+      "typ": "S",
+      "dt": "01/10/2025",
+      "ndt": "02/10/2025",
+      "amt": "$15,001-$50,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "SMARTSHEET INC XX(DATA/NDA) MERGER EFF. 01/22/2025",
+      "code": "",
+      "typ": "S",
+      "dt": "01/22/2025",
+      "ndt": "02/10/2025",
+      "amt": "$100,001-$250,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "Fortinet Inc Common Stock (FTNT)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "11/19/2024",
+      "ndt": "12/01/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "Paycom Software Common Stock (PAYC)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "11/19/2024",
+      "ndt": "12/01/2024",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

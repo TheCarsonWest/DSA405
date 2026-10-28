@@ -1,0 +1,43 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Vanguard Value Index (VIVAX)",
+      "code": "",
+      "typ": "S",
+      "dt": "3/27/25",
+      "ndt": "4/28/25",
+      "amt": "$1,001-$15,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Vanguard FTSE Dev Mkt (VEA)",
+      "code": "",
+      "typ": "S",
+      "dt": "3/27/25",
+      "ndt": "4/28/25",
+      "amt": "$1,001-$15,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "Buy ish Core S&P 500 (IVV)",
+      "code": "",
+      "typ": "P",
+      "dt": "3/27/25",
+      "ndt": "4/28/25",
+      "amt": "$1,001-$15,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

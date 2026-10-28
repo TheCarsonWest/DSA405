@@ -1,0 +1,43 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "Exemplar Mega Corp. Common Stock",
+      "code": "",
+      "typ": "S",
+      "dt": "02/05/15",
+      "ndt": "03/07/15",
+      "amt": "$15,001-$50,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "Redwood Area Schs M 5% Go Utx Due 2/1/2030",
+      "code": "",
+      "typ": "S",
+      "dt": "12/05/24",
+      "ndt": "12/19/24",
+      "amt": "$100,001-$250,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "Johnson City TN 5% Due 6/1/2031",
+      "code": "",
+      "typ": "P",
+      "dt": "12/09/24",
+      "ndt": "12/10/24",
+      "amt": "$100,001-$250,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

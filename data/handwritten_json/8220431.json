@@ -1,0 +1,43 @@
+{
+  "transactions": [
+    {
+      "own": "SP",
+      "ast": "NetApp, Inc. (NTAP)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "05/31/24",
+      "ndt": "06/03/24",
+      "amt": "$1,001-$15,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "IRA",
+      "ast": "NetApp, Inc. (NTAP)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "05/31/24",
+      "ndt": "06/03/24",
+      "amt": "$1,001-$15,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "IRA",
+      "ast": "NetApp, Inc. (NTAP)",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "05/31/24",
+      "ndt": "06/03/24",
+      "amt": "$1,001-$15,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

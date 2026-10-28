@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "General Electric (GE)",
+      "code": "",
+      "typ": "S",
+      "dt": "01/06/2022",
+      "ndt": "01/22/2023",
+      "amt": "$1,001-$15,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

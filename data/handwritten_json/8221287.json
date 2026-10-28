@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "US Treasury Bill",
+      "code": "",
+      "typ": "P",
+      "dt": "12/24/25",
+      "ndt": "12/26/25",
+      "amt": "$1,000,001-$5,000,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

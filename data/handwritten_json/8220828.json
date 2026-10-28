@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "AT&T Inc. (T)",
+      "code": "JT",
+      "typ": "S",
+      "dt": "11/13/24",
+      "ndt": "04/09/25",
+      "amt": "$1,001-$15,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": "Example: Mega Corp. Common Stock"
+    }
+  ]
+}

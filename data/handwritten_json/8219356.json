@@ -1,0 +1,43 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "U.S Treasury Bill",
+      "code": "",
+      "typ": "S",
+      "dt": "01/17/23",
+      "ndt": "",
+      "amt": "$1,001-$15,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "U.S Treasury Bill",
+      "code": "",
+      "typ": "S",
+      "dt": "01/17/23",
+      "ndt": "",
+      "amt": "$1,001-$15,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "NEW WATER CAPITAL II",
+      "code": "",
+      "typ": "P",
+      "dt": "1/6/23",
+      "ndt": "",
+      "amt": "$100,001-$250,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

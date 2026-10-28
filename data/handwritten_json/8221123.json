@@ -1,0 +1,43 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "Mega Corp. Common Stock",
+      "code": "",
+      "typ": "S",
+      "dt": "8/14/12",
+      "ndt": "8/14/12",
+      "amt": "$15,001-\n$50,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "MD St Dept Transn Cons Rev",
+      "code": "",
+      "typ": "S",
+      "dt": "5/1/25",
+      "ndt": "6/10/25",
+      "amt": "",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": "Redemption\n5,000 Due 05/01/25 Matured Security"
+    },
+    {
+      "own": "JT",
+      "ast": "San Antonio TX Wtr Rev Ser A",
+      "code": "",
+      "typ": "S",
+      "dt": "5/15/25",
+      "ndt": "6/10/25",
+      "amt": "",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": "Redemption\n5,000 Due 5/15/25 Matured Security"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "NetApp, Inc. Stock (NTAP)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "08/17/23",
+      "ndt": "08/17/23",
+      "amt": "$1,001-$15,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "IRA",
+      "ast": "NetApp, Inc. Stock (NTAP)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "08/17/23",
+      "ndt": "08/17/23",
+      "amt": "$1,001-$15,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "NetApp, Inc. Stock (NTAP)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "08/17/23",
+      "ndt": "08/17/23",
+      "amt": "$1,001-$15,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "IRA",
+      "ast": "NetApp, Inc. Stock (NTAP)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "08/18/23",
+      "ndt": "08/18/23",
+      "amt": "$1,001-$15,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "IRA",
+      "ast": "NetApp, Inc. Stock (NTAP)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "08/18/23",
+      "ndt": "08/18/23",
+      "amt": "$1,001-$15,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "NetApp, Inc. Stock (NTAP)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "08/17/23",
+      "ndt": "08/17/23",
+      "amt": "$1,001-$15,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "IRA SP",
+      "ast": "NetApp, Inc. Stock (NTAP)",
+      "code": "ST",
+      "typ": "P",
+      "dt": "08/18/23",
+      "ndt": "08/18/23",
+      "amt": "$1,501-$50,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

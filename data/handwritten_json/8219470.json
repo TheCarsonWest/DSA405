@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "Synchrony Bank 4.9%",
+      "code": "",
+      "typ": "S",
+      "dt": "02/05/2015",
+      "ndt": "03/07/15",
+      "amt": "$15,001- $50,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

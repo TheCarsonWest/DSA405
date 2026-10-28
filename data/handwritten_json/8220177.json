@@ -1,0 +1,43 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "Mega Corp. Common Stock",
+      "code": "",
+      "typ": "P",
+      "dt": "02/05/20",
+      "ndt": "03/05/20",
+      "amt": "$1,001-$15,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": "Example Mega Corp. Common Stock"
+    },
+    {
+      "own": "SP",
+      "ast": "Nvidia Corporation (NVDA)",
+      "code": "",
+      "typ": "S",
+      "dt": "01/1/24",
+      "ndt": "01/1/24",
+      "amt": "$1,001-$15,000",
+      "cg": false,
+      "stat": "",
+      "sub": "IRA",
+      "desc": "NVIDIA Corp. Inc. Stock\nIRA"
+    },
+    {
+      "own": "SP",
+      "ast": "Not App.",
+      "code": "",
+      "typ": "S",
+      "dt": "01/1/24",
+      "ndt": "01/1/24",
+      "amt": "$1,001-$15,000",
+      "cg": false,
+      "stat": "",
+      "sub": "IRA",
+      "desc": "Not App. Inc. Stock\nIRA Not App. Inc. Stock"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "American Express Bond 07-01-2025",
+      "code": "",
+      "typ": "S",
+      "dt": "02/05/20",
+      "ndt": "03/07/20",
+      "amt": "$15,001-$50,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": "Example: Mega Corp. Common Stock"
+    }
+  ]
+}

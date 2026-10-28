@@ -1,0 +1,95 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "RH",
+      "code": "ST",
+      "typ": "S",
+      "dt": "12/17/2025",
+      "ndt": "1/9/2026",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "Chipotle Mexican Grill",
+      "code": "ST",
+      "typ": "S",
+      "dt": "12/17/2025",
+      "ndt": "1/9/2026",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "Adobe Inc",
+      "code": "ST",
+      "typ": "S",
+      "dt": "12/17/2025",
+      "ndt": "1/9/2026",
+      "amt": "$100,001 - $250,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "Paycom Software Inc",
+      "code": "ST",
+      "typ": "S",
+      "dt": "12/17/2025",
+      "ndt": "1/9/2026",
+      "amt": "$1,001 - $15,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "Hims & Hers Health Inc",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "12/17/2025",
+      "ndt": "1/9/2026",
+      "amt": "$100,001 - $250,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "Trade Desk Inc",
+      "code": "ST",
+      "typ": "S (partial)",
+      "dt": "12/17/2025",
+      "ndt": "1/9/2026",
+      "amt": "$100,001 - $250,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "US Treasury Bill 26U S T Bill Due 1/22/26",
+      "code": "ST",
+      "typ": "S",
+      "dt": "12/8/2025",
+      "ndt": "11/10/2025",
+      "amt": "$1,000,001 - $5,000,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

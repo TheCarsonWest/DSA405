@@ -1,0 +1,82 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Bridge Builder Core Bond @ 8.75",
+      "code": "",
+      "typ": "P",
+      "dt": "04/16/24",
+      "ndt": "05/09/24",
+      "amt": "$1,000-$15,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Bridge Builder Large Growth @24.15",
+      "code": "",
+      "typ": "S",
+      "dt": "04/16/24",
+      "ndt": "05/09/24",
+      "amt": "$1,000-$15,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Vng FTSE Dev Mkt @ 48.8502",
+      "code": "",
+      "typ": "S",
+      "dt": "04/16/24",
+      "ndt": "05/09/24",
+      "amt": "$1,000-$15,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Ish Core S&P 500 @ 517.6898",
+      "code": "",
+      "typ": "S",
+      "dt": "04/16/24",
+      "ndt": "05/09/24",
+      "amt": "$1,000-$15,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Ish RS MD-C ETF @ 81.24",
+      "code": "",
+      "typ": "S",
+      "dt": "04/16/24",
+      "ndt": "05/09/24",
+      "amt": "$1,000-$15,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "",
+      "ast": "Vng Growth Index @ 344.33",
+      "code": "",
+      "typ": "P",
+      "dt": "04/16/24",
+      "ndt": "05/09/24",
+      "amt": "$1,000-$15,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

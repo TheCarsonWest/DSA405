@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Weldos Holdings, Inc.",
+      "code": "JT",
+      "typ": "S",
+      "dt": "10/07/25",
+      "ndt": "10/14/25",
+      "amt": "$15,001-$50,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

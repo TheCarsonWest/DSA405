@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "Putnam County Fla Sch Dist",
+      "code": "",
+      "typ": "S",
+      "dt": "08/09/23",
+      "ndt": "09/07/23",
+      "amt": "$15,001-$50,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "Fort Dodge IA GO Corp Purp Bds",
+      "code": "",
+      "typ": "P",
+      "dt": "08/16/23",
+      "ndt": "",
+      "amt": "$100,001-$250,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

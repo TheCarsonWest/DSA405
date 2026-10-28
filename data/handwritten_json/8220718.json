@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "Redwood Area Schl M 5% Gtd 2/1/2030",
+      "code": "",
+      "typ": "S",
+      "dt": "12/05/24",
+      "ndt": "12/09/24",
+      "amt": "$15,001 - $50,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "Johnson City TN 5% due 6/1/2031",
+      "code": "",
+      "typ": "S",
+      "dt": "12/05/24",
+      "ndt": "12/09/24",
+      "amt": "$100,001 - $250,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

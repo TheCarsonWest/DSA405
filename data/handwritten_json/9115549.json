@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Carter Baldwin",
+      "code": "ST",
+      "typ": "S",
+      "dt": "02/05/24",
+      "ndt": "03/07/24",
+      "amt": "$15,001-$50,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

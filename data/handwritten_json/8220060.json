@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Nvidia Corp (NVDA)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "11/29/22",
+      "ndt": "11/30/22",
+      "amt": "$15,001-$50,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "",
+      "ast": "Franklin Cnty KY Sch Dist Fin @ 99.82434 Due 2/1/41 04.000% Yield 4.014% to Maturity",
+      "code": "JT",
+      "typ": "P",
+      "dt": "06/20/24",
+      "ndt": "07/10/24",
+      "amt": "$15,001-$50,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

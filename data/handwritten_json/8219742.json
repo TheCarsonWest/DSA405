@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "Example Mega Corp. Common Stock",
+      "code": "ST",
+      "typ": "P",
+      "dt": "05/24/23",
+      "ndt": "05/24/23",
+      "amt": "$1,001-$15,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "SP",
+      "ast": "Golden Trust Fund, LLC",
+      "code": "JT",
+      "typ": "P",
+      "dt": "05/24/23",
+      "ndt": "05/24/23",
+      "amt": "$500,001-1,000,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

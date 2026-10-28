@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "US Treas.",
+      "code": "ST",
+      "typ": "S",
+      "dt": "02/05/20",
+      "ndt": "03/07/20",
+      "amt": "$500,001-$1,000,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

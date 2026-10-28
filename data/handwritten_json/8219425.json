@@ -1,0 +1,56 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "New York NY",
+      "code": "ST",
+      "typ": "S",
+      "dt": "02/02/23",
+      "ndt": "03/07/23",
+      "amt": "$100,001-$250,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "DORT FINL CREDIT 4.4%",
+      "code": "ST",
+      "typ": "S",
+      "dt": "02/03/23",
+      "ndt": "",
+      "amt": "$100,001-$250,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "Connecticut St 3.31%",
+      "code": "ST",
+      "typ": "S",
+      "dt": "02/23/23",
+      "ndt": "",
+      "amt": "$100,001-$250,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    },
+    {
+      "own": "JT",
+      "ast": "UNIV WA 2.211% 27 PUB EDUC",
+      "code": "ST",
+      "typ": "S",
+      "dt": "02/23/23",
+      "ndt": "",
+      "amt": "$15,001-$50,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": ""
+    }
+  ]
+}

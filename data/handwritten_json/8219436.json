@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "own": "JT",
+      "ast": "New York Community Bancorp, Inc. Stock (NYCB)",
+      "code": "ST",
+      "typ": "S",
+      "dt": "03/17/23",
+      "ndt": "03/17/23",
+      "amt": "$1,001-$15,000",
+      "cg": false,
+      "stat": "",
+      "sub": "",
+      "desc": "Example: Mega Corp. Common Stock"
+    }
+  ]
+}
