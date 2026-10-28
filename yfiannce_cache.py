@@ -13,7 +13,7 @@ warnings.filterwarnings('ignore', module='yfinance')
 
 # File configuration
 FILE_PATH = './data/scrape_dates.csv'
-REQUESTS_PER_MINUTE = 30
+REQUESTS_PER_MINUTE = 60
 SLEEP_TIME = 60.0 / REQUESTS_PER_MINUTE  # 1.2 seconds per request
 
 def main():
@@ -45,9 +45,13 @@ def main():
         ticker = str(row[ticker_col]).strip()
         date_str = str(row[date_col]).strip()
 
-        # Calculate the next date because yfinance end dates are exclusive
+        # Calculate a date window instead of a single day
         try:
             current_date = pd.to_datetime(date_str)
+            # Look back 10 days to guarantee we catch the previous market day 
+            # even through long holiday weekends or unexpected market closures.
+            start_date_str = (current_date - timedelta(days=10)).strftime('%Y-%m-%d')
+            # End date is exclusive in yfinance, so we still add 1 day
             next_date_str = (current_date + timedelta(days=1)).strftime('%Y-%m-%d')
         except Exception as e:
             print(f"[{index}] Invalid date format '{date_str}'. Skipping...")
@@ -62,19 +66,26 @@ def main():
         # 5. Retry logic (up to 3 times)
         for attempt in range(3):
             try:
-                # Fetch data for the specific day
+                # Fetch data for the window (cost is the same as a single-day request)
                 stock = yf.Ticker(ticker)
-                hist = stock.history(start=date_str, end=next_date_str)
+                hist = stock.history(start=start_date_str, end=next_date_str)
 
                 if not hist.empty and 'High' in hist.columns:
-                    # Extract the Daily High
-                    high_price = hist['High'].iloc[0]
+                    # Extract the Daily High from the LAST available day in the window
+                    high_price = hist['High'].iloc[-1]
+                    actual_date_used = hist.index[-1].strftime('%Y-%m-%d')
+                    
                     df.at[index, 'price'] = round(float(high_price), 4)
-                    print(f"Success: {high_price}")
+                    
+                    # Print a special message if we had to fall back to a previous date
+                    if actual_date_used != date_str:
+                        print(f"Success: {round(float(high_price), 4)} (Non-market day. Used previous market date: {actual_date_used})")
+                    else:
+                        print(f"Success: {round(float(high_price), 4)}")
                 else:
-                    # No data available for this day (weekend, holiday, invalid ticker, etc.)
+                    # No data available in the last 10 days (e.g. invalid ticker, pre-IPO)
                     df.at[index, 'price'] = np.nan
-                    print("No data (Weekend/Holiday?) -> NaN")
+                    print("No data (Invalid Ticker or Pre-IPO?) -> NaN")
                 
                 success = True
                 
