@@ -13,32 +13,9 @@ There is a subset of 56 representitves that have hand delivered, and occasionall
 There are 5 duplicate values in the directory. I kept them because I'm not sure what to do with them.
 
 
-# How this whole thing is going to work
-### All digital PTR records:
-We get the inital filing date from the XML/CSV, rather than trying to read it from the PDF
-Extract all tables using pdf plumber
-#### Cleaning pdf plumber rows:
-- FOrmatting is inconsistence across rows, so just combine entire rows into a single string
-- Headers look like
-` [['ID', 'Owner', 'Asset', 'Transaction\nType', 'Date', 'Notification\nDate', 'Amount', 'Cap.\nGains >\n$200?'],`
-- Get rid of rows full of blanks and Nones
-- Look just for the rows with [ST], denoting a common stock purchase
-- All within parenthese can be the full name of a stock/financial investment
-    - (?<=\()[^)]+(?=\))
-- All text within parentheses is a stock ticker
-- Look for standalone "P" or "S" or "E" (purchase sale exchange)
-- Investment names that are multiple lines long are quite elusive
-    - They might even be able to go across pages
-    - Sometimes they format to the end of the line, sometimes they format with a \n right after
-- Text within brackets is an abbreivation of the asset type codes
-- Finding dollar binning:
-    - Look for the numbers (and commas within) after dollar signs
-- Dates:
-    - All Dates are MM/DD/YYYY
-    - Easy to read those, there should be two dates that can be the same, take both of them, make the earlier one "date of purchase" and the later one "date of notification"
 #### Nevermind, no matter what the data is too jumbled because politicians are sleezy
 NEW PLAN: Give an LLM the data and call it a day
-We are going to use Gemini Flash Lite 3.5 to check all PTR reports. It has PDF capabilities, and once I am sure that it 
+We are going to use Gemini Flash Lite 3.5 to check all PTR reports. 
 Prompt:
 ```
 Your task is to parse a raw OCR text dump or table from a Congressional Periodic Transaction Report (PTR) and convert every transaction row into a strict JSON format.

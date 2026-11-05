@@ -3,6 +3,7 @@ import time
 import warnings
 import pandas as pd
 import numpy as np
+import requests
 import yfinance as yf
 from datetime import timedelta
 
@@ -15,6 +16,10 @@ warnings.filterwarnings('ignore', module='yfinance')
 FILE_PATH = './data/scrape_dates.csv'
 REQUESTS_PER_MINUTE = 60
 SLEEP_TIME = 60.0 / REQUESTS_PER_MINUTE  # 1.2 seconds per request
+
+# Identifying
+session = requests.Session()
+session.headers['User-Agent'] = "DSA405-student-coursework (NC State; teaching exercise)"
 
 def main():
     # 1. Verify the file exists
@@ -67,7 +72,7 @@ def main():
         for attempt in range(3):
             try:
                 # Fetch data for the window (cost is the same as a single-day request)
-                stock = yf.Ticker(ticker)
+                stock = yf.Ticker(ticker, session = session)
                 hist = stock.history(start=start_date_str, end=next_date_str)
 
                 if not hist.empty and 'High' in hist.columns:
