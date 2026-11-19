@@ -88,3 +88,43 @@ Ok, an 81 page pdf input is in fact a lot for 3.5 Flash Lite, in fact its 45,000
 
 #### Results
 It thought for 5 minutes and used 65,000 tokens. It still couldnt get me a full answer. I am going to need to look back to see if the longer PTRs fully match.
+
+## Downloading and parsing PTR documents
+
+`data/clerk_directories/` contains the Office of the Clerk year-specific
+`<Year>FD.xml` files used to discover PTR documents. Download PDFs from all XML
+files in that directory, or from one XML file:
+
+```sh
+python download_pdfs.py
+python download_pdfs.py --input data/clerk_directories/2024FD.xml
+python download_pdfs.py --input /path/to/clerk/xml --overwrite
+```
+
+The downloader includes only members whose `<FilingType>` is `P`.
+
+Documents with IDs below `20000000` are saved under
+`data/pdf/handwritten_ptr/`; other IDs go under `data/pdf/digital_ptr/`.
+Existing PDFs are skipped by default.
+
+Parse PDFs from one or more directories, or from a text file containing one PDF
+path per line. Relative paths in a path list are resolved relative to that list:
+
+```sh
+python ptr_pdf_to_json.py data/pdf/handwritten_ptr data/pdf/digital_ptr
+python ptr_pdf_to_json.py --file-list data/all_json_paths.txt --max-documents 20
+python ptr_pdf_to_json.py data/pdf/digital_ptr --overwrite
+python ptr_pdf_to_json.py data/pdf/digital_ptr --retry-failed
+```
+
+Set `GEMINI_API_KEY` before parsing. JSON files are written to `data/json/`;
+existing files and previously permanent failures are skipped by default.
+`--overwrite` replaces existing JSON, `--retry-failed` retries entries from
+`data/failed_pdfs.csv`, and `--max-documents` limits attempted documents for
+that run. Per-input-directory cumulative parsing statistics are cached in
+`data/json/.parse_stats/`. After at least five reference documents, a warning
+is recorded when a PDF is at least 1.5 times the median PDF size but its JSON to
+PDF size ratio is below one quarter of the historical median ratio.
+
+Both scripts continue to report progress in the terminal and also append it to
+their respective log files in `data/log/`.

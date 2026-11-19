@@ -1,116 +1,198 @@
-import os
+import argparse
 import time
+import tempfile
 import warnings
+from datetime import timedelta
+from pathlib import Path
+
 import pandas as pd
-import numpy as np
 import requests
 import yfinance as yf
-from datetime import timedelta
 
-# --- Suppress Pandas deprecation warnings from yfinance ---
-warnings.simplefilter(action='ignore', category=FutureWarning)
-warnings.filterwarnings('ignore', message=".*inplace keyword.*")
-warnings.filterwarnings('ignore', module='yfinance')
 
-# File configuration
-FILE_PATH = './data/scrape_dates.csv'
+ROOT = Path(__file__).resolve().parent
+INPUT_PATH = ROOT / "data" / "scrape_dates.csv"
+OUTPUT_PATH = ROOT / "data" / "scrape_dates_prices.csv"
 REQUESTS_PER_MINUTE = 60
-SLEEP_TIME = 60.0 / REQUESTS_PER_MINUTE  # 1.2 seconds per request
+SLEEP_TIME = 60.0 / REQUESTS_PER_MINUTE
+RETRY_COUNT = 3
 
-# Identifying
+
+warnings.simplefilter(action="ignore", category=FutureWarning)
+warnings.filterwarnings("ignore", message=".*inplace keyword.*")
+warnings.filterwarnings("ignore", module="yfinance")
+
 session = requests.Session()
-session.headers['User-Agent'] = "DSA405-student-coursework (NC State; teaching exercise)"
+session.headers["User-Agent"] = (
+    "DSA405-student-coursework (NC State; teaching exercise)"
+)
 
-def main():
-    # 1. Verify the file exists
-    if not os.path.exists(FILE_PATH):
-        print(f"Error: The file {FILE_PATH} does not exist.")
-        return
 
-    # 2. Read the CSV file
-    df = pd.read_csv(FILE_PATH)
+def write_cache(rows: dict[tuple[str, str], str]) -> None:
+    OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
+    frame = pd.DataFrame(
+        [
+            {"ticker": ticker, "date": date, "price": price}
+            for (ticker, date), price in sorted(rows.items())
+        ],
+        columns=["ticker", "date", "price"],
+    )
+    temporary_path: Path | None = None
+    try:
+        with tempfile.NamedTemporaryFile(
+            mode="w",
+            encoding="utf-8",
+            newline="",
+            dir=OUTPUT_PATH.parent,
+            delete=False,
+        ) as temporary_file:
+            temporary_path = Path(temporary_file.name)
+            frame.to_csv(temporary_file, index=False, na_rep="NaN")
+        temporary_path.replace(OUTPUT_PATH)
+    finally:
+        if temporary_path is not None and temporary_path.exists():
+            temporary_path.unlink()
 
-    # 3. Add the 'price' column if it doesn't exist
-    if 'price' not in df.columns:
-        df['price'] = np.nan
 
-    # Identify the first column (Ticker) and second column (Date)
-    ticker_col = df.columns[0]
-    date_col = df.columns[1]
+def append_cache_entry(ticker: str, date: str, price: str) -> None:
+    OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
+    pd.DataFrame([{"ticker": ticker, "date": date, "price": price}]).to_csv(
+        OUTPUT_PATH,
+        mode="a",
+        header=not OUTPUT_PATH.exists(),
+        index=False,
+        na_rep="NaN",
+    )
 
-    print(f"Starting scrape. Using '{ticker_col}' for tickers and '{date_col}' for dates.")
 
-    # 4. Iterate over the rows
-    for index, row in df.iterrows():
-        # Check if the price is already scraped/cached
-        current_price = row['price']
-        if pd.notna(current_price) and str(current_price).strip().lower() != 'nan':
-            continue
+def load_requests() -> list[tuple[str, str]]:
+    if not INPUT_PATH.is_file():
+        raise FileNotFoundError(f"Ticker/date request file not found: {INPUT_PATH}")
+    requests_df = pd.read_csv(
+        INPUT_PATH,
+        dtype={"ticker": str, "date": str},
+        keep_default_na=False,
+    )
+    if not {"ticker", "date"}.issubset(requests_df.columns):
+        raise ValueError(f"{INPUT_PATH} must contain ticker and date columns.")
 
-        ticker = str(row[ticker_col]).strip()
-        date_str = str(row[date_col]).strip()
+    requests_df["ticker"] = requests_df["ticker"].str.strip()
+    parsed_dates = pd.to_datetime(requests_df["date"], errors="coerce")
+    invalid_rows = requests_df["ticker"].eq("") | parsed_dates.isna()
+    if invalid_rows.any():
+        raise ValueError(
+            "Invalid ticker/date request rows: "
+            f"{requests_df.loc[invalid_rows, ['ticker', 'date']].head().to_dict('records')}"
+        )
+    requests_df["date"] = parsed_dates.dt.normalize().dt.strftime("%Y-%m-%d")
+    return list(
+        requests_df.drop_duplicates(["ticker", "date"])
+        .sort_values(["ticker", "date"])[["ticker", "date"]]
+        .itertuples(index=False, name=None)
+    )
 
-        # Calculate a date window instead of a single day
+
+def load_cached_prices() -> dict[tuple[str, str], str]:
+    if not OUTPUT_PATH.exists():
+        return {}
+    cached_df = pd.read_csv(
+        OUTPUT_PATH,
+        dtype={"ticker": str, "date": str, "price": str},
+        keep_default_na=False,
+    )
+    if not {"ticker", "date", "price"}.issubset(cached_df.columns):
+        raise ValueError(f"{OUTPUT_PATH} must contain ticker, date, and price columns.")
+
+    cached_df["ticker"] = cached_df["ticker"].str.strip()
+    parsed_dates = pd.to_datetime(cached_df["date"], errors="coerce")
+    if parsed_dates.isna().any():
+        raise ValueError(f"{OUTPUT_PATH} contains invalid dates.")
+    cached_df["date"] = parsed_dates.dt.normalize().dt.strftime("%Y-%m-%d")
+    cached_df["price"] = cached_df["price"].str.strip()
+    cached_df = cached_df.drop_duplicates(["ticker", "date"], keep="last")
+    return {
+        (row.ticker, row.date): row.price
+        for row in cached_df.itertuples(index=False)
+    }
+
+
+def fetch_high_price(ticker: str, date: str) -> tuple[str, str]:
+    requested_date = pd.Timestamp(date)
+    start_date = (requested_date - timedelta(days=10)).strftime("%Y-%m-%d")
+    end_date = (requested_date + timedelta(days=1)).strftime("%Y-%m-%d")
+
+    for attempt in range(1, RETRY_COUNT + 1):
         try:
-            current_date = pd.to_datetime(date_str)
-            # Look back 10 days to guarantee we catch the previous market day 
-            # even through long holiday weekends or unexpected market closures.
-            start_date_str = (current_date - timedelta(days=10)).strftime('%Y-%m-%d')
-            # End date is exclusive in yfinance, so we still add 1 day
-            next_date_str = (current_date + timedelta(days=1)).strftime('%Y-%m-%d')
-        except Exception as e:
-            print(f"[{index}] Invalid date format '{date_str}'. Skipping...")
-            df.at[index, 'price'] = np.nan
-            df.to_csv(FILE_PATH, index=False)
+            stock = yf.Ticker(ticker, session=session)
+            history = stock.history(start=start_date, end=end_date)
+            if history.empty or "High" not in history.columns:
+                print("No data (invalid ticker or no historical price) -> NaN")
+                return "NaN", ""
+
+            high_price = history["High"].iloc[-1]
+            actual_date = history.index[-1].strftime("%Y-%m-%d")
+            if pd.isna(high_price):
+                print("No daily high available -> NaN")
+                return "NaN", actual_date
+            price = str(round(float(high_price), 4))
+            return price, actual_date
+        except Exception as error:
+            print(f"\n   Attempt {attempt}/{RETRY_COUNT} failed: {error}", end=" ")
+            if attempt < RETRY_COUNT:
+                time.sleep(SLEEP_TIME)
+
+    return "NaN", ""
+
+
+def main() -> None:
+    parser = argparse.ArgumentParser(
+        description="Fetch and cache daily high prices for requested ticker/date pairs."
+    )
+    parser.add_argument(
+        "--retry-failed",
+        action="store_true",
+        help="Retry cached ticker/date pairs whose price is NaN.",
+    )
+    args = parser.parse_args()
+
+    requests_to_fetch = load_requests()
+    cached_prices = load_cached_prices()
+    if OUTPUT_PATH.exists():
+        # Compact any interrupted/retried append records before this run.
+        write_cache(cached_prices)
+
+    print(
+        f"Starting scrape for {len(requests_to_fetch):,} unique ticker/date pairs. "
+        f"Prices will be saved to {OUTPUT_PATH}."
+    )
+    for index, (ticker, date) in enumerate(requests_to_fetch, start=1):
+        key = (ticker, date)
+        current_price = cached_prices.get(key, "")
+        is_failed_cache = current_price.strip().lower() == "nan"
+        if current_price and not (args.retry_failed and is_failed_cache):
             continue
 
-        print(f"[{index}] Fetching High price for {ticker} on {date_str}...", end=" ")
+        print(
+            f"[{index}/{len(requests_to_fetch)}] Fetching High for {ticker} on {date}...",
+            end=" ",
+        )
+        price, actual_date = fetch_high_price(ticker, date)
+        cached_prices[key] = price
+        append_cache_entry(ticker, date, price)
 
-        success = False
-        
-        # 5. Retry logic (up to 3 times)
-        for attempt in range(3):
-            try:
-                # Fetch data for the window (cost is the same as a single-day request)
-                stock = yf.Ticker(ticker, session = session)
-                hist = stock.history(start=start_date_str, end=next_date_str)
+        if price == "NaN":
+            print("No price cached.")
+        elif actual_date != date:
+            print(f"Success: {price} (used previous market date: {actual_date})")
+        else:
+            print(f"Success: {price}")
 
-                if not hist.empty and 'High' in hist.columns:
-                    # Extract the Daily High from the LAST available day in the window
-                    high_price = hist['High'].iloc[-1]
-                    actual_date_used = hist.index[-1].strftime('%Y-%m-%d')
-                    
-                    df.at[index, 'price'] = round(float(high_price), 4)
-                    
-                    # Print a special message if we had to fall back to a previous date
-                    if actual_date_used != date_str:
-                        print(f"Success: {round(float(high_price), 4)} (Non-market day. Used previous market date: {actual_date_used})")
-                    else:
-                        print(f"Success: {round(float(high_price), 4)}")
-                else:
-                    # No data available in the last 10 days (e.g. invalid ticker, pre-IPO)
-                    df.at[index, 'price'] = np.nan
-                    print("No data (Invalid Ticker or Pre-IPO?) -> NaN")
-                
-                success = True
-                
-                # Respect rate limits after a successful API call
-                time.sleep(SLEEP_TIME)
-                break  # Exit the retry loop
+        time.sleep(SLEEP_TIME)
 
-            except Exception as e:
-                print(f"\n   Attempt {attempt + 1} failed: {e}", end=" ")
-                time.sleep(SLEEP_TIME)  # Respect rate limit even on errors to avoid being blocked
-                
-        # 6. If it failed 3 times, mark as NaN
-        if not success:
-            print("Failed 3 times -> NaN")
-            df.at[index, 'price'] = np.nan
+    # Keep one row per key even when a previous run was interrupted mid-retry.
+    write_cache(cached_prices)
+    print(f"\nScraping complete. Cached prices: {OUTPUT_PATH}")
 
-        # 7. Write to CSV dynamically (updates cache after every row)
-        df.to_csv(FILE_PATH, index=False)
-
-    print("\nScraping complete!")
 
 if __name__ == "__main__":
     main()
