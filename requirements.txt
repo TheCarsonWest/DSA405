@@ -1,0 +1,8 @@
+pandas
+requests
+yfinance
+matplotlib
+numpy
+google-genai
+ipykernel
+jupyterlab
